@@ -1,0 +1,219 @@
+---
+layout: default
+title: Buyers
+description: Buying services on HostJane
+nav_order: 2
+has_children: true
+permalink: /buyers/
+---
+
+## Buyers FAQ
+
+This section provides information for buying services on HostJane marketplace.
+
+1. TOC
+{:toc}
+
+# How do I buy a service?
+
+There are 3 ways to do business on HostJane.
+
+- [x] Purchase a listing (see below)
+- [x] Request a free quote
+- [x] Accept a custom offer from the Seller
+- [x] Purchasing a Listing
+
+1. Go to the listing or online lesson page for the interested service. Select from the available licensing and confidentiality options.
+
+![](/assets/example-listing.png)
+
+2. Click Continue
+
+![](/assets/job-details.png)
+
+3. Enter your job title and details in 1-step checkout, select a payment method and click 'Confirm and Pay'. 
+
+![](/assets/payment.png)
+
+Any money paid is held by HostJane until the Buyer has delivered work as per the Purchase Protection guarantee.
+Your workspace with chat and board between you and your seller will be created after payment.
+
+# Don't pay outside HostJane
+
+Under 2.1.5, 2.1.6 and 2.1.7 of HostJane's Marketplace Rules, it is against our policies to offer or accept payment outside of HostJane.
+
+Buyers disqualify the Purchase Protection guarantee by paying in part for Services outside of HostJane.
+
+You will be ineligible for a money-back refund. 
+
+Your account can be suspended or closed.
+
+# Payment Protection Guarantee
+
+We want HostJane to be a safe and reliable platform for work. To ensure that the marketplace upholds its integrity, we make a promise to all buyers:
+As part of 2.1.2 of our Marketplace terms, you will receive your full money-back paid on a Service less the non-refundable Handling Fee:
+If Seller fails to send you a work delivery within the time they said they would on their listing page;
+If what the Seller sends you is unacceptable or poor quality
+We take our Purchase Protection policy seriously to ensure it is not abused by anyone.
+Read the full Marketplace Rules
+
+# What are the 8 order statuses?
+
+Based on the HostJane Roadmap, Orders on HostJane cycle through up to 8 order statuses from the time the Order starts to the time the Seller delivers.
+When you place an order on HostJane, via purchasing a listing or custom order, the HostJane WorkSpace will open with the first Order Status: Waiting for Buyer.
+
+### Waiting for Buyer
+
+The Buyer must confirm the job requirements.
+
+### Waiting for Seller
+
+The Seller must accept or decline the order within 24 hours.
+
+### In progress
+
+The Seller is working on the Order or arranging to give the Online Lesson.
+
+### Delivered
+
+The task has been completed and Work Preview sent to Buyer. Or, the online lesson has been held.
+
+### Waiting for final delivery
+
+**The Buyer:**
+
+- [x] Approved the Work Preview
+- [x] Released earnings to the Seller
+- [x] Is waiting for the Final Work which must be delivered in 24 hours*
+
+*Or the Buyer receives a full refund.
+
+**The Seller:**
+
+- [x] Must deliver unrestricted or unabridged Final Work within 24 hours*
+
+*Or the order refunds to Buyer.
+
+If no files need to be sent for example with an online lesson, the Seller needs to close the Order by clicking 'Already sent final work'.
+
+### Completed
+
+The Buyer has approved the Work, left a flame rating and optional feedback. The 5 day clearance period has started for Seller's net earnings.
+
+### Disputed
+
+The Buyer and Seller must use the Dispute Center to resolve an issue.
+
+### Paused
+
+The Buyer and Seller have more than 1 order and one of them is in dispute. The other order(s) are placed into Paused status until the Dispute is resolved.
+
+# What is a Zoom Meeting ID?
+
+The Zoom meeting ID is a 10- or 11- digit number for an instant or scheduled video call meeting on the Zoom platform.
+Online teachers offering Zoom as a communication tool will send you a free Zoom meeting ID to hold the lesson.
+Download Zoom to your phone or computer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvE1cShPlds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+After you have downloaded Zoom, you will need to enter this unique meeting ID or open the ID link to start the video call when your lesson is scheduled.
+You must have deposited funds with a verified payment method before your online tutor sends you the Zoom meeting ID.
+Learn more about The HostJane Workspace
+
+# Get Free Quotes
+
+There are 3 ways to get a quote from a Seller.
+1. Go to their listing page and click 'Free Quote'
+
+![](/assets/quote1.png)
+
+Then follow on-screen instructions to send your request
+
+![](/assets/quote2.png)
+
+You will see your request in your messages with the Seller so they can respond to you directly usually by making you a Custom Offer
+
+![](/assets/cr.png)
+
+2. Click "Request quote' on the Seller's listing page which will also open the above form.
+
+![](/assets/quote3.png)
+
+3. Ask a Seller for a quote in chat by clicking 'Message' on their listing page. The Seller can then send you a Custom Offer.
+
+![](/assets/chat.png)
+
+# Accepting an Offer
+
+When you are made an offer, it will appear in your messages.
+
+![](/assets/offer-1.png)
+
+To accept the offer, click 'Order now', enter a job title and provide details for what you want done.
+Confirm any licensing and confidentiality options in 1-step checkout.
+
+![](/assets/send-your-job.png)
+
+Even if you have agreed the offer in chat, it's important to describe the custom job details in 1-step checkout so there is no confusion. Your custom job will be known by the title you write.
+
+![](/assets/payment-method.png)
+
+Click 'Confirm and Pay' to accept the custom offer so your Seller can start work.
+After you have paid, a workspace with chat and board will be created between you and the Seller to collaborate on your custom job.
+
+# Changing my feedback / review
+
+To ensure the integrity of the feedback system, Buyers cannot edit the flame rating or any written comments left in orders after feedback has been sent.
+
+![](/assets/review.png)
+
+Feedback is permanent and cannot be changed or hidden.
+
+# Sending Tips
+
+You can send tips to your Seller through the Messages system at any time. Look for the dollar button in messages.
+
+![](/assets/tip.png)
+
+Follow the easy instructions in the pop-up modal to send your tip. 
+
+![](/assets/tip-2.png)
+
+Handling fees are not payable on tips. 
+
+# What is the Handling Fee?
+
+The Handling Fee is a non-refundable administrative and management fee paid by all Buyers when ordering any Seller's listing or custom order when Buyer places funds on hold with Site.
+
+The current fee is $1.99 (USD) per order.
+
+Handling Fees are not charged on Tips.
+
+This includes all credit card processing costs between Buyers and Sellers, providing 24/7, 365 days customer service, marketing, hosting, all data costs and storage for workspaces, and other associated business overheads.
+
+HostJane absorbs the costs of bank charges, credit card processing fees and PayPal fees for Sellers receiving an order.
+
+This is not part of the Purchase Protection policy which only covers the costs of the Seller's service.
+
+Learn more about HostJane's Marketplace Rules
+
+# Contacting Sellers
+
+You can contact any Seller who has an active Listing or Studio on HostJane.
+
+Use the message button on their listing page or the Request quote button on their Studio
+
+Learn more about how to request free quotes
+
+We recommend you always contact a Seller before ordering their listing
+
+# Seller Response Rates
+
+On HostJane, Sellers are not penalized for taking time to reply, even though we encourage all Sellers who want the business to be prompt with replies/
+There are 2 ways you find out a Seller's response time. The first is on the Seller's Listing page in the Meet the Seller box.
+
+![](/assets/response-listing.png)
+
+The second is on the Seller's Studio page.
+
+![](/assets/studio-response.png)
