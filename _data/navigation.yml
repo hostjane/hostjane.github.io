@@ -1,7 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Introduction"
-    url: /introduction/
   - title: "About"
     url: /about/
+  - title: "Introduction"
+    url: /introduction/
+  children:
+  - title: "Seller"
+    url: /introduction/seller/
+  
