@@ -7,8 +7,6 @@ nav_order: 5
 permalink: /how-licensing-works/buyer-owns-rights-faq/
 ---
 
-## Buyer Owns Rights FAQ
-
 1. TOC
 {:toc}
 

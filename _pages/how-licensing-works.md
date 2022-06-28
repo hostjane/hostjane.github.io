@@ -2,7 +2,7 @@
 layout: default
 title: How Licensing Works
 description: Guides and FAQs for licensing services
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: /how-licensing-works/
 ---

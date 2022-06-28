@@ -2,7 +2,7 @@
 layout: default
 title: Sellers
 description: Selling services on HostJane
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /sellers/
 ---
@@ -34,7 +34,7 @@ You will need:
 - [x] Enter your details and verify your email
 - [x] Choose a secret question and answer
 
-![](/assets/sign-up.png.png)
+![](/assets/sign-up.png)
 
 After successfully registering, you will be returned to Listing Wizard to create your first listing
 
@@ -150,7 +150,7 @@ Hint: The Buyer usually choose Sellers to request quotes based on their listing 
 
 Your offer will then be sent to the Buyer for them to accept by paying or decline. You can withdraw your offer at any time and also decline jobs with no penalty.
 
-![](/assets/cr4.png.png)
+![](/assets/cr4.png)
 
 # How to add an hourly rate?
 
@@ -300,3 +300,17 @@ Other ways to promote your Listings:
 # Can I offer downloads?
 
 Yes, although you will need to send your buyers the download manually. As a marketplace focused on on-demand Work, we don't offer any automated way to sell downloads or API to check on downloaded software usage.
+
+# Issues with Buyer Revisions
+
+### A buyer keeps asking me to do revisions. What can I do?
+
+While we expect Sellers to offer at least 1 revision of their delivered Work Previews, HostJane cares that freelancers selling on our Marketplace are not being taken advantage of.
+
+If you believe that a buyer is asking more of you than they've paid for, or is trying to get free work from you, please contact us via the **Problem with order** link inside the order and we'll take a look and do our best to help you resolve an issue to your satisfaction.
+
+Under section 2.6.4 of our [Marketplace Terms](https://www.hostjane.com/legal/marketplace-terms/), any buyer attempting to procure free work from a Seller can be suspended for abuse.
+
+# Safeguarding against Buyer fraud
+
+HostJane protects you against fraudulent chargebacks. We require [3D-Secure Verification](https://stripe.com/docs/payments/3d-secure) on all transactions meaning all Buyers have to prove to the cardholder's bank they own the payment method to successfully make a payment. 

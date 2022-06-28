@@ -4,7 +4,7 @@ title: HostJane Roadmap
 parent: Getting Started
 description: The HostJane Roadmap for Buyers and Sellers
 nav_order: 2
-permalink: /getting-started/hostjane-roadmap/
+permalink: /buyers/hostjane-roadmap/
 ---
 
 # The HostJane Roadmap

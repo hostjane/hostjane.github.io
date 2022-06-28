@@ -2,10 +2,13 @@
 layout: default
 title: Getting Started
 description: Getting started with HostJane
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /getting-started/
 ---
+
+1. TOC
+{:toc}
 
 # How we work remote
 
@@ -30,3 +33,141 @@ HostJane is a Swiss Army knife equipped with a powerful system of boards, lists 
 With HostJane’s boards, your project’s goals, tasks, plans and files can be faster organized and more relevantly connected together in one shared workspace. 
 
 Reach your work goals faster with a bird’s eye view of each milestone and audit trail.
+
+# Payment Protection Guarantee
+
+We want HostJane to be a safe and reliable platform for work. To ensure that the marketplace upholds its integrity, we make a promise to all buyers:
+
+As part of 2.1.2 of our [Marketplace terms](https://www.hostjane.com/legal/marketplace-terms/), you will receive your full money-back paid on a Service less the non-refundable Handling Fee:
+
+- [x] If Seller fails to send you a work delivery within the time they said they would on their listing page;
+- [x] If what the Seller sends you is unacceptable or poor quality
+
+We take our Purchase Protection policy seriously to ensure it is not abused by anyone.
+
+Read the full [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/)
+
+# Securing your account
+
+Two-factor authentication (2FA), also called two-step verification is an additional security layer HostJane can add to verify your account when you sign in.
+
+Enable two-factor by navigating to Settings > [Security](https://www.hostjane.com/marketplace/settings/security)
+
+![](/assets/2fa.png)
+
+If enabled, the next time you login, HostJane will send a code to your email to ask you to verify your login device.
+
+![](/assets/2fa-1.png)
+
+The code expires in 2 minutes, so you will need to have immediate access to your email to receive it.
+
+# Verifying your identity
+
+It's a good idea to verify your identity if you're a seller, to increase Buyer's trust in your service. Sometimes we'll ask you to verify your identity.
+Navigate to Listings Center and click Get verified to begin the process.
+
+![](/assets/block3.png)
+
+ To confirm your identity, you’ll need to submit a photo of your government ID. This could be a driver’s licence, passport, identity card or visa document.
+
+![](/assets/block4.png)
+
+We'll also ask you to confirm that the person in the Government ID is you by uploading a recent selfie of yourself.
+
+![](/assets/block5.png)
+
+
+# Taking a break
+
+You can only take a break and pause your listings if you do not have any active orders.
+
+1. To activate break mode, go to the listings center
+
+![](/assets/break-1.png)
+
+2. Click 'Take a break' above the listings panel
+
+
+![](/assets/break-2.png)
+
+3. Choose a reason and number of days you will be away - up to 25 days at a time.
+
+Take a break mode will automatically deactivate after the number of days you set.
+
+All your listings will be paused when take a break mode ends. You will need to manually resume each listing one by one. 
+
+# Blocking a user
+
+To block a user, either add their username to [blocked accounts](https://www.hostjane.com/marketplace/settings/blocked) in settings or block the user via the block link in Messages
+
+![](/assets/blocking-users.png)
+
+A Blocked user cannot:
+
+* Send you messages on HostJane
+* Send you tips
+* Purchase your services
+
+# How do I close or delete my account?
+
+Navigate to Settings > [Close account](https://www.hostjane.com/marketplace/settings/close) and complete the on-screen instructions.
+
+![](/assets/close.png)
+
+For audit and legal reasons, there is a *30-day waiting period* before your account and data is destroyed as per HostJane's [privacy policy](https://www.hostjane.com/legal/privacy/).
+
+#### During the 30-day waiting period:
+
+- [x] Any listings you created will be unavailable
+- [x] Your conversations will be inaccessible to users you've chatted to
+- [x] Your username will not be searchable
+
+Login anytime before the deletion date to restore your account.
+
+After the 30-day waiting period, your account (and any listings) will be **permanently removed** from the site and cannot be restored.
+New accounts cannot use your deleted username.
+
+# How does HostJane appear on my statement
+
+HostJane will appear as HOSTJANE or HOSTJANE.COM on your bank or credit card statement.
+
+![](/assets/example-statement.jpeg)
+
+# Payment Processing Fees
+
+All payment processing fees (including bank and credit card fees) associated with Buyer payments to sellers are settled by HostJane.
+
+# Site currency
+
+Unless otherwise stated, all prices, payments and payouts on HostJane are in U.S. dollars.
+
+# Bitcoin / Crypto-currency policy
+
+HostJane does not support payments or payouts in crypto or bitcoin.
+
+# How do refunds work?
+
+If you've been refunded by a Seller, the funds will be available as cleared funds in your account. Your HostJane balance will show these funds.
+
+You can withdraw the amount to your PayPal or bank account.
+
+Handling fees are not refundable.
+
+# Report copyright infringements
+
+Please contact us or submit a DMCA takedown request as provided in section #2 of the [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/) concerning copyright violation.
+
+Any filed notice of infringement must be sent to copyright at hostjane dot com and contain the following elements:
+
+1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+2. Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted words at a single site are covered by a single notification, a representative list of such works at that site;
+3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit HostJane to locate the material;
+4. Information reasonably sufficient to permit HostJane to contact You, such as an address, telephone number, and, if available, an email address;
+5. A statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, the copyright owner's agent, or the law;
+6. A statement that the information in the notification is accurate, and under penalty of perjury that You are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+# Anti-bullying policy
+
+Under section 19 of the [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/), HostJane strives to be a safe environment. We do not tolerate any form of discrimination, abuse or bullying anywhere on the Site.
+
+Please contact us if you are experiencing these problems or report the user so we can investigate directly.

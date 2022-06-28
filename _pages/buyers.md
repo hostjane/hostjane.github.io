@@ -2,7 +2,7 @@
 layout: default
 title: Buyers
 description: Buying services on HostJane
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /buyers/
 ---
@@ -217,3 +217,66 @@ There are 2 ways you find out a Seller's response time. The first is on the Sell
 The second is on the Seller's Studio page.
 
 ![](/assets/studio-response.png)
+
+# How to open a dispute?
+
+Every once in a while something will go wrong with an order. That's normal and often the result of a simple misunderstanding or human error. Our disputes team is here to help both buyers and sellers resolve differences and fairly resolve problems.
+
+Both Buyers and Sellers can open a dispute if either party is unsatisfied with the progress or outcome of an Order.
+
+There are 2 ways to open a dispute. The first is to click the **Problem with Order** link in the left-hand column inside the order you're having issues with.
+
+![](/assets/dispute-1.png)
+
+The second method is to navigate to Dashboard > [Disputes](https://www.hostjane.com/marketplace/disputes), and click the Open Dispute link which will provide a listing of recent orders with their current order status.
+
+![](/assets/dispute-2.png)
+
+When you first open the dispute, a new case is created. 
+
+![](/assets/dispute-3.png)
+
+Click *Open Dispute* to begin the process.
+
+# The 4 stages of Dispute Resolution
+
+After you have opened a dispute, HostJane's Dispute Resolution portal will be the only place you can communicate with the other user to resolve any issues
+
+- [x] Order and regular chat will be temporarily suspended
+- [x] You cannot place another order with the other user
+- [x] All other orders in progress will be temporarily suspended
+
+Both Buyers and Sellers can open disputes for different reasons. Below, we'll explain the process when a Buyer opens a dispute. We designed the dispute process to protect both parties until an agreement is reached.
+
+### Step 1: Buyer Complaint
+
+This is the Buyer's chance to say what has gone wrong with the order. We’ll email the Seller when a buyer opens a dispute. We'll also place a hold on all orders in progress between the Buyer and Seller until the disputed order is resolved.
+
+![](/assets/dispute-resolution.png)
+
+The Buyer can choose 1 of 7 reasons to submit a dispute.
+
+- [x] Request mutual cancellation
+- [x] Poor delivery / performance
+- [x] Unacceptable delivery
+- [x] Non-delivery
+- [x] Missed deadline
+- [x] Communication issue
+- [x] Other
+
+### Step 2: Seller Response
+
+The Seller will be asked to sign into their HostJane account to review the dispute and communicate their side of the story. Sellers will have 3 days to provide this information to the Buyer. We encourage Sellers to respond quickly to resolve the dispute quickly.
+If at any time the Buyer chooses to end the dispute, they can click Cancel Case and all holds will be removed from the account.
+
+### Step 3: HostJane Review
+
+HostJane's disputes team will be notified of the Dispute at this point. We will quickly review the information provided by Buyers and Sellers and then contact both parties to get more information is needed. It's important you respond to requests for more information by our disputes team.
+
+### Step 4: Outcome
+
+Within 3 days, HostJane will decide the outcome of the funds involved in the dispute. The losing party will be able to appeal the outcome, during which time a senior disputes team member will review the case again and initial outcome.
+
+# Safeguarding against seller fraud / scams
+
+HostJane holds payment for 5 days after an order completes and provides a tamper-proof review and disputes resolution system.
