@@ -7,7 +7,7 @@ nav_order: 2
 permalink: /vps-hosting/wordpress-setup/
 ---
 
-# WordPress Setup
+# 1-Click WordPress
 
 <span class="blue">Setup a WordPress application on your server. Run themes and plugins from the WP ecosystem. Multisite is not currently supported. For server features, refer to the WordPress FAQ.</span>
 
@@ -19,7 +19,8 @@ permalink: /vps-hosting/wordpress-setup/
 The first step is create an A-record at your domain registrar.
 This enables you to access your server in any browser at your web domain.
 
-Please note that it can take up to 72 hours for a domain to propagate throughout the internet to a server, although it usually happens much sooner.
+<span class="blue">Please note that it can take up to 72 hours for a domain to propagate throughout the internet to a server, although it usually happens much sooner.</span>
+
 We can’t set up your FREE SSL certificate until this step is completed.
 
 ## 2. Obtain your server’s details
@@ -58,19 +59,20 @@ Here is the next screen that will display:
 
 Your private and confidential server root password and IP address is in *Statistics*.
 
-Security Alert
+#### Security Alert
 
-Never disclose, email, or publish your password to anyone, including HostJane staff in support tickets. Our technicians have safe access inside secure datacenters if they need this.
+<span class="blue">Never disclose, email, or publish your password to anyone, including HostJane staff in support tickets. Our technicians have safe access inside secure datacenters if they need this.</span>
 
 Below is a example screenshot of the Application Information.
 
 | WordPress Server Details|
 |:-------|
 | To complete your WordPress installation follow these instructions: |
-| 1. log into the WP admin panel using the following credentials |
+| 1. Log into the WP admin panel using the following credentials |
 | `https://123.456.789.1/wp-admin` |
 | `User: JaneDoe` |
 | `Pass: 123456789` |
+| Point your domain name "A record" to 123.456.789.1 |
 
 In this example, the server link is: https://123.456.789.1/wp-admin/
 

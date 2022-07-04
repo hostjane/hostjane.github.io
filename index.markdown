@@ -28,7 +28,7 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 ## A Better Workspace
 
-HostJane is [how we work remote](https://www.hostjane.com/about/). To better assist people working together online, we created a work space with Kanban-style boards, lists, and cards, fitted inside a messaging app.
+<span class="blue">HostJane is [how we work remote](https://www.hostjane.com/about/). To better assist people working together online, we created a work space with Kanban-style boards, lists, and cards, fitted inside a messaging app.</span>
 
 ![](/assets/board-view.png)
 
@@ -38,7 +38,7 @@ See the state of every task and issue in your project with a remote freelancer, 
 
 ![](/assets/example-board.png)
 
-The [HostJane Roadmap](/getting-started/hostjane-roadmap) shows how you can reach better work outcomes when you sell or buy a service here.
+<span class="green">The [HostJane Roadmap](/getting-started/hostjane-roadmap) shows how you can reach better work outcomes when you sell or buy a service here.</span>
 
 ### Better tasking
 
@@ -52,7 +52,7 @@ HostJane also provides [reliable web hosting](https://www.hostjane.com/hosting/)
 
 ![](/assets/cloud-plans.png)
 
-Use our VPS wizards to deployed secure, managed VPS in 120 seconds, inside one of 17 global datacenters, enabling you to focus on running your business.
+<span class="orange">Use our VPS wizards to deployed secure, managed VPS in 120 seconds, inside one of 17 global datacenters, enabling you to focus on running your business.</span>
 
 ---
 

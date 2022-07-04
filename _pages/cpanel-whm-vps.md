@@ -7,7 +7,7 @@ nav_order: 3
 permalink: /vps-hosting/cpanel-whm-vps/
 ---
 
-# cPanel/WHM Set-up
+# 1-Click cPanel/WHM
 
 HostJane cPanel VPS comes pre-installed with cPanel/WHM on a managed server running Centos 7 x64. For more technical details of the server, refer to Server FAQ.
 
@@ -62,7 +62,7 @@ Here is the next screen that will display:
 
 ### C. Click Statistics in the menu
 
-Your private and confidential server root password and IP address is in Statistics.
+Your private and confidential server root password and IP address is in *Statistics*.
 
 Security Alert
 
@@ -70,10 +70,9 @@ Never disclose, email, or publish your password to anyone, including HostJane st
 
 Below is a example screenshot of the Application Information.
 
-| WordPress Server Details|
+| cPanel Server Details|
 |:-------|
-| To complete your WordPress installation follow these instructions: |
-| 1. log into the WP admin panel using the following credentials |
+| Complete your installation by visiting WHM at this URL: |
 | `https://123.456.789.1/2087` |
 | `User: root` |
 | `Pass: 123456789` |
