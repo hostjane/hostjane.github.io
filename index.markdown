@@ -17,7 +17,7 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 - [x] [Open a request](https://www.hostjane.com/marketplace/contact)&nbsp;- we'll answer you in 5-10 mins
 - [x] Message us on&nbsp;[WhatsApp](https://wa.me/message/SER2EGESB2X7P1)
-- [x] Join&nbsp;[HostJane Crypto](https://discord.gg/5rS6Tvd)&nbsp;on Discord or suggest&nbsp;[new features](https://hostjane.canny.io/marketplace-ideas)
+- [x] Join&nbsp;[HostJane Crypto](https://discord.gg/5rS6Tvd)&nbsp;on Discord
 - [x] Follow the HostJane&nbsp;[Telegram channel](https://t.me/hostjanecom)
 - [x] Check HostJane&nbsp;[network status](https://www.hostjane.com/status)
 - [x] Read&nbsp;[Better Work](https://medium.com/better-work)&nbsp;on Medium for HostJane updates

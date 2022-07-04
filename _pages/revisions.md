@@ -36,4 +36,4 @@ Before you receive the Final Work, you will need to review your Seller.
 
 ![](/assets/final.png)
 
-If you have any problems after delivery, you can open a dispute
+If you have any problems after delivery, you can open a dispute.

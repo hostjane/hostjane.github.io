@@ -16,11 +16,11 @@ This section provides information for buying services on HostJane marketplace.
 
 # What are Boards?
 
-Like a whiteboard with instant chat, Boards are HostJane's work tool to help you organize tasks, store files, track updates and see a bird's eye view of your work progress.
+<span class="blue">Like a whiteboard with instant chat, Boards are HostJane's work tool to help you organize tasks, store files, track updates and see a bird's eye view of your work progress.</span>
 
 ![](/assets/Board-1.png)
 
-Boards are an integral part of the HostJane Workspace
+<span class="green">Boards are an integral part of the HostJane Workspace</span>
 
 ![](/assets/boards-close.png)
 
@@ -123,17 +123,15 @@ All changes are tracked and the other User is notified by email
 
 It's easy to move cards to a new location or you can drag them.
 
-
-![](/assets/card-4.png)
+![](/assets/card-5.png)
 
 Add custom labels with color-blind friendly colors to order cards like colored sticky notes
 
-
-![](/assets/card-5.png)
+![](/assets/card-4.png)
 
 You can add comments in each card
 
-Every action is recorded inside the card to help users understand what has changed like a recorded audit trail
+<span class="purple">Every action is recorded inside the card to help users understand what has changed like a recorded audit trail.</span>
 
 # Board activity
 
@@ -199,10 +197,10 @@ For audit and transparency purposes this is not currently possible.
 
 You can archive messages by using the Archive icon in the top right menu of [Messages](https://www.hostjane.com/marketplace/messages), which will remove the message from *All Conversations* view but for legal and audit reasons all conversations are stored and can't be permanetly deleted.
 
-![](/assets/archive.png.png)
+![](/assets/archive.png)
 
 To view an archived message, use the left-side messages dropdown. Click the Archive icon again to restore the conversation.
 
-![](/assets/archive-restore.pngpng)
+![](/assets/archive-restore.png)
 
 Users do not know when you have archived a message thread.
