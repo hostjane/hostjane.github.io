@@ -34,7 +34,7 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 To better assist you plan, organize, and prioritize your work, tasks, and side projects, we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
 
-HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/). 
+HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/) - to [keep money moving](https://www.hostjane.com/about).
 
 ![](/assets/board-view.png)
 

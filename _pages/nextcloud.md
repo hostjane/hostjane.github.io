@@ -137,7 +137,8 @@ For example: https://www.yourdomain.TLD, where the TLD could be .com, .net, .org
 
 HostJane and our servers work with all domain registrars worldwide.
 
-4. Access the Nextcloud Installer
+## 4. Access the Nextcloud Installer
+
 Copy and paste the installer link into a fresh browser window. The installer address will look something like this, but will have your server’s IP address:
 
 https://[Your_Server’s_IP]/

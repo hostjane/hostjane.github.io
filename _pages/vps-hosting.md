@@ -17,7 +17,7 @@ Across 17 global datacenters, HostJane VPS offers lightning-fast, managed SSD KV
 # Core Features
 
 | Feature |	Description |
-|:-------------|:------------------|:------|
+|:-------------|:------------------|
 | 24/7 human support |	HostJane's professional admins can assist you night and day. Our customer service team is passionate about giving accurate, support that resolves your issues first time. |
 | 24-hour backups |	Your data is safe and securely backed up on a 24-hour cycle for a small fee. We don't charge for back up storage. We can restore your server to 2 earlier versions. |
 | Free SSL	| JaneVPS gives you a free SSL certificate that self-renews every 3 to 6 months. With root access or through cPanel or Plesk, you can install any commercial SSL. |

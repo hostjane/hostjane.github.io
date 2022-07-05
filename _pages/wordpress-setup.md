@@ -9,7 +9,7 @@ permalink: /vps-hosting/wordpress-setup/
 
 # 1-Click WordPress
 
-<span class="blue">Setup a WordPress application on your server. Run themes and plugins from the WP ecosystem. Multisite is not currently supported. For server features, refer to the WordPress FAQ.</span>
+<span class="green">Setup a WordPress application on your server. Run themes and plugins from the WP ecosystem. Multisite is not currently supported. For server features, refer to the WordPress FAQ.</span>
 
 1. TOC
 {:toc}
