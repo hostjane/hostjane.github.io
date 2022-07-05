@@ -9,7 +9,7 @@ permalink: /
 # Jane can help. ![](/assets/wave.svg)
 {: .fs-9 }
 
-HostJane is an on-demand [freelancing marketplace](https://www.hostjane.com/marketplace) with [a better workspace](/buyers/hostjane-workspace) for people anywhere to buy and sell skills and [host their websites](https://www.hostjane.com/hosting). 
+HostJane is an on-demand [freelancing marketplace](https://www.hostjane.com/marketplace) with [a better workspace](#we-move-work-forwards) for people anywhere to buy and sell skills and [host their websites](https://www.hostjane.com/hosting). 
 {: .fs-6 .fw-300 }
 
 It's free [to join](https://www.hostjane.com/marketplace/register) and there are no fees. 
@@ -26,25 +26,47 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 ---
 
-## A Better Workspace
+# We move work forwards
 
-<span class="blue">HostJane is [how we work remote](https://www.hostjane.com/about/). To better assist people working together online, we created a work space with Kanban-style boards, lists, and cards, fitted inside a messaging app.</span>
-
-![](/assets/board-view.png)
+<span class="yellow">More of us are working from home, using remote workers to manage our business goals, and learning on webcams with tutors; people online in other countries not cities.</span>
 
 ### Better work outcomes
 
-See the state of every task and issue in your project with a remote freelancer, at any time, across all devices. 
+To better assist you plan, organize, and prioritize your work, tasks, and side projects, we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
 
-![](/assets/example-board.png)
+HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/). 
+
+![](/assets/board-view.png)
+
+Hire freelancers with intelligent [payment protection](/getting-started/#payment-protection-guarantee), get more done and collaborate faster across time zones.
+
+Get rid of:
+
+- [x] Lengthy email threads
+- [x] Disorganized chats
+- [x] Annoying spreadsheets
+- [x] Clunky software
+- [x] Outdated hiring apps
+
+<span class="green">HostJane is a fun and rewarding tool that fits in with you, helps you hire people, and host websites; a Swiss-Army Knife to push your ideas and actions from *to do* to **done**.</span>
+
+### Better collaboration
+
+Drag and drop cards in lists, cross between your chat with read receipts and board for better productivity; dive into details with shared attachments, comments and labels to track progress and time. 
+
+Never drop the ball again with a summary of activity emailed to you and every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity) to keep you always up-to-date.
+
+![](/assets/example-lists.png)
 
 <span class="green">The [HostJane Roadmap](/getting-started/hostjane-roadmap) shows how you can reach better work outcomes when you sell or buy a service here.</span>
 
-### Better tasking
+### Better monitoring
 
-Freelancers can deliver a more complete product and Buyers get better work done on HostJane's more complete work platform.
+Get a birdview's view of your project across every task, issue and archived card, and a better understanding of your hired freelancer's work performance, in real time, across all devices. 
 
-![](/assets/example-lists.png)
+![](/assets/example-board.png)
+
+<span class="purple">Use vetted freelancers with [Fulfillment by HostJane](/getting-started/fullfilment-by-hostjane/) to safeguard your project with a trusted professional.</span>
 
 ### Faster websites
 
