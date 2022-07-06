@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click GitLab
 parent: Cloud Computes
-description: How to setup a LAMP server
+description: How to setup a GitLab server
 nav_order: 9
 permalink: /cloud-compute/gitlab/
 ---

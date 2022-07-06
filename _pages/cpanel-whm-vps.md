@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click cPanel/WHM
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
+description: How to setup a cPanel VPS on HostJane
 nav_order: 3
 permalink: /vps-hosting/cpanel-whm-vps/
 ---

@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click Plesk
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 9
+description: How to setup a Plesk VPS on HostJane
+nav_order: 10
 permalink: /vps-hosting/plesk-vps/
 ---
 

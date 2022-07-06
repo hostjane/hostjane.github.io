@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click Docker
 parent: Cloud Computes
-description: How to setup a LAMP server
+description: How to setup a Docker server
 nav_order: 7
 permalink: /cloud-compute/docker/
 ---

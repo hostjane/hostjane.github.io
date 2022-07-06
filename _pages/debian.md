@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click Debian
 parent: Cloud Computes
-description: How to setup an Ubuntu server
+description: How to setup a Debian server
 nav_order: 2
 permalink: /cloud-compute/debian/
 ---

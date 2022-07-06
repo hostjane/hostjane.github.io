@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click Minecraft
 parent: Cloud Computes
-description: How to setup a LAMP server
+description: How to setup a Minecraft server
 nav_order: 8
 permalink: /cloud-compute/minecraft/
 ---

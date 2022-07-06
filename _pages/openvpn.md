@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click OpenVPN
 parent: Cloud Computes
-description: How to setup an Ubuntu server
+description: How to setup an OpenVPN server
 nav_order: 9
 permalink: /cloud-compute/openvpn/
 ---

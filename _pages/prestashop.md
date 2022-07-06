@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click PrestaShop
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 6
+description: How to setup a PrestaShop VPS on HostJane
+nav_order: 7
 permalink: /vps-hosting/prestashop/
 ---
 

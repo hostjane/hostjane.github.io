@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click Drupal
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 10
+description: How to setup a Drupal VPS on HostJane
+nav_order: 11
 permalink: /vps-hosting/drupal-vps/
 ---
 

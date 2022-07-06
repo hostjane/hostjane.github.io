@@ -4,7 +4,7 @@ title: Fulfillment by HostJane
 parent: Getting Started
 description: About FBH - Fulfillment by HostJane
 nav_order: 3
-permalink: /getting-started/fullfilment-by-hostjane/
+permalink: /getting-started/fulfillment-by-hostjane/
 ---
 
 # Fulfillment by HostJane (FBH)

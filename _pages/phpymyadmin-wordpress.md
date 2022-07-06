@@ -3,7 +3,7 @@ layout: default
 title: phpMyAdmin on WordPress
 parent: VPS Hosting
 description: How to setup a WordPress VPS on HostJane
-nav_order: 13
+nav_order: 14
 permalink: /vps-hosting/phpmyadmin-wordpress/
 ---
 

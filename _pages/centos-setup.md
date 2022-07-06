@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click CentOS
 parent: Cloud Computes
-description: How to setup a LAMP server
+description: How to setup a CentOS server
 nav_order: 6
 permalink: /vps-hosting/centos-setup/
 ---

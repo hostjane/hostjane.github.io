@@ -2,8 +2,8 @@
 layout: default
 title: Moving to WordPress VPS
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 12
+description: How to migrate your WordPress site to HostJane VPS
+nav_order: 13
 permalink: /vps-hosting/migrating-wordpress-vps/
 ---
 

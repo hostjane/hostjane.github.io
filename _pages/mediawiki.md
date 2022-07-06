@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click MediaWiki
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 11
+description: How to setup a MediaWiki VPS on HostJane
+nav_order: 12
 permalink: /vps-hosting/mediawiki/
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click Fedora
 parent: Cloud Computes
-description: How to setup an Ubuntu server
+description: How to setup a Fedora server
 nav_order: 3
 permalink: /cloud-compute/fedora/
 ---

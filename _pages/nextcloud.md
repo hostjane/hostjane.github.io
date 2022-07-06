@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click Nextcloud
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 8
+description: How to setup a NextCloud VPS on HostJane
+nav_order: 9
 permalink: /vps-hosting/nextcloud/
 ---
 

@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click Webmin
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 5
+description: How to setup a Webmin VPS on HostJane
+nav_order: 6
 permalink: /vps-hosting/webmin/
 ---
 ## Webmin Set-up

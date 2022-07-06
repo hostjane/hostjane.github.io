@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click CentOS Web Panel
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 4
+description: How to setup a CentOS Web Panel VPS on HostJane
+nav_order: 5
 permalink: /vps-hosting/centos-web-panel/
 ---
 

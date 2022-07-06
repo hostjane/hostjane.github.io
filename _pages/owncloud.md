@@ -2,8 +2,8 @@
 layout: default
 title: 1-Click OwnCloud
 parent: VPS Hosting
-description: How to setup a WordPress VPS on HostJane
-nav_order: 7
+description: How to setup an Owncloud VPS on HostJane
+nav_order: 8
 permalink: /vps-hosting/owncloud/
 ---
 

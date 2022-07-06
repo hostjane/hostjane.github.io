@@ -2,7 +2,7 @@
 layout: default
 title: 1-Click LEMP
 parent: Cloud Computes
-description: How to setup an Ubuntu server
+description: How to setup a LEMP server
 nav_order: 4
 permalink: /cloud-compute/lemp-setup/
 ---
