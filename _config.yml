@@ -55,6 +55,10 @@ plugins:
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/logo.svg"
 
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
 # Aux links for the upper right navigation
 aux_links:
   "Visit HostJane":
