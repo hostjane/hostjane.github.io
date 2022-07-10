@@ -30,11 +30,13 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 <span class="yellow">More of us are working from home, using remote workers to manage our business goals, and learning on webcams with tutors; people online in other countries not cities.</span>
 
+<span class="red">HostJane is a resource for people to access (often unavailable) skilled labor at price points aimed at startups - to [keep money moving](https://www.hostjane.com/about).</span>
+
 ### Better work outcomes
 
 To better assist you plan, organize, and prioritize your work, tasks, and side projects, we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
 
-HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/) - to [keep money moving](https://www.hostjane.com/about).
+HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/).
 
 ![](/assets/board-view.png)
 
