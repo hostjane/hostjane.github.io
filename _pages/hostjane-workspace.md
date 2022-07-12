@@ -9,7 +9,7 @@ permalink: /buyers/hostjane-workspace/
 
 # Smart Workspace
 
-The HostJane workspace is a web-based, Kanban-style, interactive chat and collaboration board for people to work remotely in jobs, virtual tasks or online lessons. Service follows the HostJane Roadmap.
+<span class="blue">The HostJane workspace is a web-based, Kanban-style, interactive chat and collaboration board for people to work remotely in jobs, virtual tasks or online lessons. Service follows the [HostJane Roadmap](/buyers/hostjane-roadmap/).</span>
 
 ![](/assets/board-view.png)
 
@@ -39,12 +39,15 @@ The seller will only be required to do what the job details entail.
 ![](/assets/confirm.png)
 
 Adding changes later may incur costs depending on the Service.
+
 When you confirm the job (and any uploads), your order is sent to the Seller by email to accept or decline your job. If they decline, you'll be refunded the full cost minus the handling fee.
+
 Before the Seller accepts your job, you will see the Hostjane Workspace without the board and with a frozen chat. Check the order requirements at any time in the Requirements tab.
 
 ![](/assets/tabs.png)
 
 So you're not kept waiting, the countdown starts immediately.
+
 When the Seller accepts your order, you will then see the Board open for interactive lists and cards. The date and time the Seller accepts your order will now be stamped on any licensing or confidentiality agreements between you and the Seller.
 
 ![](/assets/board-tab.png)
@@ -54,6 +57,7 @@ During this time your funds are held by HostJane until the Seller delivers the o
 ![](/assets/order-accepted.png)
 
 System messages from HostJane will keep you up-to-date with everything you need to do and all activity inside your order. The Seller should keep you updated.
+
 In the right side of the workspace, you can access all links, files, media, docs and resources associated with your order. All deliveries the Seller gives you will be neatly organized for easy access in this space.
 
 ![](/assets/resource-bar.png)
@@ -104,17 +108,21 @@ You can either accept the delivery and release your funds to the Seller, or ask 
 ![](/assets/accept-release.png)
 
 The Seller must offer at least 1 revision and tell you before buy their Service.
+
 The Work Preview will be watermarked or abridged but in sufficient enough detail for you to make a decision on whether or not to accept the Seller's work and release funds.
+
 In Web/Mobile/Tech, a Work Preview can be a preview of the finished website or software on a staging server.
 
 ![](/assets/first-delivery.png)
 
 If you are satisfied with the delivery, the Seller will have 24 hours to deliver you the Final Work. They will then send to you the unwatermarked or unabridged full Work.
+
 You'll receive notices by email and through the site notifications system each time the Seller sends you a delivery which are each timestamped and recorded in Delivered Files.
 
 ![](/assets/track.png)
 
 To complete your order (and receive any final files), you will need to select a Flame rating for the Seller. This helps our community assess the value of each Seller, so it is compulsory.
+
 You can leave an optional comment.
 
 ![](/assets/review.png)
