@@ -28,19 +28,19 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 # We move work forwards
 
-<span class="yellow">More of us are working from home, using remote workers to manage our business goals, and learning on webcams with tutors; people online in other countries not cities.</span>
+<span class="yellow">HostJane gives people around the world a safe and trusted place to discover skilled labor and timely resources at startup pricing.</span>
 
-<span class="blue">HostJane is a resource for people to access (often unavailable) skilled labor at price points aimed at startups - to [keep money moving](https://www.hostjane.com/about).</span>
+<span class="green">An access bridge to online freelancers for work, side projects, or webcam learning, we are on a mission to help you nail your online tasks and [keep money moving](https://www.hostjane.com/about). We value high standards in privacy, security and content.</span>
 
 ### Better work outcomes
 
-To better assist you plan, organize, and prioritize your work, tasks, and side projects; we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
+To better assist you to manage and prioritize your tasks with freelancers; we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
 
-HostJane is [how we work remote](/getting-started/what-are-boards/#what-are-boards/).
+HostJane is [how we work remote](/buyers/hostjane-workspace/).
 
 ![](/assets/board-view.png)
 
-Hire freelancers with intelligent [payment protection](/getting-started/#payment-protection-guarantee), get more done and collaborate faster across time zones.
+On HostJane there is 1 time zone. We remove borders, gatekeepers and red tape. Collaborate with the right people, at the right time. Our [simple process](/buyers/hostjane-roadmap/) includes [payment protection](/getting-started/#payment-protection-guarantee) for buyers and shields every seller from bad actors.
 
 Get rid of:
 
@@ -56,11 +56,9 @@ Get rid of:
 
 Drag and drop cards in lists, cross between your chat with read receipts and board for better productivity; dive into details with shared attachments, comments and labels to track progress and time. 
 
-Never drop the ball again with a summary of activity emailed to you and every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity) to keep you always up-to-date.
-
 ![](/assets/example-lists.png)
 
-<span class="green">The [HostJane Roadmap](/getting-started/hostjane-roadmap) shows how you can reach better work outcomes when you sell or buy a service here.</span>
+<span class="blue">Never drop the ball again with a summary of activity emailed to you and every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity) to keep you always up-to-date.</span>
 
 ### Better monitoring
 

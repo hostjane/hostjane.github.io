@@ -19,7 +19,9 @@ Our HostJane Roadmap is a visual flow-chart to explain:
 
 The Roadmap is based on our Marketplace Terms.
 
-There are 3 stages to the order process on HostJane. In the first stage, Pre-Delivery, a Buyer pays a Seller for their Skill to do a Service⁠—either a regular listing or online lesson⁠—with Payment Protection.
+There are 3 stages to the order process on HostJane. 
+
+<span class="green">In the first stage, Pre-Delivery, a Buyer pays a Seller for their Skill to do a Service⁠—either a regular listing or online lesson⁠—with Payment Protection.</span>
 
 ![](/assets/order-guide.svg)
 
