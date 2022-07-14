@@ -7,12 +7,20 @@ has_children: true
 permalink: /getting-started/
 ---
 
+# Getting started
+{: .no_toc }
+
+<span class="green">You will spend less time and less money getting better outcomes with freelancers on HostJane than other marketplaces and job agencies.</span>
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 
 # How we work remote
 
-You will spend less time and less money doing the same work here than on other marketplaces. From complex web development to online lessons by Zoom video-call, HostJane’s lists and cards at your fingertips make it fun and easy to collaborate with other people.
+From complex web development to online lessons by Zoom video-call, HostJane’s lists and cards at your fingertips make it fun and easy to collaborate with other people.
 
 ## Save time and money
 

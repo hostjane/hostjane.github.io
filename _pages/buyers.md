@@ -7,31 +7,42 @@ has_children: true
 permalink: /buyers/
 ---
 
-## Buyers FAQ
+# Buyers FAQ
+{: .no_toc }
 
-This section provides information for buying services on HostJane marketplace.
+<span class="blue">Information for buying services and lessons on HostJane marketplace.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 # How do I buy a service?
 
-There are 3 ways to do business on HostJane.
+<span class="yellow">There are 3 ways to start a new order on HostJane.</span>
 
-- [x] Purchase a listing (see below)
+- [x] Buy a listing or lesson - see&nbsp;*steps below*
 - [x] Request a free quote
-- [x] Accept a custom offer from the Seller
-- [x] Purchasing a Listing
+- [x] Accept a custom offer from a Seller
 
-1. Go to the listing or online lesson page for the interested service. Select from the available licensing and confidentiality options.
+### STEP 1 
+
+<span class="green">Go to the listing or online lesson page for the service.</span>
+
+Select from the available licensing and confidentiality options.
 
 ![](/assets/example-listing.png)
 
-2. Click Continue
+### STEP 2 
+
+<span class="orange">Click *Continue*</span>
 
 ![](/assets/job-details.png)
 
-3. Enter your job title and details in 1-step checkout, select a payment method and click 'Confirm and Pay'. 
+### STEP 3 
+
+<span class="blue">Enter your job title and details in 1-step checkout, select a payment method and click *Confirm and Pay*.</span> 
 
 ![](/assets/payment.png)
 
@@ -40,7 +51,7 @@ Your workspace with chat and board between you and your seller will be created a
 
 # Don't pay outside HostJane
 
-Under 2.1.5, 2.1.6 and 2.1.7 of HostJane's Marketplace Rules, it is against our policies to offer or accept payment outside of HostJane.
+<span class="purple">Under 2.1.5, 2.1.6 and 2.1.7 of HostJane's [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/), it is against our policies to offer or accept payment outside of HostJane.</span>
 
 Buyers disqualify the Purchase Protection guarantee by paying in part for Services outside of HostJane.
 
@@ -50,12 +61,17 @@ Your account can be suspended or closed.
 
 # Payment Protection Guarantee
 
-We want HostJane to be a safe and reliable platform for work. To ensure that the marketplace upholds its integrity, we make a promise to all buyers:
-As part of 2.1.2 of our Marketplace terms, you will receive your full money-back paid on a Service less the non-refundable Handling Fee:
-If Seller fails to send you a work delivery within the time they said they would on their listing page;
-If what the Seller sends you is unacceptable or poor quality
-We take our Purchase Protection policy seriously to ensure it is not abused by anyone.
-Read the full Marketplace Rules
+We want HostJane to be a safe and reliable platform for work. 
+
+To ensure that the marketplace upholds its integrity, we make a promise to all buyers:
+
+<span class="blue">As part of 2.1.2 of our Marketplace terms, you will receive your full money-back paid on a Service less the non-refundable Handling Fee:</span>
+
+- If Seller fails to send you a work delivery within the time they said they would on their listing page;
+- If what the Seller sends you is unacceptable or poor quality;
+- We take our Purchase Protection policy seriously to ensure it is not abused by anyone.
+
+[Read Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/){: .btn .btn-blue}
 
 # What are the 8 order statuses?
 
