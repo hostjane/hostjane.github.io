@@ -9,7 +9,7 @@ permalink: /how-licensing-works/unlimited/
 
 # Unlimited License
 
-The Seller is releasing all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.
+<span class="blue">The Seller is releasing all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.</span>
 
 ## Key Summary
 

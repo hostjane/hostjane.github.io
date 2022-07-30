@@ -9,7 +9,7 @@ permalink: /how-licensing-works/personal/
 
 # Personal License
 
-Commercial use is not allowed. The Seller retains all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.
+<span class="blue">Commercial use is not allowed. The Seller retains all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.</span>
 
 ## Key Summary
 

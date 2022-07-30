@@ -8,7 +8,7 @@ permalink: /how-licensing-works/limited/
 ---
 # Limited License
 
-The Seller allows limited commercial use but retains all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.
+<span class="blue">The Seller allows limited commercial use but retains all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.</span>
 
 ## Key Summary
 

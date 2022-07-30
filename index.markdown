@@ -15,12 +15,12 @@ HostJane is an on-demand [freelancing marketplace](https://www.hostjane.com/mark
 It's free [to join](https://www.hostjane.com/marketplace/register) and there are no fees. 
 {: .fs-6 .fw-300 }
 
-- [x] [Open a request](https://www.hostjane.com/marketplace/contact)&nbsp;- we'll answer you in 5-10 mins
-- [x] Message us on&nbsp;[WhatsApp](https://wa.me/message/SER2EGESB2X7P1)
-- [x] Join&nbsp;[HostJane Crypto](https://discord.gg/5rS6Tvd)&nbsp;on Discord
-- [x] Follow the HostJane&nbsp;[Telegram channel](https://t.me/hostjanecom)
+- [x] [Contact Support](https://www.hostjane.com/marketplace/contact)&nbsp;- 10 min wait
+- [x] Message us -&nbsp;[WhatsApp](https://wa.me/message/SER2EGESB2X7P1)
+- [x] [HostJane Crypto](https://discord.gg/5rS6Tvd)&nbsp;on Discord
+- [x] HostJane&nbsp;[on Telegram](https://t.me/hostjanecom)
 - [x] Check HostJane&nbsp;[network status](https://www.hostjane.com/status)
-- [x] Read&nbsp;[Better Work](https://medium.com/better-work)&nbsp;on Medium for HostJane updates
+- [x] We aim to do&nbsp;[Better Work](https://medium.com/better-work)
 
 [About HostJane](https://www.hostjane.com/about/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Become a seller](https://www.hostjane.com/sell){: .btn .fs-5 .mb-4 .mb-md-0 }
 
