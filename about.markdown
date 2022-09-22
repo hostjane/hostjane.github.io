@@ -15,7 +15,7 @@ This FAQ provides answers to basic questions about HostJane. Check out [the Host
 
 Services are paid Work tasks that stay within HostJane’s acceptable use policy (AUP) where the Seller is selling their Skill to a Buyer.
 
-We welcome Sellers who are able to take the risks and costs of doing useful tasks for people on time.
+<span class="green">We welcome Sellers who are able to take the risks and costs of doing useful tasks for people on time.</span>
 
 The terms of each Service sold on HostJane must be written down in the Seller's Listing or Custom Offer prior to being purchased by the Buyer.
 The Seller is promising they can do the Work task on time and 100% fulfill the delivery through HostJane’s order system which comprises a workspace of boards, lists and cards with chat.
@@ -52,7 +52,7 @@ If you have a skill for doing something most people would consider useful, there
 
 A Buyer is any user who needs a Service. That can be anyone from a student seeking online lessons with a tutor to an entrepreneur creating software. 
 
-All users must be over 18 years of age. 
+<span class="blue">All users must be over 18 years of age.</span>
 
 # Who is a Seller?
 
@@ -74,7 +74,8 @@ Sellers also have a publicly available Studio while Buyer profiles can only be b
 # Who is HostJane for?
 
 We can’t be great at everything, so we made HostJane for people who need useful tasks done fastly and affordably by someone who has the Skills they don’t.
-As long as you are over 18 years old, you can buy and sell skills on HostJane's platform.
+
+<span class="yellow">As long as you are over 18 years old, you can buy and sell skills on HostJane's platform.</span>
 
 Whether it’s fixing a bug, editing a video, help with college assignments, building a mobile app or website for your business or interpreting in a foreign language, HostJane is the global resource community to help you prosper with your goals.
 
@@ -92,31 +93,23 @@ While some of the team reside in Australia, the company hosts web developers, de
 
 HostJane was originally started in Queensland in 2017 by Tunde Reid-Kapo to build websites for local businesses and startups on Australia’s Gold Coast who didn’t have a website and couldn’t afford Aussie web designer prices.
 
-On August 8, 2018 HostJane, Inc. was officially incorporated in Wyoming, U.S.
+On August 8, 2018 HostJane, Inc. was officially incorporated in Wyoming, U.S. 
 
-Around this time the company changed direction and began working on a marketplace with a better workspace to make HostJane a resource for people looking for skilled workers in addition to being a hosting company. Within 6 months, Australia entered a recession in early 2019 for the first time in 30 years.
-When the coronavirus disease 2019 (COVID-19) pandemic swept the world the following year in 2020, HostJane’s marketplace platform was still in the middle of being developed as a resource for buyers and sellers.
+Continuing through a global pandemic and recession, facing the same numerous delays that affected other businesses during COVID-19, HostJane's mission hasn't changed. To keep money moving for businesses by assisting people to get better results at work.
 
-The pandemic caused serious delays to HostJane's development.
+<span class="red">Highlighted by HostJane's principles of payment protection, lower costs, simplicity, quality and variety; we connect skilled freelancers to primarily small and medium-sized businesses, with our goal to assist people to either grow their existing business or to create new income streams.</span>
 
-COVID-19 also emphasized the urgency for an independent resource—not publicly-traded and beholden to profit-squeezing shareholders—that is focused solely on keeping money moving for struggling freelancers.
-
-Three years after its incorporation and numerous delays, the marketplace at HostJane Skills eventually launched in October 2021.
-HostJane helps businesses do smarter work.
-
-Highlighted by HostJane's principles of payment protection, lower costs, simplicity, quality and variety; we connect freelancers to small and mid-sized companies to create new income streams from trading skills remotely.
-
-Learn more about the HostJane idea, our mission, and our vision and values.
+Learn more about the [HostJane's mission](https://www.hostjane.com/about), and our vision and values.
 
 # Who are the people behind HostJane?
 
-HostJane is supported by Tunde Reid-Kapo who founded it to build websites for small businesses. In 2018, Tunde funded and helped to develop a server provisioning module with Blesta, an American software company in California; to provide security, speed and reliability for businesses deploying cloud computes on the Vultr platform.
+HostJane is supported by Tunde Reid-Kapo who founded the company initially to design and build affordable websites for small businesses. In 2018, Tunde funded and helped to develop a server provisioning module with Blesta, a California-based software company, to provide security, speed and reliability for businesses deploying cloud computes on the Vultr cloud platform.
 
-# Why doesn't HostJane have an iOS or Android app?
+# Does HostJane have an iOS or Android app?
 
-Traditionally while web hosting companies have let third-parties publish and curate management apps for their computes or servers through iOS and Android, it’s often not part of the core service and those server managers often don’t officially involve the core development team. 
+No - like many hosting businesses, we prefer to let users manage their servers through a web application that runs in the browser. While it can be accessed via mobile, HostJane's marketplace application with its powerful messaging features and smart workspace with [boards, lists, and cards](/buyers/hostjane-workspace/) in orders, was designed for freelancers working from home to run on their tablets and desktops.
 
-HostJane is no exception to that trend. HostJane will always be run like an early-stage startup with two linked businesses, web hosting and freelance marketplace platform. We are focused on developing our marketplace web app with a proprietary workspace for sellers and buyers to trade. Our marketplace web app syncs across all devices.
+Our marketplace web app syncs instantly across all devices.
 
 # What is HostJane's relationship with female equality?
 
