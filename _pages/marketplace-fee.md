@@ -9,13 +9,14 @@ permalink: /sellers/marketplace-fee/
 
 # Marketplace Fee
 
-Note: Please also see Introduction to Earnings for sellers.
+<span class="blue">Note: Please also see [Introduction to Earnings](/sellers/earnings/) for sellers.</span>
 
 HostJane is completely free to use. 
 
-There are no setup, listing, monthly or any ongoing fees to sell a Service with your Skill.
+<span class="green">There are no setup, listing, monthly or any ongoing fees to sell a Service with your Skill.</span>
 
 We strive to be a safe, secure environment which protects both sellers and buyers.
+
 To operate our platform and provide marketing, hosting and payment services to Buyers and Sellers, we charge a Marketplace Fee on finalized sales of Services after Buyer approval and on tips.
 
 ### Current Marketplace Fee
@@ -50,6 +51,6 @@ With HostJane, Sellers have full control of their independent business.
 - [x] Control time limits and number of revisions
 - [x] Define the type and extent of any extras
 
-To receive your Payout, Sellers will need a valid email address, a PayPal or bank account.
+<span class="yellow">To receive your Payout, Sellers will need a valid email address, a PayPal or bank account.</span>
 
 To open a Studio, get started in any skills category you can add a new Service here: https://www.hostjane.com/sell

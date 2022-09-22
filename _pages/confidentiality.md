@@ -9,7 +9,9 @@ permalink: /buyers/confidentiality/
 
 # What are confidentiality or NDA agreements?
 
-An NDA or Non Disclosure Agreement is a legal contract between you and a Seller that ensures they cannot talk about or share any content about your project with anyone. NDAs help people keep their Work private in the beginning stages of projects.
+<span class="green">An NDA or Non Disclosure Agreement is a legal contract between you and a Seller that ensures they cannot talk about or share any content about your project with anyone.</span>
+
+NDAs help people keep their Work private in the beginning stages of projects.
 
 Watch attorney Brett Cenkus provide a good overview of what NDAs mean and why they are important to protect your confidential info.
 

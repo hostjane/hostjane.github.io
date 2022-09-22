@@ -9,7 +9,7 @@ permalink: /getting-started/fulfillment-by-hostjane/
 
 # Fulfillment by HostJane (FBH)
 
-*Vetted freelancers:* Fulfillment by HostJane (FBH) is an outsourcing service to help busy owners grow and spend less time looking for reliable suppliers.
+<span class="green">*Vetted freelancers:* Fulfillment by HostJane (FBH) is an outsourcing service to help busy owners grow and spend less time looking for reliable suppliers.</span>
 
 ![](/assets/fbh.jpeg)
 

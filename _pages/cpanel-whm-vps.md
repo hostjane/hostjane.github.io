@@ -8,10 +8,14 @@ permalink: /vps-hosting/cpanel-whm-vps/
 ---
 
 # 1-Click cPanel/WHM
+{: .no_toc }
 
-HostJane cPanel VPS comes pre-installed with cPanel/WHM on a managed server running Centos 7 x64. For more technical details of the server, refer to Server FAQ.
+<span class="yellow">HostJane cPanel VPS comes pre-installed with cPanel/WHM on a managed server running Centos 7 x64. For more technical details of the server, refer to Server FAQ.</span>
 
 A server with at least 2GB RAM is required.
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

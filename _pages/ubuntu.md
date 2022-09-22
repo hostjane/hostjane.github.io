@@ -8,8 +8,12 @@ permalink: /cloud-compute/ubuntu/
 ---
 
 # 1-Click Ubuntu
+{: .no_toc }
 
 <span class="green">Tutorial for running latest Ubuntu version on HostJane cloud servers.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

@@ -8,8 +8,12 @@ permalink: /cloud-compute/debian/
 ---
 
 # 1-Click Debian
+{: .no_toc }
 
 <span class="yellow">The following tutorial is designed to help you run the latest Debian version on HostJane computes.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

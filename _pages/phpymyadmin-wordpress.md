@@ -17,6 +17,9 @@ Because WordPress runs directly on the server, there isn’t a simple backend ad
 
 Instead, phpMyAdmin must first be installed and then accessed via a standard browser window in Chrome or Firefox.
 
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 

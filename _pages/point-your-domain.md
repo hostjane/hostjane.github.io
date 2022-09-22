@@ -8,15 +8,19 @@ permalink: /vps-hosting/point-your-domain/
 ---
 
 # How to Point Your Domain to Your Server
+{: .no_toc }
 
-This article will explain how A-records work, then show you how you can create an A-record at the registrar where you purchased your domain.
+<span class="green">This article will explain how A-records work, then show you how you can create an A-record at the registrar where you purchased your domain.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ## What are A-Records?
 
-<span class="green">Address (A) records, written for short as "A-records", are part of the DNS or Domain Name System, that point domains to IP addresses.</span>
+<span class="yellow">Address (A) records, written for short as "A-records", are part of the DNS or Domain Name System, that point domains to IP addresses.</span>
 
 When a user wants to visit your website, their browser will ask your domain’s nameservers for the A-record.
 

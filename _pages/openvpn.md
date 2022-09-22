@@ -8,10 +8,14 @@ permalink: /cloud-compute/openvpn/
 ---
 
 # 1-Click OpenVPN
+{: .no_toc }
 
 <span class="yellow">HostJane runs OpenVPN on Ubuntu, one of the most secure linux distributions. OpenVPN on HostJane Cloud only allows two (2) devices to connect free at any 1 time.</span>
 
 If you need to connect more devices, then you need to buy a license from OpenVPN.
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

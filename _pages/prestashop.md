@@ -8,8 +8,12 @@ permalink: /vps-hosting/prestashop/
 ---
 
 # 1-Click PrestaShop
+{: .no_toc }
 
-Setup a PrestaShop application on server. Note that PrestaShop does require you to modify 1 file via Secure Shell (SSH) client to complete installation.
+<span class="green">Setup a PrestaShop application on server. Note that PrestaShop does require you to modify 1 file via Secure Shell (SSH) client to complete installation.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

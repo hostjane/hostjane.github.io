@@ -9,12 +9,11 @@ permalink: /buyers/revisions/
 
 # How revisions work
 
-You will have the number of revisions that you agree with the Seller before the order starts. 
+<span class="green">You will have the number of revisions that you agree with the Seller before the order starts.</span>
 
 Inside the order page, click on the 'Delivered Files' link to see each revision sent by the Seller.
 
 ![](/assets/delivered-files.png)
-
 
 You will see a list of all the files delivered by the Seller, with a timestamp and revision number for each file.
 

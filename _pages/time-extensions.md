@@ -8,7 +8,7 @@ permalink: /sellers/time-extensions/
 ---
 # You need more time to deliver an order?
 
-To ask a Buyer for more time to finish your Work, use the "Need more time" button in the bottom left screen of the Order Workspace.
+<span class="green">To ask a Buyer for more time to finish your Work, use the *Need more time* button in the bottom left screen of the Order Workspace.</span>
 
 ![](/assets/more-time-1.png)
 

@@ -8,6 +8,7 @@ permalink: /cloud-compute/lamp-setup/
 ---
 
 # 1-Click LAMP
+{: .no_toc }
 
 <span class="yellow">This tutorial helps you run the latest LAMP version on HostJane Cloud computes, which is comprised of:</span>
 
@@ -17,6 +18,9 @@ permalink: /cloud-compute/lamp-setup/
 - [x] P for PHP
 
 <span class="orange">LAMP can run on Ubuntu and CentOS.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

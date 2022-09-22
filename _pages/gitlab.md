@@ -8,11 +8,15 @@ permalink: /cloud-compute/gitlab/
 ---
 
 # 1-Click GitLab
+{: .no_toc }
 
 <span class="green">Tutorial for running latest GitLab version on HostJane.</span>
 
 - HostJane’s cloud servers runs the GitLab Community Edition (CE) on Ubuntu. 
 - Note that GitLab requires a cloud compute running at the minimum 2 CPU.
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

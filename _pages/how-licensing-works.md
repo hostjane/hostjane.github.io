@@ -8,8 +8,12 @@ permalink: /how-licensing-works/
 ---
 
 ## Licensing FAQ
+{: .no_toc }
 
-This section provides information for selling services on HostJane marketplace.
+<span class="purple">This section provides information for selling services on HostJane marketplace.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

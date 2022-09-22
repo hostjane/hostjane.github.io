@@ -7,9 +7,13 @@ nav_order: 1
 permalink: /getting-started/what-are-boards/
 ---
 
-## Boards to assist your work
+# Boards to assist your work
+{: .no_toc }
 
-This section provides information for buying services on HostJane marketplace.
+<span class="green">This section provides information for buying services on HostJane marketplace.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

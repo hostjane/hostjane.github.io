@@ -7,6 +7,12 @@ nav_order: 8
 permalink: /how-licensing-works/unlimited-license-faq/
 ---
 
+# Unlimited License FAQ
+{: .no_toc }
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 

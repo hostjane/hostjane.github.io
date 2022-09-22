@@ -7,9 +7,13 @@ has_children: true
 permalink: /sellers/
 ---
 
-## Sellers FAQ
+# Sellers FAQ
+{: .no_toc }
 
-This section provides information for selling services on HostJane marketplace.
+<span class="green">This section provides information for selling services on HostJane marketplace.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

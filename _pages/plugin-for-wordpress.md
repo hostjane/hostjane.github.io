@@ -9,7 +9,7 @@ permalink: /sellers/plugin-for-wordpress/
 
 # HostJane Payments Pro Plugin for WordPress
 
-Accept payments and tips directly on your WordPress site or blog with the HostJane Payments Pro plugin available on Codecanyon or the lite version (free) on WordPress.
+<span class="green">Accept payments and tips directly on your WordPress site or blog with the HostJane Payments Pro plugin available on Codecanyon or the lite version (free) on WordPress.</span>
 
 ![](/assets/documentation.jpeg)
 

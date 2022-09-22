@@ -8,12 +8,16 @@ permalink: /cloud-compute/minecraft/
 ---
 
 # 1-Click Minecraft
+{: .no_toc }
 
 <span class="green">HostJane offers basic Minecraft servers with no pre-installed modules.</span>
 
 Download Minecraft for Windows or MacOS devices then connect to your server through the game client to start playing.
 
 Please note that by running a Minecraft server here, you’re telling us that you agree to Mojang AB’s End User Licensing Agreement (EULA).
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

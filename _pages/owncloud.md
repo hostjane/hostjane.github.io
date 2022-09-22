@@ -8,8 +8,12 @@ permalink: /vps-hosting/owncloud/
 ---
 
 # 1-Click OwnCloud
+{: .no_toc }
 
-Setup an ownCloud file hosting application on your HostJane VPS server.
+<span class="green">Setup an ownCloud file hosting application on your HostJane VPS server.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

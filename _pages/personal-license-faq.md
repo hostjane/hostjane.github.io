@@ -7,6 +7,12 @@ nav_order: 6
 permalink: /how-licensing-works/personal-license-faq/
 ---
 
+# Personal License FAQ
+{: .no_toc }
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 

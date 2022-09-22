@@ -9,7 +9,11 @@ permalink: /sellers/dos-and-donts-selling/
 
 # Do's and Don'ts for Selling
 
-Here at HostJane we exist to support awesome freelancers make the most out of their Skills. Our Roadmap helps Sellers monetize their Work. We have a few helpful Do's and Don'ts to make the selling process organized and simple.
+Here at HostJane we exist to support awesome freelancers make the most out of their Skills. 
+
+<span class="green">Our [Roadmap](/buyers/hostjane-roadmap/) helps Sellers monetize their Work.</span>
+
+We have a few helpful Do's and Don'ts to make the selling process organized and simple.
 
 ### Do's
 

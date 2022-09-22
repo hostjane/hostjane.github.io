@@ -8,8 +8,12 @@ permalink: /vps-hosting/nextcloud/
 ---
 
 # 1-Click Nextcloud
+{: .no_toc }
 
-Setup a Nextcloud file storage application on your server. Nextcloud is open-source with no fees beyond the costs of your server instance.
+<span class="green">Setup a Nextcloud file storage application on your server. Nextcloud is open-source with no fees beyond the costs of your server instance.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

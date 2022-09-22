@@ -8,8 +8,12 @@ permalink: /vps-hosting/joomla/
 ---
 
 # 1-Click Joomla
+{: .no_toc }
 
 <span class="yellow">Setup a Joomla application on your server. Read our VPS Features for more information about your server.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

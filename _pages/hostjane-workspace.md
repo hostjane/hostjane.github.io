@@ -22,7 +22,7 @@ To place an order for a listing or lesson, click 'Continue' on the Seller's list
 
 ![](/assets/job-checkout.png)
 
-Give full details of your job (and upload any files) in the 1-step checkout even if you have already talked to the Seller in a pre-purchase chat.
+<span class="green">Give full details of your job (and upload any files) in the 1-step checkout even if you have already talked to the Seller in a pre-purchase chat.</span>
 
 ![](/assets/job-details.png)
 

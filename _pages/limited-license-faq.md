@@ -7,6 +7,12 @@ nav_order: 7
 permalink: /how-licensing-works/limited-license-faq/
 ---
 
+# Limited License FAQ
+{: .no_toc }
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 

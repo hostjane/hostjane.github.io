@@ -8,8 +8,12 @@ permalink: /vps-hosting/
 ---
 
 # Introducing HostJane VPS
+{: .no_toc }
 
-Across 17 global datacenters, HostJane VPS offers lightning-fast, managed SSD KVM VPS with the power and reliability of a dedicated server.
+<span class="blue">Across 17 global datacenters, HostJane VPS offers lightning-fast, managed SSD KVM VPS with the power and reliability of a dedicated server.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

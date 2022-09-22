@@ -8,8 +8,12 @@ permalink: /vps-hosting/centos-web-panel/
 ---
 
 # 1-Click CentOS Web Panel (CWP)
+{: .no_toc }
 
-Manage you or your client's websites with CWP, a free, open-source web hosting control panel. CWP is an alternative to cPanel, enabling web host management without needing to touch a command line.
+<span class="green">Manage you or your client's websites with CWP, a free, open-source web hosting control panel. CWP is an alternative to cPanel, enabling web host management without needing to touch a command line.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

@@ -7,6 +7,12 @@ nav_order: 9
 permalink: /how-licensing-works/seller-cases/
 ---
 
+# Seller Cases
+{: .no_toc }
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 

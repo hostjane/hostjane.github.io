@@ -8,8 +8,12 @@ permalink: /cloud-compute/fedora/
 ---
 
 # 1-Click Fedora
+{: .no_toc }
 
 <span class="green">Tutorial for running latest Fedora version on HostJane cloud servers.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

@@ -6,9 +6,14 @@ description: How to setup a Webmin VPS on HostJane
 nav_order: 6
 permalink: /vps-hosting/webmin/
 ---
-## Webmin Set-up
 
-With a useful interface for handling linux server operations, free to download and open-source license, Webmin can be a good choice of web host control panel.
+# Webmin Set-up
+{: .no_toc }
+
+<span class="green">With a useful interface for handling linux server operations, free to download and open-source license, Webmin can be a good choice of web host control panel.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

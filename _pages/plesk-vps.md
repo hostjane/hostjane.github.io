@@ -8,8 +8,12 @@ permalink: /vps-hosting/plesk-vps/
 ---
 
 # 1-Click Plesk
+{: .no_toc }
 
-Setup a Plesk application on your server. Plesk is available in 3 different editions–Web Admin, Web Pro and Web Host. Plesk provide a comparison guide to assist in choosing the appropriate version for your needs.
+<span class="green">Setup a Plesk application on your server. Plesk is available in 3 different editions–Web Admin, Web Pro and Web Host. Plesk provide a comparison guide to assist in choosing the appropriate version for your needs.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

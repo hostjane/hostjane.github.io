@@ -6,9 +6,10 @@ description: Buyer Owns Rights license full text
 nav_order: 1
 permalink: /how-licensing-works/buyer-owns-rights/
 ---
+
 # Buyer Owns Rights License
 
-The Seller is releasing all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.
+<span class="green">The Seller is releasing all intellectual property rights, title, and interest in the delivered Final Work to the Buyer when they accept money for their Service.</span>
 
 ## Key Summary
 - [x] Licensee: Legal Entity or Company

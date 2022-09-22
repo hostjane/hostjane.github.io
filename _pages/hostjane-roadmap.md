@@ -8,8 +8,12 @@ permalink: /buyers/hostjane-roadmap/
 ---
 
 # HostJane Roadmap
+{: .no_toc }
 
 <span class="green">We made a simple roadmap to explain how to buy or sell [a Service](http://localhost:4000/about/#what-counts-as-a-service) on HostJane.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

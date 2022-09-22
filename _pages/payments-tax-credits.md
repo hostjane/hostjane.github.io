@@ -7,10 +7,16 @@ nav_order: 7
 permalink: /sellers/payments-tax-credits/
 ---
 
+# Payments & Tax
+{: .no_toc }
+
+## In this section
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 
-# How to request a payout
+## How to request a payout
 
 1. You will need to have cleared earnings or refunded money in your account before you can request a payout.
 2. Please add a Bank account, Paypal in Settings > Payouts.
@@ -22,7 +28,7 @@ Select a Payout method (Add your details in Settings > Payouts) then follow the 
 
 ![](/assets/fees.png)
 
-# How to add a bank account for withdrawal?
+## How to add a bank account for withdrawal?
 
 To add a new bank account, login to HostJane and go to Settings > [Payouts](https://www.hostjane.com/marketplace/settings/payouts).
 
@@ -36,7 +42,7 @@ For international sellers in these Supported Countries, select the Wire Transfer
 
 Note that HostJane cannot be held responsible for delays, extra costs or financial loss that arises from being provided incorrect account information, so please ensure that you double check the details with your financial institution prior to submitting a request for a Bank Transfer.
 
-# How to find my routing and account number
+## How to find my routing and account number
 
 If you want to be paid your earnings by Direct Deposit, you will need to provide an American account and routing number.
 
@@ -44,7 +50,7 @@ If you want to be paid your earnings by Direct Deposit, you will need to provide
 
 Your bank routing number is a nine-digit code that's based on the U.S. Bank location where your account was opened. It's the first set of numbers printed on the bottom of most checks, on the left side.
 
-# Why do I have to wait 5 days for payments?
+## Why do I have to wait 5 days for payments?
 
 To meet our anti-fraud obligations, HostJane holds payments for 5 days after each order is completed with Buyer approval and compulsory feedback.
 
@@ -58,7 +64,7 @@ Once the countdown reaches zero in the Payout Status column of Your Sales, those
 
 Download a sales invoice for every transaction.
 
-# Country information for wire payments
+## Country information for wire payments
 
 HostJane currently supports international wire payouts to the following countries. A $9.99 USD non-refundable payout fee applies to all payouts by wire transfer.
 
@@ -204,13 +210,13 @@ Slovakia	| IBAN: 24 alphanumeric	| EUR,  USD |
 | Viet Nam | Bank and Branch Code: 8 digits |	VND,  USD |
 | Zambia | Bank & Branch Code: 3-50 characters | 	ZMW,  USD |
 
-# The dollar amounts in my reporting are wrong?
+## The dollar amounts in my reporting are wrong?
 
 If you have recently made or completed a transaction, please firstly clear your cache on your device and check again.
 
 If the amounts are still wrong are clearing cache, contact us so our billing team can have a look.
 
-# Supported Payout Methods
+## Supported Payout Methods
 
 ![](/assets/withdrawal-methods.png)
 
@@ -220,41 +226,41 @@ To [withdraw your earnings](https://help.hostjane.com/hc/en-us/articles/90000546
 - [x] Direct Deposit (No minimum, no fee;) - U.S. bank accounts only
 - [x] Wire Transfer ($11 minimum, $9.99 USD fee) - Supported Countries
 
-# HostJane asked for my tax information, why?
+## HostJane asked for my tax information, why?
 
 HostJane, Inc. is a US corporation. If you are a US based Seller and your gross earnings [exceed $20,000 USD with more than 200 transactions](https://www.irs.gov/payments/general-faqs-on-new-payment-card-reporting-requirements) within a single calendar year, HostJane may be required to file a Form 1099-K with the IRS to report transactions made to you.
 
 Our team will contact you if we need any tax information from you.
 
-# Tax policy
+## Tax policy
 
 HostJane does not charge or collect tax on freelancer services as stated in our Terms of Service.
 
 ### Independent Contractors
 
-As stated in section 9. INDEPENDENT CONTRACTOR of the [Terms of Service](https://www.hostjane.com/legal/tos/):
+Stated in section 9. INDEPENDENT CONTRACTOR of the [Terms of Service](https://www.hostjane.com/legal/tos/):
 
 HostJane and User are independent contractors and nothing contained in this Agreement places HostJane and User in the relationship of principal and agent, partners or joint venturers. Neither party has, expressly or by implication, or may represent itself as having, any authority to make contracts or enter into any agreements in the name of the other party, or to obligate or bind the other party in any manner whatsoever.
 
 ### Jurisdictions
 
-As stated in section 2.5.3 of the [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/):
+Stated in section 2.5.3 of the [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/):
 
 Sellers are responsible for paying any direct or indirect taxes, including any European VAT or Australian GST or otherwise, which may apply to them depending on residency or location. Sellers represent and warrant that they comply, and will comply at all times, with their obligations under income tax provisions in their jurisdiction.
 
-# Do I have to submit tax information to my Buyer?
+## Do I have to submit tax information to my Buyer?
 
 You are not legally required by HostJane to submit private tax information to your Buyer.
 
-As explained under section #9 of our [Terms of Service](https://www.hostjane.com/legal/tos/), Sellers and Buyers on HostJane are independent contractors.
+<span class="green">Explained under section #9 of our [Terms of Service](https://www.hostjane.com/legal/tos/), Sellers and Buyers on HostJane are independent contractors.</span>
 
 Working as a freelancer on HostJane expressly does not constitute or set up any form of employment or partnership arrangement either with the buyer or HostJane.
 
-# Downloading statements
+## Downloading statements
 
 Login to your account > [Reporting](https://www.hostjane.com/marketplace/reporting) to download sales invoices and receipts.
 
-# Sales Tax and Related Rules
+## Sales Tax and Related Rules
 
 We don't charge or collect sales tax.
 
@@ -266,6 +272,6 @@ The following policy applies to:
 - [x] Mexican Income Tax Withholding policy
 - [x] Indian GST
 
-As explained under 2.5 of the [Marketplace Terms](https://www.hostjane.com/legal/marketplace-terms/), Payments made through HostJane generally exclude any such tax collection unless otherwise specified. 
+Explained under 2.5 of the [Marketplace Terms](https://www.hostjane.com/legal/marketplace-terms/), Payments made through HostJane generally exclude any such tax collection unless otherwise specified. 
 
 Users and HostJane are independent contractors and each take care of their own tax reporting requirements in their own legal jurisdiction.

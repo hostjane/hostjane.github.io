@@ -8,8 +8,12 @@ permalink: /vps-hosting/drupal-vps/
 ---
 
 # 1-Click Drupal
+{: .no_toc }
 
 Install a Drupal application uses Ubuntu in a LEMP stack. Note your server is running NGINX in its web server stack.
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

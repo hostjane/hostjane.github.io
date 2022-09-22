@@ -9,7 +9,7 @@ permalink: /sellers/teaching-lessons/
 
 # How do I teach a lesson?
 
-Lessons are special listings with a time booking feature integrated into the workflow. You can teach any subject on HostJane.
+<span class="green">Lessons are special listings with a time booking feature integrated into the workflow. You can teach any subject on HostJane.</span>
 
 ![](/assets/online-tutors-7.png)
 

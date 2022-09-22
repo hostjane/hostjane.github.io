@@ -8,8 +8,12 @@ permalink: /vps-hosting/migrating-wordpress-vps/
 ---
 
 # Moving to WordPress VPS
+{: .no_toc }
 
 <span class="green">HostJane recommends All-in-One WP Migration by ServMask, Inc. to migrate WordPress sites to HostJane. With over 1 million+ uses the plugin is the easiest way to move a WordPress site.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

@@ -9,13 +9,13 @@ permalink: /sellers/earnings/
 
 # Introduction to Earnings
 
-To help you understand how HostJane pays, we made this guide.
+<span class="green">To help you understand how HostJane pays, we made this plain English guide.</span>
 
-Please contact us if you have any questions.
+Please [contact us](https://www.hostjane.com/marketplace/contact) if you have any questions.
 
-### Summary for Earning on HostJane
+## Summary for Earning on HostJane
 
-We follow the HostJane Roadmap
+<span class="blue">We follow the [HostJane Roadmap](/buyers/hostjane-roadmap/)</span>
 
 * The standard Seller Earnings rate is 80% on all Listings, Online Lessons, Custom Offers and Tips
 Each Seller sets the price of their own Services
@@ -31,13 +31,14 @@ HostJane pays all bank and credit card fees so you receive the full 80% from eac
 
 ### Policies
 
-HostJane uses a traditional model of "Seller-driven" pricing for all Services, meaning the total price of each Service is set and controlled by you, the Seller.
+<span class="yellow">HostJane uses a traditional model of "Seller-driven" pricing for all Services, meaning the total price of each Service is set and controlled by you, the Seller.</span>
 
 As soon as you open 1 listing, a sales snapshot will be available in your dashboard, helping you track daily sales, including cleared and unsettled pending earnings.
 
 ![](/assets/snapshot.png)
 
 Standard earnings are 80%. HostJane pays all credit card processing and overhead costs from our Marketplace Fee.
+
 Use the Set Your Price calculator when creating or editing your listing to calculate how much your Buyer will pay and how much you will earn on each order.
 
 ![](/assets/calculator-clear.png)

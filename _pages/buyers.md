@@ -10,7 +10,7 @@ permalink: /buyers/
 # Buyers FAQ
 {: .no_toc }
 
-<span class="blue">Information for buying services and lessons on HostJane marketplace.</span>
+<span class="green">Information for buying services and lessons on HostJane marketplace.</span>
 
 ## In this section
 {: .no_toc .text-delta }
@@ -28,7 +28,7 @@ permalink: /buyers/
 
 ### STEP 1 
 
-<span class="green">Go to the listing or online lesson page for the service.</span>
+<span class="blue">Go to the listing or online lesson page for the service.</span>
 
 Select from the available licensing and confidentiality options.
 

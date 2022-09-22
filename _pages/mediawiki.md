@@ -7,10 +7,13 @@ nav_order: 12
 permalink: /vps-hosting/mediawiki/
 ---
 
-#1-Click MediaWiki
+# 1-Click MediaWiki
+{: .no_toc }
 
-Setup a MediaWiki application on your server.
-For more technical details about HostJane servers, read our FAQ.
+<span class="green">Setup a MediaWiki application on your server. For more technical details about HostJane servers, read [our FAQ](/vps-hosting).</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

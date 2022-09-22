@@ -9,7 +9,7 @@ permalink: /buyers/licensing/
 
 # How licensing works
 
-Licenses are legal agreements that tell you what you can and can't do with the Final Work that a Seller creates for you on HostJane - and who legally owns that work.
+<span class="yellow">Licenses are legal agreements that tell you what you can and can't do with the Final Work that a Seller creates for you on HostJane - and who legally owns that work.</span>
 
 Licenses do not apply to online lessons.
 

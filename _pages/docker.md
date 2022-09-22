@@ -8,9 +8,12 @@ permalink: /cloud-compute/docker/
 ---
 
 # 1-Click Docker
+{: .no_toc }
 
-<span class="green">This tutorial helps you run the latest Docker version on HostJane cloud computes.
-Docker can run on Ubuntu and CentOS.</span>
+<span class="green">This tutorial helps you run the latest Docker version on HostJane cloud computes. Docker can run on Ubuntu and CentOS.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

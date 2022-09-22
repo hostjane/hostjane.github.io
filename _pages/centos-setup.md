@@ -8,8 +8,12 @@ permalink: /vps-hosting/centos-setup/
 ---
 
 # 1-Click CentOS
+{: .no_toc }
 
 <span class="green">Tutorial for running latest CentOS version on HostJane cloud servers.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}

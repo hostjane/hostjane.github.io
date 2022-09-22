@@ -9,7 +9,7 @@ permalink: /sellers/getting-orders/
 
 # What happens when I get an order?
 
-You'll get an email and site notice inviting you to accept or decline the order, after the Buyer has provided the job requirements.
+<span class="green">You'll get an email and site notice inviting you to accept or decline the order, after the Buyer has provided the job requirements.</span>
 
 There are no penalties for declining the order. Only accept jobs you have time to deliver on time.
 

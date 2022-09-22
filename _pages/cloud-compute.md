@@ -8,8 +8,12 @@ permalink: /cloud-compute/
 ---
 
 # HostJane Cloud Computes
+{: .no_toc }
 
 <span class="green">Scalable, linux-based virtual machines deployed in 2 minutes. Each compute includes full management, DDoS protection, fast Intel® cores and SSD storage.</span>
+
+## In this section
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
