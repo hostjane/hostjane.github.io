@@ -20,7 +20,7 @@ permalink: /getting-started/
 
 # How we work remote
 
-From complex web development to online lessons by Zoom video-call, HostJane’s lists and cards at your fingertips make it fun and easy to collaborate with other people.
+From complex web development to online lessons by Zoom video-call, HostJane’s [lists and cards](/buyers/hostjane-workspace/) at your fingertips make it fun and easy to collaborate with other people.
 
 ## Save time and money
 
@@ -32,7 +32,7 @@ Working with freelancers here is more than a basic chat with sent files.
 
 ## More than a chat
 
-HostJane is a Swiss Army knife equipped with a powerful system of boards, lists and cards, unique to every order, seamlessly integrated with instant messaging, delivery and email notifications to users.
+HostJane is a Swiss Army knife equipped with a powerful system of [boards, lists and cards](/getting-started/what-are-boards/), unique to every order, seamlessly integrated with instant messaging, delivery and email notifications to users.
 
 ![](/assets/example-lists.png)
 
@@ -40,7 +40,7 @@ HostJane is a Swiss Army knife equipped with a powerful system of boards, lists 
 
 With HostJane’s boards, your project’s goals, tasks, plans and files can be faster organized and more relevantly connected together in one shared workspace. 
 
-Reach your work goals faster with a bird’s eye view of each milestone and audit trail.
+<span class="green">Reach your work goals faster with a bird’s eye view of each milestone and audit trail.</span>
 
 # Payment Protection Guarantee
 
@@ -53,7 +53,7 @@ As part of 2.1.2 of our [Marketplace terms](https://www.hostjane.com/legal/marke
 
 We take our Purchase Protection policy seriously to ensure it is not abused by anyone.
 
-Read the full [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/)
+<span class="green">Read the full [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/)</span>
 
 # Securing your account
 
@@ -71,12 +71,17 @@ The code expires in 2 minutes, so you will need to have immediate access to your
 
 # Verifying your identity
 
-It's a good idea to verify your identity if you're a seller, to increase Buyer's trust in your service. Sometimes we'll ask you to verify your identity.
+It's a good idea to verify your identity if you're a seller, to increase Buyer's trust in your service. 
+
+<span class="blue">Sometimes we'll ask you to verify your identity.</span>
+
 Navigate to Listings Center and click Get verified to begin the process.
 
 ![](/assets/block3.png)
 
- To confirm your identity, you’ll need to submit a photo of your government ID. This could be a driver’s licence, passport, identity card or visa document.
+ To confirm your identity, you’ll need to submit a photo of your government ID. 
+ 
+ This could be a driver’s licence, passport, identity card or visa document.
 
 ![](/assets/block4.png)
 
@@ -100,7 +105,7 @@ You can only take a break and pause your listings if you do not have any active 
 
 3. Choose a reason and number of days you will be away - up to 25 days at a time.
 
-Take a break mode will automatically deactivate after the number of days you set.
+<span class="yellow">Take a break mode will automatically deactivate after the number of days you set.</span>
 
 All your listings will be paused when take a break mode ends. You will need to manually resume each listing one by one. 
 
@@ -130,9 +135,10 @@ For audit and legal reasons, there is a *30-day waiting period* before your acco
 - [x] Your conversations will be inaccessible to users you've chatted to
 - [x] Your username will not be searchable
 
-Login anytime before the deletion date to restore your account.
+<span class="green">Login anytime before the deletion date to restore your account.</span>
 
 After the 30-day waiting period, your account (and any listings) will be **permanently removed** from the site and cannot be restored.
+
 New accounts cannot use your deleted username.
 
 # How does HostJane appear on my statement
@@ -157,7 +163,7 @@ HostJane does not support payments or payouts in crypto or bitcoin.
 
 If you've been refunded by a Seller, the funds will be available as cleared funds in your account. Your HostJane balance will show these funds.
 
-You can withdraw the amount to your PayPal or bank account.
+<span class="green">You can withdraw the amount to your PayPal or bank account.</span>
 
 Handling fees are not refundable.
 
@@ -165,7 +171,7 @@ Handling fees are not refundable.
 
 Please contact us or submit a DMCA takedown request as provided in section #2 of the [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/) concerning copyright violation.
 
-Any filed notice of infringement must be sent to copyright at hostjane dot com and contain the following elements:
+<span class="blue">Any filed notice of infringement must be sent to copyright at hostjane dot com and contain the following elements:</span>
 
 1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
 2. Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted words at a single site are covered by a single notification, a representative list of such works at that site;
@@ -176,6 +182,8 @@ Any filed notice of infringement must be sent to copyright at hostjane dot com a
 
 # Anti-bullying policy
 
-Under section 19 of the [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/), HostJane strives to be a safe environment. We do not tolerate any form of discrimination, abuse or bullying anywhere on the Site.
+Under section 19 of the [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/), HostJane strives to be a safe environment. 
 
-Please contact us if you are experiencing these problems or report the user so we can investigate directly.
+<span class="green">We do not tolerate any form of discrimination, abuse or bullying anywhere on the Site.</span>
+
+Please [contact us](https://www.hostjane.com/marketplace/contact) if you are experiencing these problems or report the user so we can investigate directly.
