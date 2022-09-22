@@ -9,7 +9,7 @@ permalink: /buyers/hostjane-workspace/
 
 # Smart Workspace
 
-<span class="blue">The HostJane workspace is a web-based, Kanban-style, interactive chat and collaboration board for people to work remotely in jobs, virtual tasks or online lessons. Service follows the [HostJane Roadmap](/buyers/hostjane-roadmap/).</span>
+<span class="blue">The HostJane workspace is a web-based, Kanban-style, [interactive chat and Board](/getting-started/what-are-boards/) for people to collaborate remotely in jobs, virtual tasks or online lessons. Service follows the [HostJane Roadmap](/buyers/hostjane-roadmap/).</span>
 
 ![](/assets/board-view.png)
 
@@ -26,29 +26,39 @@ To place an order for a listing or lesson, click 'Continue' on the Seller's list
 
 ![](/assets/job-details.png)
 
-Your job will be known by the title you write
-Click 'Confirm and Pay' to make payment. We accept major credit or debit cards and PayPal.
+Your job will be known by the title you write here.
+
+<span class="green">Click 'Confirm and Pay' to make payment. We accept major credit or debit cards and PayPal.</span>
+
 HostJane holds funds under the Purchase Protection guarantee until you release the funds to the Seller.
 
 ![](/assets/payment.png)
 
 After verified funds have been successfully deposited, a new workspace will be created between you and the Seller.
+
 Next you should carefully check your job details.
+
 The seller will only be required to do what the job details entail.
 
 ![](/assets/confirm.png)
 
 Adding changes later may incur costs depending on the Service.
 
-When you confirm the job (and any uploads), your order is sent to the Seller by email to accept or decline your job. If they decline, you'll be refunded the full cost minus the handling fee.
+When you confirm the job (and any uploads), your order is sent to the Seller by email to accept or decline your job. 
 
-Before the Seller accepts your job, you will see the Hostjane Workspace without the board and with a frozen chat. Check the order requirements at any time in the Requirements tab.
+If they decline, you'll be refunded the full cost minus the handling fee.
+
+<span class="red">Before the Seller accepts your job, you will see the Hostjane Workspace without the board and with a frozen chat.</span>
+
+Check the order requirements at any time in the Requirements tab.
 
 ![](/assets/tabs.png)
 
 So you're not kept waiting, the countdown starts immediately.
 
-When the Seller accepts your order, you will then see the Board open for interactive lists and cards. The date and time the Seller accepts your order will now be stamped on any licensing or confidentiality agreements between you and the Seller.
+<span class="yellow">When the Seller accepts your order, you will then see [the Board open](/getting-started/what-are-boards/) for interactive lists and cards. </span>
+
+The date and time the Seller accepts your order will now be stamped on any licensing or confidentiality agreements between you and the Seller.
 
 ![](/assets/board-tab.png)
 
@@ -58,7 +68,9 @@ During this time your funds are held by HostJane until the Seller delivers the o
 
 System messages from HostJane will keep you up-to-date with everything you need to do and all activity inside your order. The Seller should keep you updated.
 
-In the right side of the workspace, you can access all links, files, media, docs and resources associated with your order. All deliveries the Seller gives you will be neatly organized for easy access in this space.
+In the right side of the workspace, you can access all links, files, media, docs and resources associated with your order. 
+
+All deliveries the Seller gives you will be neatly organized for easy access in this space.
 
 ![](/assets/resource-bar.png)
 
@@ -67,6 +79,7 @@ In the left side of the order you will see a Summary of your payment, the order 
 ![](/assets/summary.png)
 
 Any license or NDA agreement signed between you and the Seller will be signed and active upon the Seller accepting the order.
+
 Click on the license in the summary box to view the signed legal document.
 
 ![](/assets/license.png)
