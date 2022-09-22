@@ -199,7 +199,7 @@ For audit and transparency purposes this is not currently possible.
 
 # Can I delete my messages?
 
-You can archive messages by using the Archive icon in the top right menu of [Messages](https://www.hostjane.com/marketplace/messages), which will remove the message from *All Conversations* view but for legal and audit reasons all conversations are stored and can't be permanetly deleted.
+You can archive messages by using the Archive icon in the top right menu of [Messages](https://www.hostjane.com/marketplace/messages), which will remove the message from *All Conversations* view but for legal and audit reasons all conversations are stored and can't be permanently deleted.
 
 ![](/assets/archive.png)
 
