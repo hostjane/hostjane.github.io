@@ -119,7 +119,7 @@ The company is committed to do our part by donating a portion of our profits to 
 
 # How do I become a Seller?
 
-<span class="green">To add a Service at any time go to the [Become a Seller](https://www.hostjane.com/sell) page.</p>
+<span class="green">To add a Service at any time go to the [Become a Seller](https://www.hostjane.com/sell) page.</span>
 
 Review the [general terms of service](https://www.hostjane.com/legal/tos/) and [acceptable use policy](https://www.hostjane.com/legal/privacy/) to make sure you agree and then choose a category to create your listing.
 
