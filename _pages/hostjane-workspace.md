@@ -36,7 +36,7 @@ HostJane holds funds under the Purchase Protection guarantee until you release t
 
 After verified funds have been successfully deposited, a new workspace will be created between you and the Seller.
 
-Next you should carefully check your job details.
+<span class="orange">Next you should carefully check your job details.</span>
 
 The seller will only be required to do what the job details entail.
 
@@ -48,7 +48,7 @@ When you confirm the job (and any uploads), your order is sent to the Seller by 
 
 If they decline, you'll be refunded the full cost minus the handling fee.
 
-<span class="red">Before the Seller accepts your job, you will see the Hostjane Workspace without the board and with a frozen chat.</span>
+<span class="red">Before the Seller accepts your job, you will see the Hostjane Workspace, without the [Board](/getting-started/what-are-boards/), and with a frozen chat.</span>
 
 Check the order requirements at any time in the Requirements tab.
 
@@ -68,7 +68,7 @@ During this time your funds are held by HostJane until the Seller delivers the o
 
 System messages from HostJane will keep you up-to-date with everything you need to do and all activity inside your order. The Seller should keep you updated.
 
-In the right side of the workspace, you can access all links, files, media, docs and resources associated with your order. 
+<span class="purple">In the right side of the workspace, you can access all links, files, media, docs and resources associated with your order.</span>
 
 All deliveries the Seller gives you will be neatly organized for easy access in this space.
 
@@ -78,13 +78,13 @@ In the left side of the order you will see a Summary of your payment, the order 
 
 ![](/assets/summary.png)
 
-Any license or NDA agreement signed between you and the Seller will be signed and active upon the Seller accepting the order.
+<span class="green">Any license or NDA agreement signed between you and the Seller will be signed and active upon the Seller accepting the order.</span>
 
 Click on the license in the summary box to view the signed legal document.
 
 ![](/assets/license.png)
 
-To view the Board, click on the Board tab next to chat. New boards will start empty.
+To view [the Board](/getting-started/what-are-boards/), click on the Board tab next to chat. New boards will start empty.
 
 ![](/assets/board-tab.png)
 
@@ -92,7 +92,9 @@ To create a List, click Add New List.
 
 ![](/assets/new-list.png)
 
-To learn more about Boards, Lists and Cards, view our Boards FAQ. In the example below, the Buyer has added a list with a card.
+<span class="green">To learn more about Boards, Lists and Cards, read [our Boards FAQ](/getting-started/what-are-boards/).</span>
+
+In the example below, the Buyer has added a list with a card.
 
 ![](/assets/Board-1.png)
 
@@ -122,7 +124,7 @@ You can either accept the delivery and release your funds to the Seller, or ask 
 
 The Seller must offer at least 1 revision and tell you before buy their Service.
 
-The Work Preview will be watermarked or abridged but in sufficient enough detail for you to make a decision on whether or not to accept the Seller's work and release funds.
+<span class="orange">The Work Preview will be watermarked or abridged but in sufficient enough detail for you to make a decision on whether or not to accept the Seller's work and release funds.</span>
 
 In Web/Mobile/Tech, a Work Preview can be a preview of the finished website or software on a staging server.
 
