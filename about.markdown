@@ -119,7 +119,9 @@ The company is committed to do our part by donating a portion of our profits to 
 
 # How do I become a Seller?
 
-To add a Service at any time go to the Become a Seller page, review the general terms of service and acceptable use policy to make sure you agree and then choose a category to create your listing.
+<span class="green">To add a Service at any time go to the [Become a Seller](https://www.hostjane.com/sell) page.</p>
+
+Review the [general terms of service](https://www.hostjane.com/legal/tos/) and [acceptable use policy](https://www.hostjane.com/legal/privacy/) to make sure you agree and then choose a category to create your listing.
 
 When your first listing is live, your profile which is viewable to members only will automatically be transitioned to a studio.
 
