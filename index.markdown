@@ -28,7 +28,7 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 # We move work forwards
 
-<span class="yellow">HostJane gives people around the world a safe and trusted place to discover skilled labor and timely resources at startup pricing.</span>
+<span class="blue">HostJane gives people around the world a safe and trusted place to discover skilled labor and timely resources at startup pricing.</span>
 
 <span class="green">An access bridge to online freelancers for work, side projects, or webcam learning, we are on a mission to help you nail your online tasks and [keep money moving](https://www.hostjane.com/about). We value high standards in privacy, security and content.</span>
 
@@ -40,7 +40,9 @@ HostJane is [how we work remote](/buyers/hostjane-workspace/).
 
 ![](/assets/board-view.png)
 
-On HostJane there is 1 time zone. We remove borders, gatekeepers and red tape. Collaborate with the right people, at the right time. Our [simple process](/buyers/hostjane-roadmap/) includes [payment protection](/getting-started/#payment-protection-guarantee) for buyers and shields every seller from bad actors.
+<span class="yellow">On HostJane there is 1 time zone. We remove borders, gatekeepers and red tape.</span>
+
+We assist you to collaborate with the right people, at the right time. Our [simple process](/buyers/hostjane-roadmap/) includes [payment protection](/getting-started/#payment-protection-guarantee) for buyers and shields every seller from bad actors.
 
 Get rid of:
 
