@@ -31,7 +31,7 @@ So as a rule of thumb, you can sell your Service here if what you do for people 
 
 # What is a skill?
 
-On HostJane a “Skill" is your ability to do a useful Service, something that can be delivered "virtually" over the internet, that helps a Buyer because they cannot do the task without your help.
+<span class="green">On HostJane a “Skill" is your ability to do a useful Service, something that can be delivered "virtually" over the internet, that helps a Buyer because they cannot do the task without your help.</span>
 
 Sellers offer their skills in a number of different categories including:
 
@@ -44,9 +44,9 @@ Sellers offer their skills in a number of different categories including:
 - [x] Business
 - [x] Online teaching / tutoring
 
-Being able to build a website or fix someone’s computer remotely would be classed as skills here, as much as being able to teach a language over Skype or create custom artwork.
+<span class="yellow">Being able to build a website, teach someone how to code, or fix someone’s computer remotely would be classed as skills here, as much as being able to teach a language over Skype or draw custom artwork.</span>
 
-If you have a skill for doing something most people would consider useful, there’s a market for it here at HostJane.
+If you have a skill for doing something most people would consider useful, there’s a market for it here at HostJane. Please join us and [open a studio](https://www.hostjane.com/sell)!
 
 # Who is a Buyer? 
 
@@ -56,20 +56,26 @@ A Buyer is any user who needs a Service. That can be anyone from a student seeki
 
 # Who is a Seller?
 
-A Seller is any user offering a Service based on their Skill.
+<span class="green">A Seller is any user offering at least 1 Service based on [their Skill](/about/#what-is-a-skill).</span>
 
 If you are an incorporated business or intend to buy or sell over 20 orders per month, please sign up or convert your individual account to a business account.
 We refuse to segregate Buyers and Sellers on HostJane. While Sellers see additional stats and sales analytics after posting at least 1 listing; the order center and reporting is integrated for every user to be a multi-player. We deliberately designed it that way.
 
-Any user can seamlessly purchase services and enter confidentiality and licensing contracts with other users as easily as they sell their own Services and find new clients.
+Any user can seamlessly purchase services as easily as they can sell their own Services.
 
 # Why are accounts integrated?
 
 At HostJane, we believe work communities should avoid segregating people into different functions or tiered systems. For that same reason we also avoid badges, followers or levels that you might see on other marketplaces.
 
-The only visible metric that might separate users here is the individual sales, or flame score and job completeness rating that are linked to client satisfaction if the user decides to sell Services.
+<span class="green">The only visible metric that might separate users here is the individual sales, or flame score and job completeness rating that are linked to client satisfaction if the user decides to sell Services.</span>
 
-Sellers also have a publicly available Studio while Buyer profiles can only be browsed by members for privacy.
+Seller tools include:
+
+- [x] A publicly-available Studio to promote your business and services anywhere online. 
+- [x] Ability to [accept tips](https://help.hostjane.com/buyers/#sending-tips) through your Studio (and HostJane's [WordPress tips](https://wordpress.org/plugins/tip-my-work-hostjane-payments/) plugin - [read guide](https://www.hostjane.com/wordpress))
+- [x] Ability to send [Custom offers](https://help.hostjane.com/sellers/#how-do-i-send-a-custom-offer)
+
+<span class="blue">Buyer's are users with 0 listings. Buyer profiles can only be browsed by HostJane members as part of our commitment to safeguard [user privacy](https://www.hostjane.com/legal/privacy/) .</span>
 
 # Who is HostJane for?
 
@@ -85,9 +91,7 @@ Our hosting is aimed at business owners who need solid, fast and ‘always up’
 
 # Where is HostJane based?
 
-The HostJane development team operates as a distributed company with developers working remotely from home all over the world, very much like the freelance sellers trading their skills on the platform.
-
-While some of the team reside in Australia, the company hosts web developers, designers and IT support professionals mainly from the U.S. (where web hosting support is served from) but also far-flung cities across Europe and India where systems engineers and software developers work remotely on the business.
+A Wyoming, U.S. corporation, HostJane, Inc. keeps costs low by operating with a globally distributed team; a community of web and software developers, engineers and IT support professionals based both inside the U.S. and far-flung cities across Europe, Australia and Asia.
 
 # How old is HostJane?
 
