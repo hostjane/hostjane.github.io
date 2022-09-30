@@ -75,7 +75,7 @@ Seller tools include:
 - [x] Ability to [accept tips](https://help.hostjane.com/buyers/#sending-tips) through your Studio (and HostJane's [WordPress tips](https://wordpress.org/plugins/tip-my-work-hostjane-payments/) plugin - [read guide](https://www.hostjane.com/wordpress))
 - [x] Ability to send [Custom offers](https://help.hostjane.com/sellers/#how-do-i-send-a-custom-offer)
 
-<span class="blue">Buyer's are users with 0 listings. Buyer profiles can only be browsed by HostJane members as part of our commitment to safeguard [user privacy](https://www.hostjane.com/legal/privacy/) .</span>
+<span class="blue">Buyers are users with 0 listings. Buyer profiles can only be browsed by HostJane members as part of our commitment to safeguard [user privacy](https://www.hostjane.com/legal/privacy/) .</span>
 
 # Who is HostJane for?
 

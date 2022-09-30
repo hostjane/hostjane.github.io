@@ -9,7 +9,7 @@ permalink: /
 # Jane can help. ![](/assets/wave.svg)
 {: .fs-9 }
 
-HostJane is an on-demand [freelancing marketplace](https://www.hostjane.com/marketplace) with [a better workspace](#we-move-work-forwards) for people anywhere to buy and sell skills and [host their websites](https://www.hostjane.com/hosting). 
+HostJane is an on-demand [freelancing marketplace](https://www.hostjane.com/marketplace), with [a better workspace](#we-move-work-forwards), made for people who buy and sell skills and [host websites](https://www.hostjane.com/hosting). 
 {: .fs-6 .fw-300 }
 
 It's free [to join](https://www.hostjane.com/marketplace/register) and there are no fees. 
