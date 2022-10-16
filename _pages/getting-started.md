@@ -12,6 +12,10 @@ permalink: /getting-started/
 
 <span class="green">You will spend less time and less money getting better outcomes with freelancers on HostJane than other marketplaces and job agencies.</span>
 
+![](/assets/Board-1.png)
+
+<span class="purple">Above, an example board with chat. HostJane assists Buyers and Sellers to organize tasks in orders and lessons</span>
+
 ## In this section
 {: .no_toc .text-delta }
 
