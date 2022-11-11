@@ -46,6 +46,39 @@ Listings are reviewed by Admin and can take up to 30 minutes to appear live on H
 
 To ensure there is not a delay, please review the Acceptable Use Policy to ensure your listing is in line with HostJane policies.
 
+# Attract more buyers with a face picture
+
+- [x] Use a recent selfie or picture that shows only you, not a group.
+- [x] Opt for a clear close-up of your face, with no blurring or out of focus elements.
+- [x] Your profile picture should complement your brand with the right background, context and colors. 
+- [x] If you are a web developer or sell digital marketing, use your office as a background. If you’re an artist, be in your studio. If you’re a musician, be with your instrument.
+
+<span class="orange">We recommend your HostJane picture use [these tips from LinkedIn](https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)</span>
+
+# Tips for writing a good summary and bio
+
+- [x] Summaries are 100 characters 
+
+<span class="blue">Pick a short and punchy sentence of what you can do for people. Your summary is highlighted in light blue on your Studio page and will be one of the first texts Buyers will read about you.</span>
+
+- [x] Bios are 500 characters
+
+<span class="green">Create a strong, compelling HostJane bio and summary that highlights your skills used to deliver the Services you are selling on HostJane. This is a major selling point for your listings as it helps to make them feel complete.</span>
+
+If you have related qualifications or work history that you use to deliver your Services or professional accomplishments that are part of what sets your Service apart, then give prospective Buyers a basic summary here and expand on that inside your listings.
+
+- [x] Adopt a relaxed, friendly writing style like you're having a conversation with the Buyer.
+- [x] Write in the first person (I, me, my)
+- [x] Focus on your strengths
+- [x] Use job-related keywords
+- [x] Directly mention your hard and soft skills relevant to your Service and go into detail in your listings
+- [x] It's okay to include numbers and data to backup your claims
+- [x] Only mention the skills you use to deliver the Services you are selling on HostJane
+- [x] It's fine to include a call to action (CTA) for people to request a quote or message you on HostJane
+- [x] It's also acceptable to mention any discounts you are running on your Services
+
+<span class="red">Don't include external websites or social media accounts, the purpose of your HostJane bio and summary is to funnel Buyers to your HostJane listings for sales.</span>
+
 # Adding a Video to Your Listing
 
 Listings with personal video attract more views in categories because interactive media engages people more effectively and a video preview can play in your selected categories.
