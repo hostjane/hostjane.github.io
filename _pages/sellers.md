@@ -63,9 +63,9 @@ To ensure there is not a delay, please review the Acceptable Use Policy to ensur
 
 - [x] Bios are 500 characters
 
-<span class="green">Create a strong, compelling HostJane bio and summary that highlights your skills used to deliver the Services you are selling on HostJane. This is a major selling point for your listings as it helps to make them feel complete.</span>
+<span class="green">Create a strong, compelling HostJane bio and summary that highlights your skills used to deliver the Services you are selling on HostJane. This is a major selling point for your listings as it makes your branding feel complete.</span>
 
-If you have related qualifications or work history that you use to deliver your Services or professional accomplishments that are part of what sets your Service apart, then give prospective Buyers a basic summary here and expand on that inside your listings.
+If you have related qualifications or work history that you use to deliver your Services or professional accomplishments that are part of what sets your Service apart, please give prospective Buyers a basic summary here and expand on that inside your listings.
 
 - [x] Adopt a relaxed, friendly writing style like you're having a conversation with the Buyer.
 - [x] Write in the first person (I, me, my)
@@ -74,10 +74,10 @@ If you have related qualifications or work history that you use to deliver your 
 - [x] Directly mention your hard and soft skills relevant to your Service and go into detail in your listings
 - [x] It's okay to include numbers and data to backup your claims
 - [x] Only mention the skills you use to deliver the Services you are selling on HostJane
-- [x] It's fine to include a call to action (CTA) for people to request a quote or message you on HostJane
+- [x] It's fine to include a call to action (CTA) for people to request a quote or message you through your listings
 - [x] It's also acceptable to mention any discounts you are running on your Services
 
-<span class="red">Don't include external websites or social media accounts, the purpose of your HostJane bio and summary is to funnel Buyers to your HostJane listings for sales.</span>
+<span class="red">Don't include external websites or social media accounts, the purpose of your HostJane bio and summary is to funnel Buyers to your HostJane listings to hire your service.</span>
 
 # Adding a Video to Your Listing
 
@@ -91,7 +91,7 @@ We accept videos from YouTube and Vimeo.
 
 ![](/assets/video1.png)
 
-Copy the share link and paste into the Video box on the listings page. You can add up to 3 video embeds.
+<span class="yellow">Copy the **share link** and paste into the Video box on the listings page. You can add up to 3 video embeds per.</span>
 
 ![](/assets/video2.png)
 
