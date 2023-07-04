@@ -29,58 +29,9 @@ Instead, phpMyAdmin must first be installed and then accessed via a standard bro
 
 Click the green download button or the .zip file on the top line of the phpMyAdmin latest releases.
 
-## 2. FTP Login to your server
+## FTP Login to your server
 
-Connect with FileZilla
-
-Use HostJane’s FTP tutorial to connect to your VPS.
-
-### A. Login to the Hosting Portal
-
-Bookmark login: https://console.hostjane.com/client/login
-
-In your Dashboard under Services, find your WordPress server.
-
-| Package | Label | Term  | Date Created | Date Renews | Options |
-|:-------|:----------|:------|:----------|:------|:------|
-| WordPress | Domain.com | 1 month @ $0.00 | Jan 1 | Feb 1 |*Manage* |
-
-We offer 24×7×365 support
-
-If you cannot see your WordPress service, open a support case.
-
-### B. Click the Manage option
-
-This is the button in the last column under Services.
-
-You will be transferred to your WordPress server's dashboard. 
-
-| Package | Status|
-|:-------|:----------|
-| WordPress | Active|
-| **Label** | **Renew Date**|
-| Domain.com | Feb 1 |
-| **Creation Date** | **Next Invoice**|
-| Jan 1 | Feb 1 |
-| **Billing Cycle** | **Recurring Amount**|
-| 1 Month | $0.00 |
-
-### C. Click Statistics in the menu
-
-Below is a sample screenshot of the Server Information.
-
-Below is a example screenshot of the Application Information.
-
-| WordPress Server Details|
-|:-------|
-| To complete your WordPress installation follow these instructions: |
-| 1. Log into the WP admin panel using the following credentials |
-| `https://123.456.789.1/wp-admin` |
-| `User: JaneDoe` |
-| `Pass: 123456789` |
-| Point your domain name "A record" to 123.456.789.1 |
-
-### D. Open FileZilla
+Connect with [FileZilla](https://filezilla-project.org/)
 
 Enter the following information:
 
@@ -89,13 +40,13 @@ Enter the following information:
 - [x] Password: [Your_Server’s_Password] as found in Statistics
 - [x] Port: 22
 
-### E. Navigate to /var/www/html
+### Navigate to /var/www/html
 
 Open /html folder:
 
 ![](/assets/hosting/ftp-var-www-html.png)
 
-## 3. Upload phpMyAdmin to /html folder
+## Upload phpMyAdmin to /html folder
 
 In the left window, navigate to the phpMyAdmin .zip file you downloaded in Step 1.
 
@@ -107,7 +58,7 @@ View the uploaded document in the right-hand server window when the 10MB file up
 
 ![](/assets/hosting/server-window.png)
 
-## 4. Unzip phpMyAdmin on the server
+## Unzip phpMyAdmin on the server
 
 You cannot unzip files remotely using FTP.
 
@@ -129,7 +80,7 @@ You will see the phpMyAdmin zip being inflated into a directory folder on your  
 
 ![](/assets/hosting/inflating-phpmyadmin.png)
 
-## 5. Change the phpMyAdmin directory name
+## Change the phpMyAdmin directory name
 
 To protect phpMyAdmin, change the directory name to your chosen name
 
@@ -147,7 +98,7 @@ This is visual confirmation the phpMyAdmin folder has been successfully changed.
 
 ![](/assets/hosting/janeadmin-folder-appears.png)
 
-## 6. Create a configuration file for phpMyAdmin
+## Create a configuration file for phpMyAdmin
 
 Change the directory of your prompt user to janeadmin
 
@@ -185,11 +136,11 @@ Pull up a fresh browser window like Chrome, and enter into the address bar:
 
 ![](/assets/hosting/phpmyadmin-browser.png)
 
-## 8. Sign in to phpMyAdmin as root user
+## Sign in to phpMyAdmin as root user
 
 Make sure you are logged into the server (via OpenSSH or PuTTY) as the root user
 
-### A. Obtain root password
+### Obtain root password
 
 To find out the root password to login to the phpMyAdmin management tool, enter on the CLI:
 
@@ -199,7 +150,7 @@ The phpMyAdmin root password will be displayed.
 
 ![](/assets/hosting/phpMyAdmin-password-mysql.png)
 
-### B. Enter root credentials into browser:
+### Enter root credentials into browser:
 
 <span class="purple">Username: root
 Password: [As shown in the terminal shell]</span>
@@ -208,7 +159,7 @@ Proceed to enter phpMyAdmin
 
 ![](/assets/hosting/phpMyAdmin-logged-in.png)
 
-## 9. Secure the phpMyAdmin installation
+## Secure the phpMyAdmin installation
 
 To ensure authorized users only can access phpMyAdmin in the browser, password secure the login.
 

@@ -18,23 +18,13 @@ permalink: /vps-hosting/migrating-wordpress-vps/
 1. TOC
 {:toc}
 
-## 1. Purchase a WordPress VPS
+## Set up your WordPress VPS
 
-Use HostJane's Server Wizard to find the server size that's right for you. HostJane WordPress VPS runs directly on an Ubuntu linux distribution, without any third-party CMS.
-
-Select Content Management Systems > WordPress
-
-![](/assets/hosting/server-wizard.png)
-
-You can run a WordPress VPS in up to 17 datacenter locations, we recommend choosing a location that nearest to your customers. 
-
-## 2. Set up your WordPress VPS
-
-Before you migrate your old WordPress site, setup your new WordPress VPS.
+Before you migrate your old WordPress site, setup your new WordPress VPS or purchased Managed WordPress with AWS on a [VPS managed by HostJane](https://www.hostjane.com/hosting/#hostjane-buy-hosting).
 
 The new WordPress installation should be reachable in the browser at an IP address, for example: 123.456.789.1
 
-## 3. Back up your old site
+## Back up your old site
 
 All-in-One WP Migration is easy to use, but care should be used with import/export options as it can affect your WordPress database.
 
@@ -42,7 +32,7 @@ It's best to back up your existing WordPress site at the start.
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/BpWxCeUWBOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 4. Export your old WordPress website
+## Export your old WordPress website
 
 Login to your old WordPress host by going to /wp-admin/ or /wp-login.php/ at your existing site.
 
@@ -82,7 +72,7 @@ Eventually you’ll see a flashing green Download LocalHost button.
 
 Click Download to export your WordPress site as a .wpress file to your local computer.
 
-## 5. Import your old WordPress site
+## Import your old WordPress site
 
 We assume you have already set up your WordPress VPS so the new WordPress site is reachable in the browser.
 
@@ -142,13 +132,13 @@ Log back into your new WordPress server using your old site’s /wp-admin/ usern
 
 We recommend updating the username and password to your new site, use a strong password generator to create a password longer than 16 characters that even hackers can’t manipulate.
 
-## 6. Change your password
+## Change your password
 
 Don't use an easy password
 
 Use a strong password generator to choose a secure, random password for your site.
 
-## 7. Update Permalink Structure TWICE
+## Update Permalink Structure TWICE
 
 Finally, in Permalink Settings, click Save Changes once.
 
@@ -161,23 +151,5 @@ Your new WordPress site should have been successfully imported!
 Click Visit Site in the top left dropdown to visit your new Website.
 
 If everything has gone well, you should see your old WordPress site on your new WordPress VPS with HostJane. Congratulations!
-
-### Take a Snapshot for Extra Precautions
-
-Keep in mind that if you want to backup your WordPress VPS for server to protect your data.
-
-Login to the Hosting Portal and go to Snapshots in your WordPress server’s dashboard.
-
-Take a backup copy of the entire server before you import the .wpress file, so you can restore by contacting us (admin fee applies).
-
-| Package | Status|
-|:-------|:----------|
-| WordPress | Active|
-| **Label** | **Renew Date**|
-| Domain.com | Feb 1 |
-| **Creation Date** | **Next Invoice**|
-| Jan 1 | Feb 1 |
-| **Billing Cycle** | **Recurring Amount**|
-| 1 Month | $0.00 |
 
 If you’re comfortable using a command line program like [WP-CLI](https://wp-cli.org/), ServMask’s All-in-One WP migration plugin [can be handled](https://help.servmask.com/knowledgebase/cli-integration/) from that interface.
