@@ -72,11 +72,9 @@ Get a birdview's view of your project across every task, issue and archived card
 
 ### Faster websites
 
-HostJane also provides [reliable web hosting](https://www.hostjane.com/hosting/) for small and mid-sized businesses. Our ultra-fast Virtual Private Servers (VPS) include 24/7 rock-solid support and a 100% Uptime SLA.
+HostJane also provides [managed VPS hosting](https://www.hostjane.com/hosting/) for small and mid-sized businesses backed by the power of AWS.
 
-![](/assets/cloud-plans.png)
-
-<span class="orange">Use our VPS wizards to deployed secure, managed VPS in 120 seconds, inside one of 17 global datacenters, enabling you to focus on running your business.</span>
+<span class="green">Get 24/7 rock-solid support on your VPS, and a close-to-100% Uptime SLA with our [Managed WordPress](https://www.hostjane.com/hosting/#hostjane-buy-hosting) and [Managed cPanel VPS](https://www.hostjane.com/hosting/#cpanel-hosting) plans.</span>
 
 ---
 
