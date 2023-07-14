@@ -27,15 +27,12 @@ permalink: /vps-hosting/
 | Free SSL	| HostJane can install a free Let's Encrypt SSL certificate that self-renews every 3 months. With root access or through cPanel, you can install any commercial SSL. |
 | Managed server	| HostJane secures, monitors, and keeps your server stable. We deal with all software updates, stack issues, malware removal, and security patches. |
 | Latest technology	| HostJane supports the latest versions of the best programming languages, including PHP, MySQL, Perl, and Python, to name a few. |
-| Root access	| Maintain total control over your server’s configuration with root password access. [Contact us](https://www.hostjane.com/marketplace/support-root-access) us for root access. |
+| Root access	| Maintain total control over your server’s configuration with root password access. [Contact us](https://www.hostjane.com/marketplace/support-root-access) for root access. |
 | Dedicated IP	| There is an AWS IPv4 associated with your VPS. |
 
 ## Fully-managed hosting
 
-1. All HostJane servers are fully-managed for you by a team of experts. We back-up and secure your VPS for you.
-2. *Fully managed* hosting in comparison to self-managed hosting as an analogy means fully-managed is like driving a car without needing to know how the carburetor works.
-4. With HostJane, we are your website’s mechanics and pilots, letting you get on with your business.
-5. Most importantly, “fully managed” means that we will help you resolve glitches, core updates, patches, and all technical problems you encounter.
+All HostJane servers are AWS instances with an Amazon dedicated IP, protected by AWS Shield. HostJane will manage your VPS instance to ensure your web server is always online, kept up-to-date, any core updates or patches performed, and all technical problems concerning the server resolved.
 
 ## Zero Tolerance Spam policy
 
@@ -58,7 +55,7 @@ We usually sell new servers with a Solo or trial cPanel license. Once the 15 day
 
 ## Daily backups
 
-- [x] HostJane can nightly backups of your entire server files and databases for a small fee.
+- [x] If selected during checkout, HostJane will perform daily backups of your AWS server including all files and databases.
 - [x] We generally always have at least 5-7 past backups of the entire VPS servers in our system.
 - [x] To request a restoration from a past backup, please contact us. There are no fees for this request.
 
@@ -82,55 +79,28 @@ View HostJane's [refund policy](https://www.hostjane.com/legal/hosting-terms/) u
 
 To cancel your subscription, please use the email you paid with to access the [Stripe billing portal](https://billing.stripe.com/p/login/3cs9AL9Aocs5dz2dQQ).
 
-# Why choose a VPS?
+# What is a Virtual Private Server?
 
-### What is shared hosting?
+A [virtual private server](https://cloud.google.com/learn/what-is-a-virtual-private-server) is like a virtual compartment on a physical AWS server, guaranteeing you resources that simulate a dedicated environment.
+
+![](/assets/hosting/how-web-hosting-works.svg)
 
 Your website is made up of "files" called web pages. For people to access and read your site's files—doesn't matter if they're using a computer in your street or on the other side of the world—2 things need to happen:
 
 1. Your files need to be stored on a server that can exchange information with other computers and servers anywhere. Your web server is like the hard drive on your own computer, but makes your files public.
+
 2. The web server your files are stored on needs to have a unique, public address. We call this address your nameservers, and they are part of the Domain Name System (DNS), so other computers can find you.
 
-When you host your website, you are buying space on a server for their files, and an assigned public address.
+When you host your website with HostJane, you are buying space and resources on a powerful AWS server for your files, and an assigned public address.
 
-![](/assets/hosting/how-web-hosting-works.svg)
+### Choose a VPS if:
 
-#### The key difference
-
-- With shared hosting, you are sharing server resources. With VPS, you have your own compartment.
-
-- Though sub dollar pricing is attractive, shared hosts notoriously cram as many customers as possible onto a web server, severely restricting performance of your website.
-
-#### Choose a VPS if:
-
-1. You don't want your website disrupted by minute or large changes from the thousands of other sites on the same server as you;
-2. You are aiming to break into the Alexa Top 20,000 of most trafficked sites;
-3. Your site is scaling for medium to large traffic;
+1. You don't want your website disrupted by minute or large changes from thousands of other sites on a shared server
+2. You are aiming to break into the Alexa Top 20,000 of most trafficked sites
+3. Your site is scaling for medium to large traffic
 4. You are hosting an application with resource intensive software scripts
 
-When we first started, HostJane provided free migrations to a shared hosting service, Plainspeed, which we terminated before cPanel moved to account-based pricing because we believe VPS is a better strategy for small website owners.
-
-![](/assets/hosting/hostjane-free-migration.gif)
-
-HostJane VPS are managed on AWS, fast (because we separate all your files on the server in a "virtualization layer" to minimize disruption), and a workable alternative to having a dedicated server.
-
----
-
-### What is dedicated hosting?
-
-HostJane's dedicated servers offer premium, state-of-the-art hardware backed by our 100% SLA.
-
-**You are the single occupant on the server no neighbors, and you customize every aspect of the server and all its resources to your needs.**
-
-Dedicated environments generally make your website more secure, and gives more consistent server performance over time.
-
-Think of hosting your website on a server like buying in an apartment building:
-
- - [x] Shared hosting buys you a condo, where you'll have to share amenities with other tenants on your floor and other floors in the building;
- - [x] VPS hosting buys you an entire floor in the building, giving you more room and more resources;
- - [x] Dedicated hosting gives you the entire building complex – all cores, memory and disk storage – all devoted to your website's needs.
-
-### Domain pointing
+### Pointing your domain
 
 Please refer to our guide on [how to create an A record](https://help.hostjane.com/vps-hosting/point-your-domain/). Instructions are also sent on purchase.
 

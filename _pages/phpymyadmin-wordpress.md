@@ -9,7 +9,9 @@ permalink: /vps-hosting/phpmyadmin-wordpress/
 
 # Install phpMyAdmin on WordPress VPS
 
-<span class="green">Access and make changes to your WordPress MySQL database.</span>
+<span class="orange">Access and make changes to your WordPress MySQL database.</span>
+
+<span class="green">[Contact HostJane](https://www.hostjane.com/marketplace/support-root-access) for root access to your VPS.</span>
 
 <span class="blue">[phpMyAdmin](https://www.phpmyadmin.net/) is a free database management tool.</span>
 
@@ -23,7 +25,7 @@ Instead, phpMyAdmin must first be installed and then accessed via a standard bro
 1. TOC
 {:toc}
 
-## 1. Download phpMyAdmin
+## Download phpMyAdmin
 
 [Latest version of phpMyAdmin](https://www.phpmyadmin.net/downloads/) can be downloaded as a zip file to your local computer.
 
@@ -128,7 +130,7 @@ Write the changes with ctrl + O and press `Enter to save the changes`
 
 Now exit back to the command line, with `ctrl + x`
 
-## 7. Visit phpMyAdmin in the browser
+## Visit phpMyAdmin in the browser
 
 Pull up a fresh browser window like Chrome, and enter into the address bar:
 
