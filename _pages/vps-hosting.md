@@ -10,7 +10,7 @@ permalink: /vps-hosting/
 # Introducing HostJane VPS
 {: .no_toc }
 
-<span class="blue">Across 8 global AWS datacenters, HostJane VPS offers lightning-fast, managed VPS backed by the power and reliability of AWS.</span>
+<span class="blue">Across 10 global AWS datacenters, HostJane VPS offers lightning-fast, managed VPS backed by the power and reliability of AWS.</span>
 
 ## In this section
 {: .no_toc .text-delta }
