@@ -126,7 +126,7 @@ However, our staff are not your individual web designers or site developers.
 
 Please contact a freelancer on our marketplace if you need help with bug fixes, developing or designing your website.
 
-#### What can we help with?
+### What do we help with?
 
 Open a support case for help with the following types of issue:
 
@@ -137,7 +137,7 @@ Open a support case for help with the following types of issue:
 - [x] System critical functions
 - [x] cPanel misconfigurations or usability problems
 
-#### Web design, bug fixing & development support
+### Web design, bug fixing & app development
 
 [HostJane marketplace](https://www.hostjane.com/marketplace) connects you with freelance web, mobile, and software developers at fixed-prices, with a buyer money-back guarantee if work is unsatisfactory or late.
 
