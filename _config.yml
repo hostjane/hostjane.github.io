@@ -23,7 +23,7 @@ email: support@hostjane.com
 description: Get started, troubleshoot, and make the most of HostJane. Help for new users, sellers, hosting customers, and all of HostJane's products.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hostjane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hostjane_com
+twitter_username: hostjane
 github_username:  hostjane
 include: ["_pages"]
 

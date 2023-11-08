@@ -323,7 +323,7 @@ You're free use subcontractors to fulfil Services on HostJane so long as you mee
 
 # How do I increase my sales?
 
-Promote your account by placing your HostJane studio link in the "About" fields of your blog and social profiles, share posts via Twitter, and advertise your HostJane Listings anywhere you freelance or have followers online.
+Promote your account by placing your HostJane studio link in the "About" fields of your blog and social profiles, share posts via X, and advertise your HostJane Listings anywhere you freelance or have followers online.
 
 Your studio link to HostJane is HostJane.com/marketplace/Username
 
