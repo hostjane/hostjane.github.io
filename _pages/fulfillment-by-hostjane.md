@@ -13,6 +13,8 @@ permalink: /getting-started/fulfillment-by-hostjane/
 
 ![](/assets/fbh.jpeg)
 
+<span class="yellow">Recommended - Engage [hand-picked web developers](https://www.hostjane.com/community/websites) with verified work histories.</span>
+
 ## Better work
 
 At no extra cost, we provide a trusted network of HostJane-affiliated freelancers to receive, manage and complete your job, with an end-to-end customer service, delivering work that meets reasonable standards and expectations.
@@ -37,13 +39,10 @@ If you’re completely new to the HostJane marketplace, the first step is to ope
 
 Find a HostJane-affiliated account (HJA) in your project's subject area, offering affordable services at attractive rates:
 
-- [x] [JaneWeb](http://www.hostjane.com/marketplace/janeweb): WordPress, mobile apps and web design
-- [x] [JaneDev](http://www.hostjane.com/marketplace/janedev): Programming and software development
-- [x] [ArtJane](http://www.hostjane.com/marketplace/artjane): Book illustration to animated film
-- [x] [WriterJane](http://www.hostjane.com/marketplace/writerjane): Ghost writing to professional copyediting
-- [x] [JaneTranslates](http://www.hostjane.com/marketplace/janetranslates): Technical translation for notarized-ready delivery
-- [x] [TutorJane](http://www.hostjane.com/marketplace/tutorjane): Network of tutors ready to coach you
-- [x] [JaneBiz](http://www.hostjane.com/marketplace/janebiz): Digital marketing for SMEs
+- [x] [Web Developers](https://www.hostjane.com/community/websites/): WordPress, mobile apps and web design
+- [x] [Graphic Designers](https://www.hostjane.com/community/designers): Logos, video/animation, illustration
+- [x] [Translators](https://www.hostjane.com/community/translators): Qualified, native-speaking language tutors
+- [x] [Digital Marketeers](https://www.hostjane.com/community/business): SEO, accounting, virtual assistants
 
 ### Step 3
 
