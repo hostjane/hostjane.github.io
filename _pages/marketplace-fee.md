@@ -27,7 +27,7 @@ To operate our platform and provide marketing, hosting and payment services to B
 - 20% on Tips.
 {% endhighlight %}
 
-Sellers retain a guaranteed 80% on all Sales including listings, custom orders and tips, because HostJane pays all credit card processing and bank fees.
+Sellers retain a guaranteed 95% on all Sales including listings, custom orders and tips, because HostJane pays all credit card processing and bank fees.
 
 Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 per order. Bill is her first Buyer. Alison pays no fees, and makes $80 coding on Bill's site.
 

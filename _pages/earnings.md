@@ -17,9 +17,9 @@ Please [contact us](https://www.hostjane.com/marketplace/contact) if you have an
 
 <span class="blue">We follow the [HostJane Roadmap](/buyers/hostjane-roadmap/)</span>
 
-* The standard Seller Earnings rate is 80% on all Listings, Online Lessons, Custom Offers and Tips
+* The standard Seller Earnings rate is 95% on all Listings, Online Lessons, Custom Offers and Tips
 Each Seller sets the price of their own Services
-HostJane pays all bank and credit card fees so you receive the full 80% from each sale
+HostJane pays all bank and credit card fees so you receive the full 95% from each sale
 
 * There is a 5-day waiting period before you can withdraw earned funds from completed orders to prevent fraud and other problems
 
@@ -37,7 +37,7 @@ As soon as you open 1 listing, a sales snapshot will be available in your dashbo
 
 ![](/assets/snapshot.png)
 
-Standard earnings are 80%. HostJane pays all credit card processing and overhead costs from our Marketplace Fee.
+Standard earnings is 95%. HostJane pays all credit card processing and overhead costs from our Marketplace Fee.
 
 Use the Set Your Price calculator when creating or editing your listing to calculate how much your Buyer will pay and how much you will earn on each order.
 
@@ -45,7 +45,7 @@ Use the Set Your Price calculator when creating or editing your listing to calcu
 
 ### The Base Price is made up of:
 
-* **Service Cost**: You set this price to cover the cost of your Work. It should include your 80% seller percentage and the 20% Marketplace Fee that HostJane bills per order.
+* **Service Cost**: You set this price to cover the cost of your Work. It should include your 95% seller percentage and the 20% Marketplace Fee that HostJane bills per order.
 
 * **Handling Fee**: The $1.99 non-refundable fee that Buyers pay HostJane irregardless of the total price of the transaction to support our running costs.
 

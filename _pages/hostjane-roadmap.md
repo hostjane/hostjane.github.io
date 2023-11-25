@@ -103,10 +103,10 @@ All bank and card fees are paid by HostJane. With the Handling Fee of $1.99, the
 | Handling fee | $0   | $1.99  |
 | Other fees           | $0      | $0   |
 | License           | $0 | Buyer Owns Rights ($0)  |
-| Marketplace Fee | 20% ($20)   | $0  |
+| Marketplace Fee | 5% ($5)   | $0  |
 | Delivery fee         | $0     | $0   |
-| Totals           | $80 | $101.99  |
+| Totals           | $95 | $101.99  |
 
-<span class="red">To protect against fraud, HostJane has a 5-day waiting period before Seller can withdraw their 80% net earnings to their bank.</span>
+<span class="red">To protect against fraud, HostJane has a 5-day waiting period before Seller can withdraw their 95% net earnings to their bank.</span>
 
 All payments are made in U.S. dollars.
