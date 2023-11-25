@@ -45,7 +45,7 @@ Use the Set Your Price calculator when creating or editing your listing to calcu
 
 ### The Base Price is made up of:
 
-* **Service Cost**: You set this price to cover the cost of your Work. It should include your 95% seller percentage and the 20% Marketplace Fee that HostJane bills per order.
+* **Service Cost**: You set this price to cover the cost of your Work. It should include your 95% seller percentage and the 5% Marketplace Fee that HostJane bills per order.
 
 * **Handling Fee**: The $1.99 non-refundable fee that Buyers pay HostJane irregardless of the total price of the transaction to support our running costs.
 
@@ -65,18 +65,18 @@ The Seller uses the left box to enter a Service Cost of $100.
 - [x] The Base price is the Service Cost added to the Handling Fee
 - [x] The Handling fee is $1.99
 - [x] Buyer will pay $101.99 for the Service Cost and the Handling Fee
-- [x] HostJane's Marketplace Fee is 20% of the Service Cost.
+- [x] HostJane's Marketplace Fee is 5% of the Service Cost.
 
 ### Putting it all together:
 
 {% highlight yaml %}
 Seller's Earnings = Service Cost - Marketplace Fee
-= ($100) - (20% x $100)
-= $100 - $20
-= $80 USD
+= ($100) - (5% x $100)
+= $100 - $5
+= $95 USD
 {% endhighlight %}
 
-So in this case, the Seller earned $80 USD
+So in this case, the Seller earned $95 USD
 
 - There is a 5-day waiting period after the order is completed before the Seller can withdraw those funds to their bank account.
 - There is no minimum amount for withdrawal

@@ -80,7 +80,7 @@ Comments will be published with a flame rating on the Seller's Listing page for 
 
 In the case of an Online Lesson, the Seller clicks "Work already sent" to complete the Order.
 
-After the Order is completed (and Buyer is happy with delivered Final Work), the Seller's Balance is credited with their net Earnings, which is the cost of the Seller's Listing subtract HostJane's 20% Marketplace Fee.
+After the Order is completed (and Buyer is happy with delivered Final Work), the Seller's Balance is credited with their net Earnings, which is the cost of the Seller's Listing subtract HostJane's 5% Marketplace Fee.
 
 <span class="purple">HostJane's calculator in [Create Listing](https://www.hostjane.com/marketplace/listings/create) itemizes and forecasts net Earnings and Listing cost for Sellers when they set up a new Service.</span>
 
@@ -90,7 +90,7 @@ The following are controlled by each Seller who are independent third-parties to
 - [x] Service delivery
 - [x] Work performance and quality
 
-**Example**: Seller sells a Service Listing for $100. HostJane's 20% Marketplace Fee will be $20.
+**Example**: Seller sells a Service Listing for $100. HostJane's 5% Marketplace Fee will be $5.
 
 The Seller will receive exactly $80 ($100 - $20 = $80).
 

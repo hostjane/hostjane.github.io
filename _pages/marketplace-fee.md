@@ -22,9 +22,9 @@ To operate our platform and provide marketing, hosting and payment services to B
 ### Current Marketplace Fee
 
 {% highlight yaml %}
-- 20% on the Service Cost of Listings (Regular and Online Lessons)
-- 20% on Service Cost of Custom Orders
-- 20% on Tips.
+- 5% on the Service Cost of Listings (Regular and Online Lessons)
+- 5% on Service Cost of Custom Orders
+- 5% on Tips.
 {% endhighlight %}
 
 Sellers retain a guaranteed 95% on all Sales including listings, custom orders and tips, because HostJane pays all credit card processing and bank fees.
@@ -37,9 +37,9 @@ Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 p
 | Handling fee | $0   | $1.99  |
 | Other fees           | $0      | $0   |
 | License           | $0 | Buyer Owns Rights ($0)  |
-| Marketplace Fee | 20% ($20)   | $0  |
+| Marketplace Fee | 5% ($5)   | $0  |
 | Delivery fee         | $0     | $0   |
-| Totals           | $80 | $101.99  |
+| Totals           | $95 | $101.99  |
 
 With HostJane, Sellers have full control of their independent business.
 
