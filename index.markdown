@@ -16,7 +16,7 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 {: .fs-6 .fw-300 }
 
 - [x] [Contact Support](https://www.hostjane.com/marketplace/contact)&nbsp;- 10 min wait
-- [x] Message us -&nbsp;[WhatsApp](https://wa.me/message/SER2EGESB2X7P1)
+- [x] Message us -&nbsp;[WhatsApp](https://wa.me/message/ELXBFWW2YKMXK1)
 - [x] Updates&nbsp;[on Telegram](https://t.me/hostjanecom)
 - [x] Ask for support&nbsp;[on Discord](https://discord.gg/5rS6Tvd)
 - [x] Check our&nbsp;[network status](https://www.hostjane.com/status)
