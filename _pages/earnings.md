@@ -27,7 +27,7 @@ HostJane pays all bank and credit card fees so you receive the full 95% from eac
 
 * We can pay you free by Direct Deposit (U.S. bank accounts)
 
-* We can pay you out for a $9.99 fee by Wire Transfer (with an $11 minimum) to these Supported Countries.
+* We can pay you out free by Wire Transfer (with no minimum) to these [Supported Countries](sellers/payments-tax-credits/#country-information-for-wire-payments).
 
 ### Policies
 

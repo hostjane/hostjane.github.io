@@ -36,7 +36,7 @@ For U.S. sellers, select the Direct Deposit tab. You can enter your routing and 
 
 ![](/assets/direct-deposit.png)
 
-For international sellers in these Supported Countries, select the Wire Transfer tab. You will need your SWIFT account details to register your bank account.
+For international sellers in these [Supported Countries](sellers/payments-tax-credits/#country-information-for-wire-payments), select the Wire Transfer tab. You will need your SWIFT account details to register your bank account.
 
 ![](/assets/swift.png)
 
@@ -66,13 +66,13 @@ Download a sales invoice for every transaction.
 
 ## Direct Deposit to United States
 
-HostJane sends free, fast ACH payments (Direct Deposit) to any U.S. bank account - with a minimum payout of USD $10.
+HostJane sends free, fast ACH payments (Direct Deposit) to any U.S. bank account - with no minimum.
 
 ## Country information for wire payments
 
-HostJane currently supports international wire payouts to the following countries. A $9.99 USD non-refundable payout fee applies to all payouts by wire transfer.
+HostJane currently supports free international wire payouts to the following countries. 
 
-The minimum payout amount by wire transfer is $50 USD.
+All transfers are sent in USD. Currency conversion may reduce payout.
 
 | Country Name | Local Currency |  
 |:-------------|:------|
@@ -191,9 +191,9 @@ If the amounts are still wrong are clearing cache, contact us so our billing tea
 
 To [withdraw your earnings](https://help.hostjane.com/hc/en-us/articles/900005460546) to your bank, HostJane currently supports the following seller payout methods:
 
-- [x] PayPal (No minimum, no fee)
-- [x] Direct Deposit / ACH ($10 minimum, FREE) - U.S. bank accounts only
-- [x] Wire Transfer ($50 minimum, $9.99 USD fee) - Supported Countries
+- [x] PayPal (No minimum, FREE)
+- [x] Direct Deposit / ACH (No minimum, FREE) - U.S. bank accounts only
+- [x] Wire Transfer (No minimum, FREE) - [Supported Countries](sellers/payments-tax-credits/#country-information-for-wire-payments)
 
 ## HostJane asked for my tax information, why?
 
