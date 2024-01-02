@@ -36,7 +36,7 @@ For U.S. sellers, select the Direct Deposit tab. You can enter your routing and 
 
 ![](/assets/direct-deposit.png)
 
-For international sellers in these [Supported Countries](sellers/payments-tax-credits/#country-information-for-wire-payments), select the Wire Transfer tab. You will need your SWIFT account details to register your bank account.
+For international sellers in these [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments), select the Wire Transfer tab. You will need your SWIFT account details to register your bank account.
 
 ![](/assets/swift.png)
 
@@ -189,11 +189,11 @@ If the amounts are still wrong are clearing cache, contact us so our billing tea
 
 ![](/assets/withdrawal-methods.png)
 
-To [withdraw your earnings](https://help.hostjane.com/hc/en-us/articles/900005460546) to your bank, HostJane currently supports the following seller payout methods:
+To withdraw your earnings to your bank, HostJane currently supports the following seller payout methods:
 
 - [x] PayPal (No minimum, FREE)
 - [x] Direct Deposit / ACH (No minimum, FREE) - U.S. bank accounts only
-- [x] Wire Transfer (No minimum, FREE) - [Supported Countries](sellers/payments-tax-credits/#country-information-for-wire-payments)
+- [x] Wire Transfer (No minimum, FREE) - [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments)
 
 ## HostJane asked for my tax information, why?
 
