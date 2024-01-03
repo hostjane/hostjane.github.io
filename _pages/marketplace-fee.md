@@ -3,17 +3,19 @@ layout: default
 title: Marketplace Fee
 parent: Sellers
 description: How much do I earn per sale?
-nav_order: 5
+nav_order: 6
 permalink: /sellers/marketplace-fee/
 ---
 
-# Marketplace Fee
+# Marketplace Fees
 
 <span class="blue">Note: Please also see [Introduction to Earnings](/sellers/earnings/) for sellers.</span>
 
 HostJane is completely free to use. 
 
-<span class="green">There are no setup, listing, monthly or any ongoing fees to sell a Service with your Skill.</span>
+<span class="green">No setup, subscription or hidden fees to sell a Service on HostJane with your Skill.<span>
+
+<span class="yellow">There are no fees on cash gifts which are paid out at 100% within 48 hours to your nominated bank or PayPal account</span>
 
 We strive to be a safe, secure environment which protects both sellers and buyers.
 
@@ -22,6 +24,7 @@ To operate our platform and provide marketing, hosting and payment services to B
 ### Current Marketplace Fee
 
 {% highlight yaml %}
+- Does not apply to cash gifts for gas and groceries
 - 5% on the Service Cost of Listings (Regular and Online Lessons)
 - 5% on Service Cost of Custom Orders
 - 5% on Tips.

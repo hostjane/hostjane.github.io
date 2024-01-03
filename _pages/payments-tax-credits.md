@@ -3,7 +3,7 @@ layout: default
 title: Payments & Tax
 parent: Sellers
 description: Information about payments, tax and credits
-nav_order: 7
+nav_order: 8
 permalink: /sellers/payments-tax-credits/
 ---
 
@@ -50,9 +50,11 @@ If you want to be paid your earnings by Direct Deposit, you will need to provide
 
 Your bank routing number is a nine-digit code that's based on the U.S. Bank location where your account was opened. It's the first set of numbers printed on the bottom of most checks, on the left side.
 
-## Why do I have to wait 5 days for payments?
+## How fast does HostJane payout?
 
-To meet our anti-fraud obligations, HostJane holds payments for 5 days after each order is completed with Buyer approval and compulsory feedback.
+<span class="blue">Cash donations for gas and groceries are paid in 48 hours to your nominated bank or PayPal account.</span>
+
+To meet our anti-fraud obligations, HostJane holds most other marketplace payments for services for 5 days after each order is completed with Buyer approval and compulsory feedback.
 
 ![](/assets/to-go.png)
 
