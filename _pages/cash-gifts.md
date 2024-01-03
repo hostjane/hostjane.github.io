@@ -7,7 +7,7 @@ nav_order: 5
 permalink: /sellers/cash-gifts-gas-groceries/
 ---
 
-# Send Cash for Gas & Groceries
+# Getting Cash for Gas & Groceries
 {: .no_toc }
 
 ## In this section
@@ -84,3 +84,11 @@ Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#cou
 - [x] Cash donations are considered to be part of your wider Hostjane 
 - [x] HostJane's [does not charge or collect tax](/sellers/payments-tax-credits/#hostjane-asked-for-my-tax-information-why) and considers freelancers to be independent contractors.
 - [x] If you are based in the U.S., you will be required to file a Form 1099-K with the IRS if you receive over $20,000 in income from the Site. 
+
+## I received a tip. Is that the same as a cash donation?
+
+<span class="red">Negative, cash donations are only for food and gas, to assist freelancer make ends meet. They are paid at 100% within 48 hours.</span>
+
+Tips are assumed to be given for Work done in a service or lesson on HostJane. They are paid at 95% and the 5-day waiting period applies.
+
+

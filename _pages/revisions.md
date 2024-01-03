@@ -3,7 +3,7 @@ layout: default
 title: Revisions
 parent: Buyers
 description: How revisions work
-nav_order: 4
+nav_order: 5
 permalink: /buyers/revisions/
 ---
 

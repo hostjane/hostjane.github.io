@@ -3,7 +3,7 @@ layout: default
 title: Licensing
 parent: Buyers
 description: How licensing of services work
-nav_order: 3
+nav_order: 4
 permalink: /buyers/licensing/
 ---
 
