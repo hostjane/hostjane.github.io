@@ -3,7 +3,7 @@ layout: default
 title: Confidentiality
 parent: Buyers
 description: About how confidentiality or NDA agreements serve user interests
-nav_order: 2
+nav_order: 3
 permalink: /buyers/confidentiality/
 ---
 
