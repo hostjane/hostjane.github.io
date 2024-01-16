@@ -24,10 +24,9 @@ permalink: /vps-hosting/
 |:-------------|:------------------|
 | 24/7 human support |	HostJane's professional admins can assist you night and day. Our customer service team is passionate about giving accurate, support that resolves your issues first time. |
 | 24-hour backups |	Your data is safe and securely backed up on a 24-hour cycle for a small fee. We can restore your server up to 5 earlier versions. |
-| Free SSL	| HostJane can install a free Let's Encrypt SSL certificate that self-renews every 3 months. With root access or through cPanel, you can install any commercial SSL. |
+| Free SSL	| HostJane can install a free Let's Encrypt SSL certificate that self-renews every 3 months. |
 | Managed server	| HostJane secures, monitors, and keeps your server stable. We deal with all software updates, stack issues, malware removal, and security patches. |
 | Latest technology	| HostJane supports the latest versions of the best programming languages, including PHP, MySQL, Perl, and Python, to name a few. |
-| Root access	| Maintain total control over your server’s configuration with root password access. [Contact us](https://www.hostjane.com/marketplace/support-root-access) for root access. |
 | Dedicated IP	| There is an AWS IPv4 associated with your VPS. |
 
 ## Fully-managed hosting
@@ -43,10 +42,6 @@ HostJane operates a zero tolerance on spam policy on all our plans.
 1. You will receive an email asking you to upgrade to a new plan, or reduce usage.
 2. If not practical and your server continues above the bandwidth threshold to prevent any bandwidth overage charges, the server will be stopped. 
 3. There are no overage charges.
-
-## cPanel License
-
-We usually sell new servers with a Solo or trial cPanel license. Once the 15 day period has elapsed, we will upgrade the license. Customer takes no action.
 
 ## Content policy
 
@@ -135,7 +130,7 @@ Open a support case for help with the following types of issue:
 - [x] DNS issues at server level
 - [x] Updates and patches
 - [x] System critical functions
-- [x] cPanel misconfigurations or usability problems
+- [x] Server misconfigurations or usability problems
 
 ### Web design, bug fixing & app development
 
@@ -148,4 +143,3 @@ The marketplace is a great place to address issues such as:
 - [x] Developing your website or application
 - [x] DNS or domain problems at registrar level
 - [x] Webmail/email issues where the server is working
-- [x] Tutorials on using cPanel

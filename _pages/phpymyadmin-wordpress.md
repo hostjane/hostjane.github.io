@@ -7,6 +7,8 @@ nav_order: 14
 permalink: /vps-hosting/phpmyadmin-wordpress/
 ---
 
+<span class="red">This article is out of date. Root access is no longer permitted for security.</span>
+
 # Install phpMyAdmin on WordPress VPS
 
 <span class="orange">Access and make changes to your WordPress MySQL database.</span>
@@ -15,7 +17,7 @@ permalink: /vps-hosting/phpmyadmin-wordpress/
 
 <span class="blue">[phpMyAdmin](https://www.phpmyadmin.net/) is a free database management tool.</span>
 
-Because WordPress runs directly on the server, there isn’t a simple backend administrative interface where you can access phpMyAdmin as found in other software running WordPress (like cPanel).
+Because WordPress runs directly on the server, there isn’t a simple backend administrative interface where you can access phpMyAdmin from inside the panel.
 
 Instead, phpMyAdmin must first be installed and then accessed via a standard browser window in Chrome or Firefox.
 
