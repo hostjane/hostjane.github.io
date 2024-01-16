@@ -74,7 +74,7 @@ Get a birdview's view of your project across every task, issue and archived card
 
 HostJane also provides [managed VPS hosting](https://www.hostjane.com/hosting/) for small and mid-sized businesses backed by the power of AWS.
 
-<span class="green">Get 24/7 rock-solid support on your VPS, and a close-to-100% Uptime SLA with our [Managed WordPress](https://www.hostjane.com/hosting/#hostjane-buy-hosting) and [Managed cPanel VPS](https://www.hostjane.com/hosting/#cpanel-hosting) plans.</span>
+<span class="green">Get 24/7 rock-solid support on your VPS, and a close-to-100% Uptime SLA with our [Managed VPS](https://www.hostjane.com/hosting/#hostjane-buy-hosting) plans.</span>
 
 ---
 
