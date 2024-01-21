@@ -34,12 +34,16 @@ HostJane is also completely free to use.
 
 ## Is there a minimum?
 
-Yes, while Buyers can send multiple items in each order, these minimums hold:
+Mo, while we encourage Buyers to send the below amounts for each donation, the Gas donations field allows a donor to send any amount they choose between $1 and under $100.
 
 - [x] Gas donations - $100
 - [x] Groceries - $50
 - [x] Dinner - $30
 - [x] Coffee - $10
+
+## Is there a maximum?
+
+Donors can send up to $90,000 in a single purchase.
 
 ## Are there any payout fees?
 
