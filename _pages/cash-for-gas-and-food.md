@@ -38,7 +38,7 @@ HostJane respects everyone's privacy with a [strict privacy policy](https://www.
 
 Yes, you can leave a message with your donation. 
 
-If you are happy not to be anonymous, and you are logged into a HostJane account, the instant your cash paymnent is processed, a new or existing chat with the freelancer will open so you can communicate with the recipient immediately.
+If you are logged into a HostJane account and don't check anonymous, the instant your cash donation is successfully submitted, an automatic chat (with your downloadable receipt) will open so you can chat to the recipient.
 
 ## Can I send multiple amounts of cash?
 
