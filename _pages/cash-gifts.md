@@ -34,7 +34,7 @@ HostJane is also completely free to use.
 
 ## Is there a minimum?
 
-Mo, while we encourage Buyers to send the below amounts for each donation, the Gas donations field allows a donor to send any amount they choose between $1 and under $100.
+No, while we encourage Buyers to send the below amounts for each donation, the Gas donations field allows a donor to send any amount they choose between $1 and $100.
 
 - [x] Gas donations - $100
 - [x] Groceries - $50
