@@ -72,7 +72,7 @@ HostJane sends free, fast ACH payments (Direct Deposit) to any U.S. bank account
 
 ## Country information for wire payments
 
-HostJane currently supports free international wire payouts to the following countries. 
+HostJane currently supports FREE international wire payouts to the following countries. 
 
 All transfers are sent in USD. Currency conversion may reduce payout.
 
@@ -176,7 +176,7 @@ All transfers are sent in USD. Currency conversion may reduce payout.
 | Ukraine	| 	UAH |
 | United Arab Emirates	| AED |
 | United Kingdom	| GBP |
-| United States	| USD (FREE) - [See Direct Deposit](/sellers/payments-tax-credits/#direct-deposit-to-united-states) |
+| United States	| USD - [Also Direct Deposit](/sellers/payments-tax-credits/#direct-deposit-to-united-states) |
 | Uruguay	|  UYU |
 | Viet Nam | 	VND |
 | Zambia | ZMW |
