@@ -13,7 +13,7 @@ This FAQ provides answers to basic questions about HostJane. Check out [the Host
 
 # What counts as a Service?
 
-Services are paid Work tasks that stay within HostJane’s acceptable use policy (AUP) where the Seller is selling their Skill to a Buyer.
+Services are paid Work tasks that stay within HostJane’s [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/) where the Seller is selling their Skill to a Buyer.
 
 <span class="green">We welcome Sellers who are able to take the risks and costs of doing useful tasks for people on time.</span>
 
@@ -125,7 +125,7 @@ The company is committed to do our part by donating a portion of our profits to 
 
 <span class="green">To add a Service at any time go to the [Become a Seller](https://www.hostjane.com/sell) page.</span>
 
-Review the [general terms of service](https://www.hostjane.com/legal/tos/) and [acceptable use policy](https://www.hostjane.com/legal/privacy/) to make sure you agree and then choose a category to create your listing.
+Review the [General Terms of Service](https://www.hostjane.com/legal/tos/) and [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/) to make sure you agree and then choose a category to create your listing.
 
 When your first listing is live, your profile which is viewable to members only will automatically be transitioned to a studio.
 

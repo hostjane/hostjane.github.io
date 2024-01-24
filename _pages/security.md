@@ -71,7 +71,7 @@ HostJane supports sellers doing stuff that falls within the scope of our definit
 
 HostJane takes privacy and intellectual property rights seriously and we are committed to adhering to our legal responsibilities.
 
-If you wish to submit a DMCA copyright takedown request or counter notice, please follow the instructions given in Section 2.2 and 2.4 of our Acceptable Use Policy.
+If you wish to submit a DMCA copyright takedown request or counter notice, please follow the instructions given in Section 2.2 and 2.4 of our [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/).
 
 If you wish to delete your account, you can schedule the deletion of all data held about you on HostJane by accessing Settings > Close Account.
 
@@ -95,6 +95,6 @@ Please do not use our website if these sanctions apply to you; we will have to c
 
 # Do you process takedown requests?
 
-If you wish to submit a DMCA copyright takedown request or counter notice, please [follow the instructions](https://www.hostjane.com/legal/use-policy/) given in Section 2.2 and 2.4 of our [Acceptable Use Policy](https://www.hostjane.com/legal/use-policy/).
+If you wish to submit a DMCA copyright takedown request or counter notice, please [follow the instructions](https://www.hostjane.com/legal/use-policy/) given in Section 2.2 and 2.4 of our [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/)
 
 For your ease of reference, the DMCA requirements are listed in our Trust & Safety section.

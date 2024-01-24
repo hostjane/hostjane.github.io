@@ -46,4 +46,4 @@ SELL REGULATED OR ILLEGAL PRODUCTS OR SERVICES: Illicit substances; Marijuana di
 * POST MATERIAL PROMOTING ABUSE / HATE / VIOLENCE / TARGETING / DISCRIMINATION: Hate Speech; Any content or Service that a. engages in, encourages, promotes or celebrates unlawful violence or physical harm to persons or property, b. Doxxing or trolling; or C. engages in, encourages, promotes or celebrates unlawful violence toward any group based on race, religion, disability, gender, sexual orientation, national origin, or any other immutable characteristic
 * SELL MULTI-LEVEL MARKETING: Pyramid schemes, network marketing, and referral marketing program
 
-Your account can be suspended or terminated if you engage in activities that are against HostJane's Acceptable Use Policy (AUP).
+Your account can be suspended or terminated if you engage in activities that are against HostJane's [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/).

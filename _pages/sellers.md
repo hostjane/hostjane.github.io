@@ -44,7 +44,7 @@ After successfully registering, you will be returned to Listing Wizard to create
 
 <span class="green">Listings are reviewed by Admin and can take up to 30 minutes to appear live on HostJane.</span>
 
-To ensure there is not a delay, please review the Acceptable Use Policy to ensure your listing is in line with HostJane policies.
+To ensure there is not a delay, please review the [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/) to ensure your listing is in line with HostJane policies.
 
 # Attract more buyers with a face picture
 
