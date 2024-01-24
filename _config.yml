@@ -71,7 +71,7 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; HostJane. Read our <a href=\"https://www.hostjane.com/legal/tos/\">site terms</a> and <a href=\"https://www.hostjane.com/legal/privacy/\">privacy policy.</a> <a href=\"https://www.hostjane.com/about/\">HostJane welcomes everyone and strives to be a fair, safe platform.</a>"
+footer_content: "Copyright &copy; HostJane. Read our <a href=\"https://www.hostjane.com/legal/tos/\">Site Terms</a> and <a href=\"https://www.hostjane.com/legal/privacy/\">Privacy Policy.</a> HostJane welcomes everyone and <a href=\"https://www.hostjane.com/about/\"> strives to be a fair, safe platform.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
