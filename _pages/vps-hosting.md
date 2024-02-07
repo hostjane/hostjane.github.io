@@ -72,7 +72,7 @@ View HostJane's [refund policy](https://www.hostjane.com/legal/hosting-terms/) u
 
 ## Cancellation
 
-To cancel your subscription, please use the email you paid with to access the [Stripe billing portal](https://billing.stripe.com/p/login/3cs9AL9Aocs5dz2dQQ).
+To cancel your subscription, please use the email you paid with to access the [Billing portal](https://billing.stripe.com/p/login/3cs9AL9Aocs5dz2dQQ).
 
 # What is a Virtual Private Server?
 

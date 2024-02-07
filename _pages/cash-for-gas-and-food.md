@@ -30,13 +30,13 @@ No, you can help out any freelancer on HostJane by using the guest checkout. We 
 
 Yes totally, choose the "Send anonymous" button to shield all your information which will appear on no invoices or records.
 
-<span class="green">All payments are handled by either Stripe or PayPal, HostJane does not handle or store any payment details on our servers.</span>
+<span class="green">All payments are handled by our third-party financial partners, HostJane does not handle or store any payment details on our servers.</span>
 
 HostJane respects everyone's privacy with a [strict privacy policy](https://www.hostjane.com/legal/privacy/) and does not share your information with any third-party.
 
-## Can I leave a message with my donation?
+## Can I leave a comment with my donation?
 
-Yes, you can leave a message with your donation. 
+Yes, you can leave a comment with your donation. 
 
 If you are logged into a HostJane account and don't check anonymous, the instant your cash donation is successfully submitted, an automatic chat (with your downloadable receipt) will open so you can chat to the recipient.
 
@@ -51,7 +51,7 @@ Yes, you can either send a custom amount with a gas donation or multiples of the
 
 ## How much cash can I send?
 
-We use Stripe, you can send up to $90,000 in one transaction.
+You can send up to $90,000 in one transaction.
 
 ## What are the fees to send $10?
 

@@ -350,4 +350,4 @@ Under section 2.6.4 of our [Marketplace Terms](https://www.hostjane.com/legal/ma
 
 # Safeguarding against Buyer fraud
 
-HostJane protects you against fraudulent chargebacks. We require [3D-Secure Verification](https://stripe.com/docs/payments/3d-secure) on all transactions meaning all Buyers have to prove to the cardholder's bank they own the payment method to successfully make a payment. 
+HostJane protects you against fraudulent chargebacks. We require [3D-Secure Verification](https://usa.visa.com/run-your-business/small-business-tools/payment-technology/visa-secure.html) on all transactions meaning all Buyers have to prove to the cardholder's bank they own the payment method to successfully make a payment. 
