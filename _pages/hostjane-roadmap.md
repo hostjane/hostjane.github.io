@@ -22,7 +22,7 @@ permalink: /buyers/hostjane-roadmap/
 
 1. **Why**&nbsp;Services are sold in 3 stages
 2. **How**&nbsp;money moves from Buyer to Seller
-3. **Where**&nbsp;a Seller should deliver work or revisions
+3. **When**&nbsp;a Seller should deliver work or revisions
 4. **When**&nbsp;a Buyer should approve work
 5. **What**&nbsp;funds are paid out to Sellers
 
@@ -39,9 +39,12 @@ The Roadmap is based on our [Marketplace Terms](https://www.hostjane.com/legal/m
 [View current services](https://www.hostjane.com/marketplace/categories){: .btn .btn-blue}
 
 
-# Paying for a service
+# Verified payments only
 
-<span class="yellow">In stage 1, *Pre-Delivery*, HostJane collects and holds the Buyers funds.</span>
+<span class="yellow">In stage 1, *Pre-Delivery*, the Buyer uses a verified payment method by <a href="https://en.wikipedia.org/wiki/3-D_Secure">3-D Secure</a> to place funds on hold with HostJane.</span>
+
+<span class="green">**3-D Secure** protects Sellers because it requires each Buyer to verify their payment, in real-time, with a one-time passcode sent to their phone and/or to confirm their identity with their bank at the time of the transaction.</span>
+
 
 Each Seller should aim to deliver their Service in the timeframe they promised the Buyer. 
 
@@ -92,7 +95,7 @@ The following are controlled by each Seller who are independent third-parties to
 
 **Example**: Seller sells a Service Listing for $100. HostJane's 5% Marketplace Fee will be $5.
 
-The Seller will receive exactly $80 ($100 - $20 = $80).
+The Seller will receive exactly $95 ($100 - $5 = $95).
 
 All bank and card fees are paid by HostJane. With the Handling Fee of $1.99, the Buyer will pay $101.99 to start the order. HostJane holds the funds until the Seller delivers the order on time and to the Buyer's satisfaction.
 		
