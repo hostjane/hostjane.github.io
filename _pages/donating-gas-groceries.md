@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Cash for gas & food
+title: Gas & food donations
 parent: Buyers
-description: Sending cash for gas and groceries on HostJane
+description: Donating gas and food to freelancers on HostJane
 nav_order: 2
-permalink: /buyers/cash-for-gas-groceries/
+permalink: /buyers/donating-gas-groceries/
 ---
 
-# Sending Cash for Gas & Food
+# Donating Gas & Food to Freelancers
 {: .no_toc }
 
 ## In this section
@@ -22,7 +22,7 @@ HOSTJANE or HOSTJANE.COM will appear on your statement.
 
 <span class="green">All funds are billed and sent in U.S. dollars only.</span>
 
-## Do I need to open a HostJane account to send cash?
+## Do I need to open a HostJane account to donate?
 
 No, you can help out any freelancer on HostJane by using the guest checkout. We will still send you a receipt to your email, if you provide one.
 
@@ -38,9 +38,9 @@ HostJane respects everyone's privacy with a [strict privacy policy](https://www.
 
 Yes, you can leave a comment with your donation. 
 
-If you are logged into a HostJane account and don't check anonymous, the instant your cash donation is successfully submitted, an automatic chat (with your downloadable receipt) will open so you can chat to the recipient.
+If you are logged into a HostJane account and don't check anonymous, the instant your donation is successfully submitted, an automatic chat (with your downloadable receipt) will open so you can chat to the recipient.
 
-## Can I send multiple amounts of cash?
+## Can I send multiple donations?
 
 Yes, you can either send a custom amount with a gas donation or multiples of the amounts listed below in guest or regular checkout.
 
@@ -49,7 +49,7 @@ Yes, you can either send a custom amount with a gas donation or multiples of the
 - [x] Dinner - $30
 - [x] Coffee - $10
 
-## How much cash can I send?
+## How much can I donate?
 
 You can send up to $90,000 in one transaction.
 
@@ -57,18 +57,18 @@ You can send up to $90,000 in one transaction.
 
 <span class="blue">Yes, there is a 5.5% fee plus a $1.99 handling fee per donation.<span>
 
-Example: Jane is a business owner. She wants to send her web designer Ian a $10 cash donation for coffee. Ian pays no fees, and will receive the full $10 within 48 hours.
+Example: Jane is a business owner. She wants to send her web designer Ian a $10 donation for coffee. Ian pays no fees, and will receive the full $10 within 48 hours.
 
 | Breakdown       | Janes Pays       | Ian Receives |
 |:-------------|:------------------|:------|
-| Cash donation           | $10 | Coffee  |
+| Donation           | $10 | Coffee  |
 | Handling fee | $1.99   | $0  |
 | Credit card fee (5.5%)           | $0.55      | $0  |
 | Totals           | $12.54 | $10  |
 
-## How long does it take for my seller to get my cash gift?
+## How long does it take for my seller to get my donation?
 
-<span class="yellow">HostJane will send 100% of your cash gift <strong>within 48 hours</strong> to your seller's nominated bank or PayPal account</span>
+<span class="yellow">HostJane will send 100% of your donation <strong>within 48 hours</strong> to your seller's nominated bank or PayPal account</span>
 
 ## What countries are supported?
 
@@ -76,12 +76,12 @@ Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#cou
 
 <span class="blue">PayPal may not be available in all of the countries that HostJane sends free international bank transfers in USD.</span>
 
-## How are tips different from cash donations?
+## How are tips different from donations?
 
-Cash donations are only for food and gas, to assist freelancers make ends meet. They are paid at 100% within 48 hours.
+Donations are only for food and gas to assist freelancers meet their basic living expenses. 100% of you donation is paid to the freelancer within 48 hours.
 
 Tips are assumed to be given for Work done in a service or lesson on HostJane. They are paid at 95% and the 5-day waiting period applies.
 
 ## Are donations final?
 
-Yes. By sending a freelancer a non-refundable cash gift for their gas or groceries, you are not expecting to receive any service from the freelancer as you are legally sending a donation.
+Yes. By sending a freelancer a non-refundable donation for their gas or groceries, you are not expecting to receive any service from the freelancer as you are legally sending a donation.
