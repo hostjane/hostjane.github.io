@@ -194,6 +194,7 @@ If the amounts are still wrong are clearing cache, contact us so our billing tea
 To withdraw your earnings to your bank, HostJane currently supports the following seller payout methods:
 
 - [x] PayPal (No minimum, FREE)
+- [x] PayPal (No minimum, FREE)
 - [x] Direct Deposit / ACH (No minimum, FREE) - U.S. bank accounts only
 - [x] Wire Transfer (No minimum, FREE) - [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments)
 

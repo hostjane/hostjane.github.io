@@ -55,7 +55,7 @@ Example: Jody is a web developer. She helped May build a web app last month who 
 |:-------------|:------------------|:------|
 | Donation           | Gas or groceries | $20  |
 | Handling fee | $0   | $1.99  |
-| Credit card fee (5.5%)           | $0      | $1.1  |
+| Card fee           | $0      | (5.5%) $1.1  |
 | Totals           | $20 | $23.09  |
 
 ## How long does it take to get my donation?
@@ -66,12 +66,12 @@ Example: Jody is a web developer. She helped May build a web app last month who 
 
  <span class="purple">All donations are sent free in U.S. dollars. Currency conversion may reduce payout.</span>
 
-- [x] PayPal - no fees
-- [x] [Veem](https://www.veem.com) - no fees 
+- [x] [PayPal](https://www.paypal.com/) - no fees
+- [x] [Veem](https://www.veem.com/getpaid/) - no fees 
 - [x] ACh deposit (U.S. bank accounts) - no fees
 - [x] Wire transfer - no fees
 
-<span class="green">We recommend you open a free Veem account. We can then use your email to send you USD bank transfers internationally with no fees.</span>
+<span class="green">We recommend you open a [free Veem account](https://www.veem.com/getpaid/) which is a very easy way of receiving USD international bank transfers with no fees.</span>
 
 ## What payout countries are supported?
 

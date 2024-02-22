@@ -93,7 +93,6 @@ We'll also ask you to confirm that the person in the Government ID is you by upl
 
 ![](/assets/block5.png)
 
-
 # Taking a break
 
 You can only take a break and pause your listings if you do not have any active orders.
@@ -150,10 +149,6 @@ New accounts cannot use your deleted username.
 HostJane will appear as HOSTJANE or HOSTJANE.COM on your bank or credit card statement.
 
 ![](/assets/example-statement.jpeg)
-
-# Payment Processing Fees
-
-All payment processing fees (including bank and credit card fees) associated with Buyer payments to sellers are settled by HostJane.
 
 # Site currency
 

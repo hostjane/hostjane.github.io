@@ -11,11 +11,11 @@ permalink: /sellers/marketplace-fee/
 
 <span class="blue">Note: Please also see [Introduction to Earnings](/sellers/earnings/) for sellers.</span>
 
-HostJane is completely free to use. 
+HostJane is free to join with no account fees. 
 
 <span class="green">No setup, subscription or hidden fees to sell a Service on HostJane with your Skill.<span>
 
-<span class="yellow">There are no fees on donations which are paid out at 100% within 48 hours to your nominated bank or PayPal account</span>
+<span class="yellow">There are no fees charged to Sellers on their donations which are paid out at 100% within 48 hours to your nominated bank or PayPal account</span>
 
 We strive to be a safe, secure environment which protects both sellers and buyers.
 
@@ -30,7 +30,8 @@ To operate our platform and provide marketing, hosting and payment services to B
 - 5% on Tips.
 {% endhighlight %}
 
-Sellers retain a guaranteed 95% on all Sales including listings, custom orders and tips, because HostJane pays all credit card processing and bank fees.
+<span class="yellow">Sellers retain a guaranteed 95% on all Sales including listings, bookings, custom orders and tips.</span>
+
 
 Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 per order. Bill is her first Buyer. Alison pays no fees, and makes $95 coding on Bill's site.
 
@@ -38,11 +39,11 @@ Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 p
 |:-------------|:------------------|:------|
 | Listing price           | Free Setup + Use | $100  |
 | Handling fee | $0   | $1.99  |
-| Other fees           | $0      | $0   |
+| Card fees        | $0      | (4%) $4   |
 | License           | $0 | Buyer Owns Rights ($0)  |
 | Marketplace Fee | 5% ($5)   | $0  |
 | Delivery fee         | $0     | $0   |
-| Totals           | $95 | $101.99  |
+| Totals           | $95 | $105.99  |
 
 With HostJane, Sellers have full control of their independent business.
 
@@ -54,6 +55,6 @@ With HostJane, Sellers have full control of their independent business.
 - [x] Control time limits and number of revisions
 - [x] Define the type and extent of any extras
 
-<span class="yellow">To receive your Payout, Sellers will need a valid email address, a PayPal or bank account.</span>
+<span class="yellow">To receive your Payout, Sellers will need a valid email address, a [PayPal](https://www.paypal.com/)</a>, [Veem](https://www.veem.com/getpaid/), or bank account.</span>
 
 To open a Studio, get started in any skills category you can add a new Service here: https://www.hostjane.com/sell

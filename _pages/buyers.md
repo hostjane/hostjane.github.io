@@ -197,6 +197,12 @@ Follow the easy instructions in the pop-up modal to send your tip.
 
 Handling fees are not payable on tips. 
 
+# Card fees
+
+<span class="green">Payments for listings, bookings and lessons, custom orders, and tips, attract a 4% card processing fee.</span>
+
+<span class="blue">Donations attract a 5.5% card processing fee.</span>
+
 # What is the Handling Fee?
 
 The Handling Fee is a non-refundable administrative and management fee paid by all Buyers when ordering any Seller's listing or custom order when Buyer places funds on hold with Site.
@@ -205,11 +211,7 @@ The Handling Fee is a non-refundable administrative and management fee paid by a
 
 Handling Fees are not charged on Tips.
 
-This includes all credit card processing costs between Buyers and Sellers, providing 24/7, 365 days customer service, marketing, hosting, all data costs and storage for workspaces, and other associated business overheads.
-
-HostJane absorbs the costs of bank charges, credit card processing fees and PayPal fees for Sellers receiving an order.
-
-This is not part of the Purchase Protection policy which only covers the costs of the Seller's service.
+This includes 24/7, 365 days customer service, platform marketing, hosting, all data costs and storage for workspaces, and other associated business overheads.
 
 <span class="yellow">Learn more about HostJane's <a href="https://www.hostjane.com/legal/marketplace-terms/">Marketplace Rules</a></span>
 
