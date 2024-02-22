@@ -26,7 +26,7 @@ HostJane is also completely free to use.
 
 ## How do I activate donations on my account?
 
-<span class="yellow">When you [sign up free](https://www.hostjane.com) to HostJane, check the "Allow donations for Gas & Food" box or if you are already a member, go to your [Settings](https://www.hostjane.com/marketplace/settings) area to check the box and activate donations on your freelancer or studio page. </span>
+<span class="yellow">When you [sign up free](https://www.hostjane.com) to HostJane, check the "Accept donations for Gas & Food" box or if you are already a member, go to your [Settings](https://www.hostjane.com/marketplace/settings) area to check the box and activate donations on your freelancer or studio page. </span>
 
 ## Do I need to be selling a Service to accept donations?
 
