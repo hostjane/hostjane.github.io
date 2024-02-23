@@ -78,51 +78,36 @@ To ensure that the marketplace upholds its integrity, we make a promise to all b
 Based on the HostJane Roadmap, Orders on HostJane cycle through up to 8 order statuses from the time the Order starts to the time the Seller delivers.
 When you place an order on HostJane, via purchasing a listing or custom order, the HostJane WorkSpace will open with the first Order Status: Waiting for Buyer.
 
-### Waiting for Buyer
+<span class="blue">**Waiting for Buyer**: The Buyer must confirm the job requirements.</span>
 
-The Buyer must confirm the job requirements.
+<span class="green">**Waiting for Seller**: The Seller must accept or decline the order within 24 hours.</span>
 
-### Waiting for Seller
+<span class="purple">**In progress**: The Seller is working on the Order or arranging to give the Online Lesson.</span>
 
-The Seller must accept or decline the order within 24 hours.
+<span class="yellow">**Delivered**: The task has been completed and Work Preview sent to Buyer. Or, the online lesson has occurred.</span>
 
-### In progress
+<span class="green">**Completed:** The Buyer has approved the Work, left a flame rating and optional feedback. The 5 day clearance period has started for Seller's net earnings.</span>
 
-The Seller is working on the Order or arranging to give the Online Lesson.
+<span class="blue">**Disputed**: The Buyer and Seller must use the Dispute Center to resolve an issue.</span>
 
-### Delivered
+<span class="red">**Paused**: The Buyer and Seller have more than 1 order and one of them is in dispute. The other order(s) are placed into Paused status until the Dispute is resolved.</span>
 
-The task has been completed and Work Preview sent to Buyer. Or, the online lesson has been held.
-
-### Waiting for final delivery
+<span class="yellow">**Waiting for final delivery**: Read below.</span>
 
 **The Buyer:**
-
 - [x] Approved the Work Preview
 - [x] Released earnings to the Seller
 - [x] Is waiting for the Final Work which must be delivered in 24 hours*
+- *If work is not delivered, the Buyer receives a full refund.
 
-*Or the Buyer receives a full refund.
+---
 
 **The Seller:**
-
 - [x] Must deliver unrestricted or unabridged Final Work within 24 hours*
+- [x] If no files need to be sent (for example with an online booking), the Seller needs to close the Order by clicking 'Already sent final work'.
+- *If Final Work is not delivered, the order refunds to Buyer.
 
-*Or the order refunds to Buyer.
-
-If no files need to be sent for example with an online lesson, the Seller needs to close the Order by clicking 'Already sent final work'.
-
-### Completed
-
-The Buyer has approved the Work, left a flame rating and optional feedback. The 5 day clearance period has started for Seller's net earnings.
-
-### Disputed
-
-The Buyer and Seller must use the Dispute Center to resolve an issue.
-
-### Paused
-
-The Buyer and Seller have more than 1 order and one of them is in dispute. The other order(s) are placed into Paused status until the Dispute is resolved.
+---
 
 # What is a Zoom Meeting ID?
 
