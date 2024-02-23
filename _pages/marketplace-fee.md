@@ -1,39 +1,42 @@
 ---
 layout: default
-title: Marketplace Fee
+title: Marketplace Fees
 parent: Sellers
 description: How much do I earn per sale?
 nav_order: 6
 permalink: /sellers/marketplace-fee/
 ---
 
-# Marketplace Fees
+# Fees Summary
 
 <span class="blue">Note: Please also see [Introduction to Earnings](/sellers/earnings/) for sellers.</span>
 
-HostJane is free to join with no account fees. 
+<span class="red">HostJane is free to join with zero account or listing fees.</span>
 
-<span class="green">No setup, subscription or hidden fees to sell a Service on HostJane with your Skill.<span>
+<span class="green">Sellers earn 95% of their listing price in each sale or tip. There are no setup, subscription, hidden or any other fees to sell.<span>
 
-<span class="yellow">There are no fees charged to Sellers on their donations which are paid out at 100% within 48 hours to your nominated bank or PayPal account</span>
+<span class="yellow">There are no fees charged to Sellers on donations which are paid out at 100% within 48 hours to Seller's nominated bank account, Veem or PayPal account</span>
 
-We strive to be a safe, secure environment which protects both sellers and buyers.
+<span class="purple">We strive to be a safe, secure environment which protects both sellers and buyers.
 
-To operate our platform and provide marketing, hosting and payment services to Buyers and Sellers, we charge a Marketplace Fee on finalized sales of Services after Buyer approval and on tips.
+---
 
-### Current Marketplace Fee
+# Current Fee Schedule
 
-{% highlight yaml %}
-- Does not apply to donations for gas and groceries
-- 5% on the Service Cost of Listings (Regular and Online Lessons)
-- 5% on Service Cost of Custom Orders
-- 5% on Tips.
-{% endhighlight %}
+To operate our platform and provide marketing, hosting and payment services to Buyers and Sellers, we charge a Marketplace Fee on finalized sales of Services after Buyer approval, and on tips.
+
+- [x] Do not apply to donations for gas and groceries
+- [x] 5% on the Service Cost of Listings (Regular and Online Lessons)
+- [x] 5% on Service Cost of Custom Orders
+- [x] 5% on Tips.
 
 <span class="yellow">Sellers retain a guaranteed 95% on all Sales including listings, bookings, custom orders and tips.</span>
 
+---
 
-Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 per order. Bill is her first Buyer. Alison pays no fees, and makes $95 coding on Bill's site.
+## Example case
+
+Example: Alison is a PHP developer. Her listing offers a bug fixing service for Laravel at $100 per order. Bill is her first Buyer. Alison pays no fees, and makes $95 coding on Bill's site.
 
 | Breakdown       | Alison Earns       | Bill Pays |
 |:-------------|:------------------|:------|
@@ -45,7 +48,7 @@ Example: Alison is a PHP geek. Her listing offers a bug fixing service at $100 p
 | Delivery fee         | $0     | $0   |
 | Totals           | $95 | $105.99  |
 
-With HostJane, Sellers have full control of their independent business.
+## Sellers have full control of their independent business
 
 - [x] Sellers set their Service cost
 - [x] Control if the Buyers own the rights to their Final Work, or charge a license fee
@@ -55,6 +58,9 @@ With HostJane, Sellers have full control of their independent business.
 - [x] Control time limits and number of revisions
 - [x] Define the type and extent of any extras
 
-<span class="yellow">To receive your Payout, Sellers will need a valid email address, a [PayPal](https://www.paypal.com/)</a>, [Veem](https://www.veem.com/getpaid/), or bank account.</span>
+<span class="green">To receive your Payout, Sellers will need a valid email address, and one of the following: [PayPal](https://www.paypal.com/), [Veem](https://www.veem.com/getpaid/), or bank account.</span>
 
-To open a Studio, get started in any skills category you can add a new Service here: https://www.hostjane.com/sell
+To open a Studio, get started in [any skills](https://www.hostjane.com/marketplace/skills) category:
+
+[Add a new Service](https://www.hostjane.com/sell){: .btn .btn-blue}
+
