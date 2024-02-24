@@ -68,16 +68,14 @@ The Seller uses the left box to enter a Service Cost of $100.
 - [x] Buyer will pay $101.99 for the Service Cost, the Handling Fee and any card fees
 - [x] HostJane's Marketplace Fee is 5% of the Service Cost.
 
-### Putting it all together:
+<span class="green">Putting it all together:</span>
 
-{% highlight yaml %}
 Seller's Earnings = Service Cost - Marketplace Fee
 = ($100) - (5% x $100)
 = $100 - $5
 = $95 USD
-{% endhighlight %}
 
-So in this case, the Seller earned $95 USD
+**So in this case, the Seller earned $95 USD**
 
 - There is a 5-day waiting period after the order is completed before the Seller can withdraw those funds to their bank account.
 - There is no minimum amount for withdrawal
