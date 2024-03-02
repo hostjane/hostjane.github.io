@@ -62,13 +62,13 @@ A Swiss-Army knife for small businesses needing start-up pricing, HostJane is a 
 - [x] Using 2 or more tools to organize tasks with 1 freelancer
 - [x] Outdated, slow-loading software
 
-<span class="blue">On HostJane there is 1 time zone. We remove borders, gatekeepers, and red tape, and give you the tools to go live to production immediately.</span>
+<span class="blue">On HostJane there is 1 time zone. We remove borders, gatekeepers, and red tape.</span>
 
 --- 
 
-# Lightens your work load
+# Break big tasks into bite-size chunks
 
-<span class="green">Break big tasks into bite-size pieces. Drag and drop tasks with [kanban-type boards, lists, and cards](/buyers/hostjane-workspace/), with email notifications, or dive into details with read receipts.</span>
+<span class="green">Drag and drop tasks with [kanban-type boards, lists, and cards](/buyers/hostjane-workspace/), with email notifications, or dive into details with read receipts.</span>
 
 ![](/assets/example-board.png)
 
