@@ -26,59 +26,79 @@ It's free [to join](https://www.hostjane.com/marketplace/register) and there are
 
 ---
 
-# We move work forwards
+# The Exchange for Freelance Payments
 
-<span class="blue">HostJane gives people around the world a safe and trusted place to discover skilled labor and timely resources at startup pricing.</span>
+<span class="green">HostJane is a private-first space to pay, and get paid, to solve problems.</span>
 
-<span class="green">An access bridge to online freelancers for work, side projects, or webcam learning, we are on a mission to help you nail your online tasks and [keep money moving](https://www.hostjane.com/about). We value high standards in privacy, security and content.</span>
+A Swiss-Army knife for small businesses needing start-up pricing, HostJane is a reliable work space for anyone to:
 
-### Better work outcomes
+- [x] Hire talent in [1700+ skills](https://www.hostjane.com/marketplace/skills)
+- [x] Find experts paid by the hour
+- [x] Build minimum-viable products
+- [x] Hold online lessons
+- [x] Do side projects
 
-To better assist you to manage and prioritize your tasks with freelancers; we built a team workspace with kanban-style boards, lists and cards, fitted inside a messaging app.
-
-HostJane is [how we work remote](/buyers/hostjane-workspace/).
-
-![](/assets/board-view.png)
-
-<span class="yellow">On HostJane there is 1 time zone. We remove borders, gatekeepers and red tape.</span>
-
-We assist you to collaborate with the right people, at the right time. Our [simple process](/buyers/hostjane-roadmap/) includes [payment protection](/getting-started/#payment-protection-guarantee) for buyers and shields every seller from bad actors.
-
-Get rid of:
-
-- [x] Lengthy email threads
-- [x] Disorganized chats
-- [x] Annoying spreadsheets
-- [x] Clunky software
-- [x] Outdated hiring apps
-
-<span class="green">HostJane is a fun and rewarding tool that fits in with you, helps you hire people, and host websites; a Swiss-Army Knife to push your ideas and actions from *to do* to **done**.</span>
-
-### Better collaboration
-
-Drag and drop cards in lists, cross between your chat with read receipts and board for better productivity; dive into details with shared attachments, comments and labels to track progress and time. 
-
-![](/assets/example-lists.png)
-
-<span class="blue">Never drop the ball again with a summary of activity emailed to you and every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity) to keep you always up-to-date.</span>
-
-### Better monitoring
-
-Get a birdview's view of your project across every task, issue and archived card, and a better understanding of your hired freelancer's work performance, in real time, across all devices. 
-
-![](/assets/example-board.png)
-
-<span class="purple">Use vetted freelancers with [Fulfillment by HostJane](/getting-started/fullfilment-by-hostjane/) to safeguard your project with a trusted professional.</span>
-
-### Faster websites
-
-HostJane also provides [managed VPS hosting](https://www.hostjane.com/hosting/) for small and mid-sized businesses backed by the power of AWS.
-
-<span class="green">Get 24/7 rock-solid support on your VPS, and a close-to-100% Uptime SLA with our [Managed VPS](https://www.hostjane.com/hosting/#hostjane-buy-hosting) plans.</span>
+<span class="yellow">Jane\'s on a mission to [keep money moving](https://www.hostjane.com/about) by helping you complete jobs or find new income streams.</span>
 
 ---
 
-#### Explore HostJane
+# A trust bridge to freelancers
+
+<span class="red">Access a secure team workspace that holds work accountable with a [Trello-style work space](/buyers/hostjane-workspace/), fitted inside a web-based messaging app.</span>
+
+- [x] Funds are held by HostJane until Buyer approves work
+- [x] Buyer payments are Verified by Visa or 3-D Secure
+- [x] Work must be completed in time or refund
+- [x] Work must be satisfactory
+
+![](/assets/board-view.png)
+
+<span class="purple">HostJane is a fun and rewarding way to push your ideas from [*to do* to **done**](/buyers/hostjane-roadmap/).</span>
+
+### Say goodbye to:
+
+- [x] Getting lost in long chats and miscommunications
+- [x] Online work without two-way [payment protection](/getting-started/#payment-protection-guarantee)
+- [x] Using 2 or more tools to organize tasks with 1 freelancer
+- [x] Outdated, slow-loading software
+
+<span class="blue">On HostJane there is 1 time zone. We remove borders, gatekeepers, and red tape, and give you the tools to go live to production immediately.</span>
+
+--- 
+
+# Lightens your work load
+
+<span class="green">Break big tasks into bite-size pieces. Drag and drop tasks with [kanban-type boards, lists, and cards](/buyers/hostjane-workspace/), with email notifications, or dive into details with read receipts.</span>
+
+![](/assets/example-board.png)
+
+- [x] Summary of new activity emailed to you every 15 minutes
+- [x] Every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity)
+- [x] Get a birdview's view of what your freelancer is doing and when
+
+![](/assets/example-lists.png)
+
+- [x] Shared attachments and free file storage
+- [x] Interactive checklists to track progress
+- [x] Add comments
+- [x] Colorblind-friendly labels to organize
+
+<span class="purple">Use vetted freelancers with [Fulfillment by HostJane](/getting-started/fullfilment-by-hostjane/) to safeguard your project with a trusted professional.</span>
+
+---
+
+# Go live with HostJane VPS
+
+<span class="orange">Run a faster website that loads even heavy pages inside 2 seconds on HostJane's managed VPS [with plans from $3.95/mo](https://www.hostjane.com/hosting/).</span>
+
+- [x] 24/7 support on WordPress, Drupal, and Joomla hosting
+- [x] Best for small and mid-sized businesses
+- [x] Run on AWS public cloud
+- [x] 99.9% Uptime SLA
+
+---
+
+<span class="green">Explore Help Articles</span>
 
 1. [Smart Workspace](/buyers/hostjane-workspace/)
 2. [Licensing basics](/buyers/licensing/)
