@@ -89,7 +89,7 @@ A Swiss-Army knife for small businesses needing start-up pricing, HostJane is a 
 
 # Go live with HostJane VPS
 
-<span class="orange">Run a faster website that loads even heavy pages inside 2 seconds on HostJane's managed VPS [with plans from $3.95/mo](https://www.hostjane.com/hosting/).</span>
+<span class="orange">Run a faster website that loads even heavy pages inside 2 seconds on HostJane's managed VPS [with plans from $5.95/mo](https://www.hostjane.com/hosting/).</span>
 
 - [x] 24/7 support on WordPress, Drupal, and Joomla hosting
 - [x] Best for small and mid-sized businesses
