@@ -198,11 +198,15 @@ To withdraw your earnings to your bank, HostJane currently supports the followin
 - [x] Direct Deposit / ACH (No minimum, FREE) - U.S. bank accounts only
 - [x] Wire Transfer (No minimum, FREE) - [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments)
 
-## HostJane asked for my tax information, why?
+## Do I need a 1099 form?
 
-HostJane, Inc. is a US corporation. If you are a US based Seller and your gross earnings [exceed $20,000 USD with more than 200 transactions](https://www.irs.gov/payments/general-faqs-on-new-payment-card-reporting-requirements) within a single calendar year, HostJane may be required to file a Form 1099-K with the IRS to report transactions made to you.
+HostJane, Inc. is a US corporation. If you are a US based Seller and you have earned and withdrawn over $600 dollars in the past calendar year, you will receive a [1099 NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec).
 
-Our team will contact you if we need any tax information from you.
+ If your gross earnings also [exceed $20,000 USD with more than 200 transactions](https://www.irs.gov/payments/general-faqs-on-new-payment-card-reporting-requirements) within a single calendar year, HostJane may be required to file a Form 1099-K with the IRS to report transactions made to you.
+
+ Copies will be filed with the IRS and emailed to Creators on your address on file. For a digital version of your Tax Form 1099, please visit your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+
+HostJane team will contact you if we need any tax information from you.
 
 ## Tax policy
 
@@ -219,6 +223,43 @@ HostJane and User are independent contractors and nothing contained in this Agre
 Stated in section 2.5.3 of the [Marketplace Rules](https://www.hostjane.com/legal/marketplace-terms/):
 
 Sellers are responsible for paying any direct or indirect taxes, including any European VAT or Australian GST or otherwise, which may apply to them depending on residency or location. Sellers represent and warrant that they comply, and will comply at all times, with their obligations under income tax provisions in their jurisdiction.
+
+## DAC7
+
+The European Commission's Seventh Amendment to its [Directive on Administrative Cooperation (“DAC7”) in the Field of Taxation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021L0514&from=EN) is an EU legal requirement.
+
+DAc7 sets out the information that platforms like HostJane, which enable Sellers to monetize content, must collect and report information to EU member tax authorities about Sellers who are residents in one of the [EU member states](https://european-union.europa.eu/principles-countries-history/country-profiles_en).
+
+### Who is affected by DAC7?
+
+DAC7 will impact HostJane Sellers who have earned money on HostJane while residing in an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) including: 
+
+<span class="blue">Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden.</span>
+
+If you do not live in one of the above countries, you are NOT affected by DAC7.
+
+### Where and what information do I provide?
+
+After registering as a Seller based in an an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) the DAC7 form will be located in your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+
+Content will vary depending on which EU member state you are based in but in general will cover:
+
+- Information about Seller’s identity (full name or legal name, primary address, and date of birth)
+- EU member state of residence
+- Financial account details
+- Tax identification number (TIN)
+- VAT/business registration numbers (for entities)
+- Information about your HostJane earnings
+
+### Is DAC7 important?
+
+Yes, we'll send you 2 reminders within 60 days of your registration. After that time, unless you have completed your DAC7 form, HostJane cannot payout your earnings and will be required to place your account into review for us to stay compliant.
+
+<span class="orange">You must re-verify your DAC7 tax information any time the data on the form changes. If you have made a mistake on your submitted DAC7 form, please [contact us](https://www.hostjane.com/marketplace/contact).</span>
+
+### Is DAC7 confidential?
+
+Yes, HostJane's Reporting center is secure. We use the same Secure Sockets Layer authentication used by banks to ensure that all data passed between the Web server and your browser remains private and secure.
 
 ## Do I have to submit tax information to my Buyer?
 
