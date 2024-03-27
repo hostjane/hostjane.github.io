@@ -228,7 +228,7 @@ Sellers are responsible for paying any direct or indirect taxes, including any E
 
 The European Commission's Seventh Amendment to its [Directive on Administrative Cooperation (“DAC7”) in the Field of Taxation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021L0514&from=EN) is an EU legal requirement.
 
-DAc7 sets out the information that platforms like HostJane, which enable Sellers to monetize content, must collect and report information to EU member tax authorities about Sellers who are residents in one of the [EU member states](https://european-union.europa.eu/principles-countries-history/country-profiles_en).
+DAC7 sets out the information that marketplace platforms like HostJane, which enable Sellers to monetize content, must collect and report to EU member tax authorities regarding Sellers who are residents in one of the [EU member states](https://european-union.europa.eu/principles-countries-history/country-profiles_en).
 
 ### Who is affected by DAC7?
 
