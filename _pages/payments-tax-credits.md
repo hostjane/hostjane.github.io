@@ -240,7 +240,7 @@ If you do not live in one of the above countries, you are NOT affected by DAC7.
 
 ### Where and what information do I provide?
 
-After registering as a Seller based in an an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) the DAC7 form will be located in your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+After registering as a Seller based in an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) the DAC7 form will be located in your [Reporting center](https://www.hostjane.com/marketplace/reporting).
 
 Content will vary depending on which EU member state you are based in but in general will cover:
 
