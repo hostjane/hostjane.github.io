@@ -57,7 +57,7 @@ You can send up to $90,000 in one transaction.
 
 <span class="blue">Yes, there is a 5.5% fee plus a $1.99 handling fee per donation.<span>
 
-Example: Jane is a visitor. She wants to do Ian, a Freelancer with a public business profile on HostJane, by donating toward his grocery living costs as an Act of Kindness. This is for the charitable purpose to assist his mental health well-being and recognize his human value. Ian pays no fees, and will receive the full $10 within 48 hours.
+Example: Jane is a visitor. She wants to do Ian, a Freelancer with a public business profile on HostJane, by donating toward his grocery living costs as an <a href="https://www.hostjane.com/legal/marketplace-terms/">Act of Kindness</a>. This is for the charitable purpose to assist his mental health well-being and recognize his human value. Ian pays no fees, and will receive the full $10 within 48 hours.
 
 | Breakdown       | Janes Pays       | Ian Receives |
 |:-------------|:------------------|:------|
