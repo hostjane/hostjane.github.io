@@ -210,7 +210,7 @@ HostJane team will contact you if we need any tax information from you.
 
 ## Tax policy
 
-HostJane does not charge or collect tax on freelancer services as stated in our Terms of Service.
+<span class="green">HostJane does not have any authority to charge or collect tax on freelance services as described in the [Terms of Service](https://www.hostjane.com/legal/tos/).</span>
 
 ### Independent Contractors
 

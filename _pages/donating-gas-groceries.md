@@ -66,7 +66,7 @@ Example: Jane is a visitor. She wants to do Ian, a Freelancer with a public busi
 | Credit card fee (5.5%)           | $0.55      | $0  |
 | Totals           | $12.54 | $10  |
 
-## How long does it take for the Seller or Freelancer to get my donation?
+## How long does it take for the User to get my donation?
 
 <span class="yellow">HostJane will send 100% of your donation <strong>within 48 hours</strong> to the User's payout method.</span>
 

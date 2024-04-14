@@ -18,7 +18,7 @@ permalink: /sellers/getting-donations-gas-groceries/
 
 ## Why Donations for Gas & Groceries?
 
-<span class="blue">Gas & food are basic human needs. HostJane assists freelancers to make ends meet in the global living crisis by enabling <a href="https://www.hostjane.com/legal/marketplace-terms/">Acts of Kindness</a> as given in 3.3 of the Marketplace Rules toward your living costs. HostJane takes 0% fees, and pays out 100% on donated gas & groceries.</span>
+<span class="blue">Gas & food are basic human needs. HostJane assists freelancers to make ends meet in the global living crisis by facilitating <a href="https://www.hostjane.com/legal/marketplace-terms/">Acts of Kindness</a> as given in 3.3 of the Marketplace Rules toward your living costs. HostJane takes 0% fees, and pays out 100% on donated gas & groceries.</span>
 
 <span class="green">Buyers do not need a HostJane account to send you donations and can do so anonymously.</span>
 
@@ -49,7 +49,7 @@ Donors can send up to $90,000 in a single purchase.
 
 <span class="green">Negative, there are no fees for receiving donations.<span>
 
-Example: Jody is a freelancer with a public business profile on HostJane. An anonymous user wishes to do her a Random Act of Kindness by sending a $20 donation for Jody's groceries. Jody pays no fees, and receives $20 within 48 hours.
+Example: Jody is a freelancer with a public business profile on HostJane. An anonymous User wishes to do her a <a href="https://www.hostjane.com/legal/marketplace-terms/">Random Act of Kindness</a> by sending a $20 donation for Jody's groceries. Jody pays no fees, and receives $20 within 48 hours.
 
 | Breakdown       | Jody Receives       | Anon Pays |
 |:-------------|:------------------|:------|
@@ -85,7 +85,7 @@ Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#cou
 
 - [x] Gas & grocery donations on HostJane are "<a href="https://www.hostjane.com/legal/marketplace-terms/">Random Acts of Kindness</a>" with the charitable purpose to assist a Freelancer's living costs, for the benefit of their mental health well-being.
 - [x] Consult your tax advisor or attorney for questions about how Acts of Kindness impact your specific case as a tax payer.
-- [x] HostJane's [does not charge or collect tax](/sellers/payments-tax-credits/#hostjane-asked-for-my-tax-information-why) and considers freelancers to be independent contractors.
+- [x] HostJane [does not charge or collect tax](/sellers/payments-tax-credits/#hostjane-asked-for-my-tax-information-why) and considers freelancers to be independent contractors.
 - [x] If you are based in the U.S., you may be required to <a href="/sellers/payments-tax-credits/#do-i-need-a-1099-form">file a form with the IRS</a> depending on how much income you receive from HostJane. 
 
 ## I received a tip. Is that the same as a donation?
