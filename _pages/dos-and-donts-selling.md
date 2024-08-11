@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do's and Don'ts
-parent: Sellers
+parent: Sellers FAQ
 description: Do's and Don'ts for sellers
 nav_order: 1
 permalink: /sellers/dos-and-donts-selling/

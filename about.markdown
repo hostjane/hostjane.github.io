@@ -1,12 +1,12 @@
 ---
 layout: page
-title: FAQs
+title: General FAQ
 permalink: /about/
 ---
 
 ## HostJane FAQ
 
-This FAQ provides answers to basic questions about HostJane. Check out [the HostJane Roadmap](/buyers/hostjane-roadmap/) for more detailed information.
+This FAQs provides answers to basic questions about HostJane. Check out [the HostJane Roadmap](/buyers/hostjane-roadmap/) for more detailed information.
 
 1. TOC
 {:toc}

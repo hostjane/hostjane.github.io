@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Seller Cases
-parent: How Licensing Works
+parent: Licensing FAQ
 description: Scenarios for which licenses work best
 nav_order: 9
 permalink: /how-licensing-works/seller-cases/

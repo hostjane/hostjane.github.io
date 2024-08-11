@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Buyers
+title: Buyers FAQ
 description: Buying services on HostJane
-nav_order: 3
+nav_order: 6
 has_children: true
 permalink: /buyers/
 ---
 
-# Buyers FAQ
-{: .no_toc }
+FAQs on buying services ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
-<span class="green">Information for buying services and lessons on HostJane marketplace.</span>
+Buying from people on HostJane is safe and easy. Find a service or online booking, choose your licensing and confidentiality preference, then enter a title and short summary for what you want your seller to do. You can attach pictures and files. If the Buyer does not accept the order, you get a refund.
+{: .fs-6 .fw-300 }
+
+[Register your HJ account](https://www.hostjane.com/marketplace/register){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sign in to manage](https://www.hostjane.com/marketplace/login){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## In this section
 {: .no_toc .text-delta }
@@ -18,36 +21,17 @@ permalink: /buyers/
 1. TOC
 {:toc}
 
-# How do I buy a service?
+# How can I pay a Seller?
 
-<span class="yellow">There are 3 ways to start a new order on HostJane.</span>
+<span class="yellow">You can start a new order on HostJane with Amazon Pay or PayPal, by any of the following three methods:</span>
 
-- [x] Buy a listing or lesson - see&nbsp;*steps below*
+- [x] Buy a listing or lesson
 - [x] Request a free quote
 - [x] Accept a custom offer from a Seller
 
-### STEP 1 
+<span class="blue">Amazon Pay means using the credit or debit card stored in your Amazon account.</span> 
 
-<span class="blue">Go to the listing or online lesson page for the service.</span>
-
-Select from the available licensing and confidentiality options.
-
-![](/assets/example-listing.png)
-
-### STEP 2 
-
-<span class="orange">Click *Continue*</span>
-
-![](/assets/job-details.png)
-
-### STEP 3 
-
-<span class="blue">Enter your job title and details in 1-step checkout, select a payment method and click *Confirm and Pay*.</span> 
-
-![](/assets/payment.png)
-
-Any money paid is held by HostJane until the Buyer has delivered work as per the Purchase Protection guarantee.
-Your workspace with chat and board between you and your seller will be created after payment.
+<span class="green">Any money paid is held by HostJane until the Seller has delivered work as per the <a href="/buyers/#payment-protection-guarantee">Purchase Protection</a> guarantee. Your workspace with chat and board between you and your seller will be created after payment.</span>
 
 # Don't pay outside HostJane
 
@@ -78,31 +62,32 @@ To ensure that the marketplace upholds its integrity, we make a promise to all b
 Based on the HostJane Roadmap, Orders on HostJane cycle through up to 8 order statuses from the time the Order starts to the time the Seller delivers.
 When you place an order on HostJane, via purchasing a listing or custom order, the HostJane WorkSpace will open with the first Order Status: Waiting for Buyer.
 
-<span class="blue">**Waiting for Buyer**: The Buyer must confirm the job requirements.</span>
+<span class="blue">**Waiting for Buyer**: *The Buyer must confirm the job requirements.*</span>
 
-<span class="green">**Waiting for Seller**: The Seller must accept or decline the order within 24 hours.</span>
+<span class="green">**Waiting for Seller**: *The Seller must accept or decline the order within 24 hours.*</span>
 
-<span class="purple">**In progress**: The Seller is working on the Order or arranging to give the Online Lesson.</span>
+<span class="purple">**In progress**: *The Seller is working on the Order or arranging to give the Online Lesson.*</span>
 
-<span class="yellow">**Delivered**: The task has been completed and Work Preview sent to Buyer. Or, the online lesson has occurred.</span>
+<span class="yellow">**Delivered**: *The task has been completed and Work Preview sent to Buyer. Or, the online lesson has occurred.*</span>
 
-<span class="green">**Completed:** The Buyer has approved the Work, left a flame rating and optional feedback. The 5 day clearance period has started for Seller's net earnings.</span>
+<span class="green">**Completed:** *The Buyer has approved the Work, left a flame rating and optional feedback. The 5 day clearance period has started for Seller's net earnings.*</span>
 
-<span class="blue">**Disputed**: The Buyer and Seller must use the Dispute Center to resolve an issue.</span>
+<span class="blue">**Disputed**: *The Buyer and Seller must use the Dispute Center to resolve an issue.*</span>
 
-<span class="red">**Paused**: The Buyer and Seller have more than 1 order and one of them is in dispute. The other order(s) are placed into Paused status until the Dispute is resolved.</span>
+<span class="red">**Paused**: *The Buyer and Seller have more than 1 order and one of them is in dispute. The other order(s) are placed into Paused status until the Dispute is resolved.*</span>
 
-<span class="yellow">**Waiting for final delivery**: Read below.</span>
+<span class="yellow">**Waiting for final delivery**: *As follows below for each party.*</span>
 
-**The Buyer:**
+## For the Buyer:
+{: .no_toc }
 - [x] Approved the Work Preview
 - [x] Released earnings to the Seller
 - [x] Is waiting for the Final Work which must be delivered in 24 hours*
 - *If work is not delivered, the Buyer receives a full refund.
 
----
+## For the Seller:
+{: .no_toc }
 
-**The Seller:**
 - [x] Must deliver unrestricted or unabridged Final Work within 24 hours*
 - [x] If no files need to be sent (for example with an online booking), the Seller needs to close the Order by clicking 'Already sent final work'.
 - *If Final Work is not delivered, the order refunds to Buyer.

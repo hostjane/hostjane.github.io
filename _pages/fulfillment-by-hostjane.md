@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Fulfillment by HostJane
-parent: Getting Started
+parent: Marketplace FAQ
 description: About FBH - Fulfillment by HostJane
-nav_order: 3
-permalink: /getting-started/fulfillment-by-hostjane/
+nav_order: 4
+permalink: /marketplace-faq/fulfillment-by-hostjane/
 ---
+
+<span class="red">FBH has been shut down and ended service on July 31, 2024. If you have an existing service with an FBH partner, the terms will be honored as per terms of purchase.</span>
 
 # Fulfillment by HostJane (FBH)
 

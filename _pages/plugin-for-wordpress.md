@@ -1,7 +1,7 @@
 ---
 layout: default
-title: HostJane Payments Pro
-parent: Sellers
+title: HJ WordPress plugin
+parent: Sellers FAQ
 description: HostJane Payments Pro Plugin for WordPress
 nav_order: 9
 permalink: /sellers/plugin-for-wordpress/

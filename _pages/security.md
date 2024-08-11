@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Security FAQ
-parent: Getting Started
+title: Protecting your data
+parent: Marketplace FAQ
 description: Questions about user security
-nav_order: 4
-permalink: /getting-started/security/
+nav_order: 3
+permalink: /marketplace-faq/security/
 ---
 
 # Security FAQ

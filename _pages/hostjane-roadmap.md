@@ -1,10 +1,10 @@
 ---
 layout: default
 title: HostJane Roadmap
-parent: Getting Started
+parent: Marketplace FAQ
 description: The HostJane Roadmap for Buyers and Sellers
 nav_order: 2
-permalink: /buyers/hostjane-roadmap/
+permalink: /marketplace-faq/hostjane-roadmap/
 ---
 
 # HostJane Roadmap

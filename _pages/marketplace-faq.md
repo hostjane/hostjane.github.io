@@ -1,32 +1,40 @@
 ---
 layout: default
-title: Getting Started
+title: Marketplace FAQ
 description: Getting started with HostJane
-nav_order: 2
+nav_order: 5
 has_children: true
 permalink: /getting-started/
 ---
 
-# Getting started
-{: .no_toc }
+Marketplace FAQs ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
-<span class="green">You will spend less time and less money getting better outcomes with freelancers on HostJane than other marketplaces and job agencies.</span>
+HostJane lets you connect to valued freelancers with verified work histories, in over 1700 skill types, providing a safe and easy workspace to join forces online.
+{: .fs-6 .fw-300 }
+
+Protected payments by Amazon Pay or PayPal, and a money-back guarantee to ensure business as usual is safeguarded.
+{: .fs-6 .fw-300 }
+
+[Register your HJ account](https://www.hostjane.com/marketplace/register){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sign in to manage](https://www.hostjane.com/marketplace/login){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+<span class="green">HostJane assists Buyers and Sellers to organize tasks in orders and lessons with Trello-like boards integrated with your chat.</span>
+{: .fs-6 .fw-300 }
 
 ![](/assets/Board-1.png)
 
-<span class="purple">Above, an example board with chat. HostJane assists Buyers and Sellers to organize tasks in orders and lessons</span>
-
-## In this section
+## Quick Start
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-# How we work remote
+# How do you work remote on HostJane?
 
 From complex web development to online lessons by Zoom video-call, HostJane’s [lists and cards](/buyers/hostjane-workspace/) at your fingertips make it fun and easy to collaborate with other people.
 
-## Save time and money
+# Save time and money
+{: .no_toc }
 
 Our smart workspace cuts through problems and helps you get more work done faster.
 
@@ -34,13 +42,15 @@ Our smart workspace cuts through problems and helps you get more work done faste
 
 Working with freelancers here is more than a basic chat with sent files. 
 
-## More than a chat
+# More than a chat
+{: .no_toc }
 
 HostJane is a Swiss Army knife equipped with a powerful system of [boards, lists and cards](/getting-started/what-are-boards/), unique to every order, seamlessly integrated with instant messaging, delivery and email notifications to users.
 
 ![](/assets/example-lists.png)
 
-## Stay organized
+# Help keeping your project organized
+{: .no_toc }
 
 With HostJane’s boards, your project’s goals, tasks, plans and files can be faster organized and more relevantly connected together in one shared workspace. 
 
@@ -61,17 +71,11 @@ We take our Purchase Protection policy seriously to ensure it is not abused by a
 
 # Securing your account
 
-Two-factor authentication (2FA), also called two-step verification is an additional security layer HostJane can add to verify your account when you sign in.
-
-Enable two-factor by navigating to Settings > [Security](https://www.hostjane.com/marketplace/settings/security)
-
-![](/assets/2fa.png)
-
-If enabled, the next time you login, HostJane will send a code to your email to ask you to verify your login device.
+<span class="yellow">From October 1, 2024, two-factor authentication (2FA) by email, will be mandatory for all users on HostJane and will not be able to be disabled.</span>
 
 ![](/assets/2fa-1.png)
 
-The code expires in 2 minutes, so you will need to have immediate access to your email to receive it.
+<span class="green">Each time you login, HostJane will send a code to your email to ask you to verify your login device. The code expires in 2 minutes, so you will need to have immediate access to your email to receive it.</span>
 
 # Verifying your identity
 
@@ -103,7 +107,6 @@ You can only take a break and pause your listings if you do not have any active 
 
 2. Click 'Take a break' above the listings panel
 
-
 ![](/assets/break-2.png)
 
 3. Choose a reason and number of days you will be away - up to 25 days at a time.
@@ -132,7 +135,8 @@ Navigate to Settings > [Close account](https://www.hostjane.com/marketplace/sett
 
 For audit and legal reasons, there is a *30-day waiting period* before your account and data is destroyed as per HostJane's [privacy policy](https://www.hostjane.com/legal/privacy/).
 
-#### During the 30-day waiting period:
+## During the 30-day waiting period:
+{: .no_toc }
 
 - [x] Any listings you created will be unavailable
 - [x] Your conversations will be inaccessible to users you've chatted to

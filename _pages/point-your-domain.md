@@ -1,116 +1,160 @@
 ---
 layout: default
-title: Point Your Domain
-parent: VPS Hosting
-description: How to create a-records to point a domain
+title: Point your domain to your hosting
+description: How to point your domain A-record to your VPS or Amazon EC2 Instance
 nav_order: 1
-permalink: /vps-hosting/point-your-domain/
+permalink: /point-your-domain/
 ---
 
-# How to Point Your Domain to Your Server
-{: .no_toc }
+# Point your domain to hosting ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
-<span class="green">This article will explain how A-records work, then show you how you can create an A-record at the registrar where you purchased your domain.</span>
+There are 3 easy steps to see your website, on your new Amazon EC2 server, in any web browser. *First*, login to your domain registrar. *Second*, map an A-Record at your registrar, to your new Amazon server's IP address. *Third*, check you've done it right.
+{: .fs-6 .fw-300 }
 
-## In this section
+## Quick Start Summary
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-## What are A-Records?
+## First, find your domain registrar
 
-<span class="yellow">Address (A) records, written for short as "A-records", are part of the DNS or Domain Name System, that point domains to IP addresses.</span>
+Your registrar is the place you either **bought** or **transferred** your domain. 
 
-When a user wants to visit your website, their browser will ask your domain’s nameservers for the A-record.
+<span class="green">Your domain's records are managed at the registrar.</span>
 
+The first step is to logon to your registrar and navigate to your domain's control panel. 
+
+|   ![](/assets/one.svg)           | The first step is to logon to your registrar and navigate to your domain's control panel. Links to the largest domain registrars are below. |
+
+<span class="yellow">Links to the largest domain registrars are below.</span>
+
+| Registrar	| Instructions |
+|:-------------|:------------------|
+| 1&1 IONOS	| [Open Link](https://www.ionos.com/help/domains/dns-settings/) |
+| Amazon Route 53 | [Open Link](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-creating.html) |
+| Alibaba Cloud | [Open Link](https://www.alibabacloud.com/help/en/dns/add-an-a-record-to-a-website-domain) |
+| Ascio | [Open Link](https://aws.ascio.info/AscioDns/nodejs/updaterecord) |
+| Cloudflare | [Open Link](https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/) |
+| Dynadot	| [Open Link](https://www.dynadot.com/community/help/question/create-A-record) |
+| eNom |	[Open Link](https://www.enom.com/kb/kb/kb_0002_change-host-records.htm) |
+| Google Domains |	[Open Link](https://support.google.com/domains/answer/9211383) |
+| GoDaddy |	[Open Link](https://godaddy.com/help/add-an-a-record-19238) |
+| Network Solutions |	[Open Link](http://www.networksolutions.com/support/a-records-ip-addresses-2/) |
+| Gandi	| [Open Link](https://wiki.gandi.net/en/dns/zone/edit) |
+| Hover |	[Open Link](https://help.hover.com/hc/en-us/articles/217282457-How-to-Edit-DNS-records-A-AAAA-CNAME-MX-TXT-SRV-) |
+| NameCheap |	[Open Link](https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain/) |
+| Name.com |	[Open Link](https://www.name.com/support/articles/205188538-Pointing-your-domain-to-hosting-with-A-records) |
+| OVHcloud |	[Open Link](https://help.ovhcloud.com/csm/en-au-dns-edit-dns-zone?id=kb_article_view&sysparm_article=KB0051673) |
+| Public Domain Registry |	[Open Link](https://pdrinc.myorderbox.com/kb/servlet/KBServlet/faq471.html) |
+| Tucows Domains |	[Open Link](https://tucowsdomains.com/help/domain-management/change-my-dns-nameservers/) |
+
+## Second, create an A-Record
+
+|   ![](/assets/two.svg)           | The second step is to navigate to the DNS manager or DNS zone in your registrar, and either create a new A Record with your Server IP address or update the existing A record. |
+
+## What is an A Record?
+{: .no_toc }
+
+<span class="yellow">Address (A) records, written for short as "A-records", are part of the DNS or [Domain Name System](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/), that point domains to IP addresses or servers.</span>
+
+When a user wants to visit your website, their web browser (like Google Chrome) will ask your domain’s nameservers for the A-record.
+
+<span class="red">NB: A website is made from its files and database hosted on a server.</span>
 ![](/assets/hosting/a-record-ipv4.svg)
 
 The A-record at your nameserver connects to the IP address of your server.
 
-Every server connected to the internet has an IP address.
-IP addresses are a fancy way of saying the label (or as geeks will tell you, Internet Protocol) of the server where a website's files and database is stored.
+<span class="green">Every server connected to the internet has an IP or *Internet Protocol* address.<span>
 
-So every time you look up a website in a web browser like Google Chrome, A-records are how your browser gets the directions of which IP address or server to connect to.
+The IP address is the unique identifer of your server, connected to the internet, where your website's files and database is stored.
 
-## DNS Requests
+<span class="orange">Tony explains this perfectly.<span>
 
-Once your visitor's computer has got back this information off the nameserver, their web browser can then connect across the internet to the server at HostJane where your website's files and databases are located.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcNBLSSn8Vg
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### That's called a DNS Request.
+So every time you look up a website in a web browser like Google Chrome, A-records are how your browser gets the directions of which IP address or server to connect to. As Tony said, this will work for any domain regardless of who you are registered with.
 
-Geeks call IP addresses, “IP v4 addresses”, because they are mostly written as 4 sets of numbers separated by dots, i.e. 111 . 222 . 333 . 444
+## Here's an example to help you
+{: .no_toc }
 
-<span class="blue">Your IP address, and A-Record, are totally unique to your HostJane server and help people find you on the internet.</span>
+Mary bought an Amazon EC2 server [running WordPress](https://cloud.hostjane.com/wordpress/), managed by HostJane. Her domain registrar is Amazon Route 53. 
 
-Each HostJane VPS server includes ONE unique (1) dedicated IPv4 address.
+<span class="blue">2-3 minutes after purchase, Amazon assigns Mary's new EC2 server an IPv4 address of: 123.456.789.1</span>
 
-So that people don’t have to remember your website as a string of numbers, like 111.222.333.444, your domain's nameservers change those numbers & computer talk into simple human words.
-This way people can type www.yourwebsite.com into browsers (like Google Chrome, Mozilla Firefox and Apple Safari) to find the server holding your website’s files & databases online.
+Mary's domain name is **example.com**
 
-### Create an A-record
+![](/assets/hosting/route53.png)
 
-In our example, your server has the IPv4 address of: 123.456.789.1 
+For Mary to see her server in her web browser, she logs on to her domain registrar, and navigates to the DNS manager or zone in the registrar's panel.
 
-Your domain is example.com.
-
-Go to your domain registrar, navigate to the DNS manager or zone, and update the A-records as follows:
+<span class="purple">Mary updates example.com's A-records as follows:</span>
 
 | Host | 	Type | 	Data |
 |:----------|:------------|:--------|
 | @	 | A |	123.456.789.1 |
 | www	| A	 | 123.456.789.1 |
 
-You can find instructions from popular registrars below.
+<span class="blue">This set up will ensure the following:</span>
 
-#### Preventing duplication issues
+**example.com** will map to **123.456.789.1**
 
-By following our example above, you create an A record for both the non-www and www version of your domain.
+**www.example.com** will also point to **123.456.789.1**
 
-Both www.example.com and example.com will point (or resolve) to the server.
-We suggest this to prevent your website problems experiencing any issues with duplicate content and or canonical problems that can affect website ranking.
+<span class="purple">Route 53 only allows 1 entry, but if your registrar allows more than 1, use Mary's example.</span>
 
-#### An example setup
+## What is my hostname?
+{: .no_toc }
 
-example.com resolves to 123.456.789.1
+Your hostname is simply the label, in human words, for your Amazon server. It's usually your [fully qualified domain name](https://kb.iu.edu/d/aiuv) (FQDN), e.g. www.example.com.
 
-www.example.com resolves to 123.456.789.1
+<span class="yellow">If you get a chance, create an A record for both the non-www and www version of your domain name. That way, both www.example.com and example.com will point (or resolve) to your Amazon server.</span>
 
-It's a good idea to add code to your website to tell Google if you want the www or non-www version of your site (example.com or www.example.com) to show to visitors when they visit your domain.
+This will prevent your website experiencing any issues with duplicate content or canonical problems that can affect website ranking.
 
-We recommend using Google Search Console to help you do this.
-This article from Moz can help you understand the issue so your website is consistent for search engines from the outset.
+### Tip - tell Google how your domain should be known
+{: .no_toc }
 
-Contact your registrar if you need help with adding or changing an A-Record.
+It's a good idea to [add a "canonical tag" to your domain](https://moz.com/learn/seo/canonicalization) to tell Google if you want the www or non-www version of your site (example.com or www.example.com) to show to visitors when they visit your domain.
 
-### Find your registrar
+<span class="green">Use [Google Search Console](https://search.google.com/search-console/about) to help you do this.</span>
 
-Below are links to instructions from the largest domain registrars on how to create your domain’s A-Record.
+## Third, check your domain's DNS has propagated
 
-| Registrar	| Instructions |
-|:-------------|:------------------|
-| GoDaddy |	[Open Link](https://godaddy.com/help/add-an-a-record-19238) |
-| Network Solutions |	[Open Link](http://www.networksolutions.com/support/a-records-ip-addresses-2/) |
-| eNom |	[Open Link](https://www.enom.com/kb/kb/kb_0002_change-host-records.htm) |
-| 1&1 IONOS	| [Open Link](https://www.ionos.com/help/domains/dns-settings/) |
-| Google Domains |	[Open Link](https://support.google.com/domains/answer/9211383) |
-| Dynadot	| [Open Link](https://www.dynadot.com/community/help/question/create-A-record) |
-| Gandi	| [Open Link](https://wiki.gandi.net/en/dns/zone/edit) |
-| Hover |	[Open Link](https://help.hover.com/hc/en-us/articles/217282457-How-to-Edit-DNS-records-A-AAAA-CNAME-MX-TXT-SRV-) |
-| Name.com |	[Open Link](https://www.name.com/support/articles/205188538-Pointing-your-domain-to-hosting-with-A-records) |
-| Public Domain Registry |	[Open Link](https://pdrinc.myorderbox.com/kb/servlet/KBServlet/faq471.html) |
-| NameCheap |	[Open Link](https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain/) |
+|   ![](/assets/three.svg)           | The final step is to check at help site [What's My DNS](https://www.whatsmydns.net/) that the internet's "phonebook" is correctly reading your A Record as pointing to your to your new Server's IP address. If your plan includes free SSL, also check at [SSLShopper](https://www.sslshopper.com/ssl-checker.html) that the certificate is working properly on your domain. |
 
-### Check domain is propagated
+## What is DNS?
+{: .no_toc }
+
+<span class="red">Your web browser read A-Records in the DNS or **D**omain **N**ame **S**ystem, which Cloudflare describes as the [phonebook of the internet](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/).</span>
+
+A-Records point to IP addresses of servers. This is how web browsers can then connect across the internet to the server at Amazon where your website's files and databases will be stored.
+
+## DNS Requests
+{: .no_toc }
+
+Geeks call IP addresses, “IP v4 addresses”, because they are mostly written as 4 sets of numbers separated by dots, i.e. 111 . 222 . 333 . 444
+
+<span class="blue">Your IP address, and A-Record, are totally unique to your HostJane server and help people find you on the internet.</span>
+
+Each HostJane server includes a unique Amazon IP address.
+
+<span class="yellow">So that people don’t have to remember your website as a string of numbers, like 111.222.333.444, your domain's nameservers change those numbers, and computer talk, into simple human words.</span>
+
+This way people can type www.yourwebsite.com into browsers (like Google Chrome, Mozilla Firefox and Apple Safari) to find the server holding your website’s files & databases online.
+
+## Check domain is propagated
+{: .no_toc }
 
 We recommend using WhatsMyDNS.net to check on the progress of your A-record's propagation status.
 
-Go to WhatsMyDNS.net
+<span class="green">Go to [What's My DNS](https://www.whatsmydns.net/)</span>
 
 Enter your domain in the main field, select A in the dropdown, and hit Search.
 
 ![](/assets/hosting/whatsmydns.png)
-
 
 If your domain is successfully propagated, the map will show all green ticks.
 
@@ -135,5 +179,6 @@ The map will show red crosses during this transition time.
 While propagation is still pending, or has failed, there maybe a mixed-picture of red crosses and green ticks.
 
 ### Troubleshooting A-records
+{: .no_toc }
 
-Remember it can take up to 72 hours for DNS to propagate. Contact your domain registrar's support if the map is not turning green after 72 hours.
+These days, DNS propagation is usually super quick and propagated within 1-2 minutes. But technically it can take a lot longer for DNS to propagate. We recommend to contact your domain registrar's support if your domain's map at [What's My DNS](https://www.whatsmydns.net/) is not turning green after an hour.

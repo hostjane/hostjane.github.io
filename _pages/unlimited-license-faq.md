@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unlimited license FAQ
-parent: How Licensing Works
+parent: Licensing FAQ
 description: Unlimited licensing frequently asked questions
 nav_order: 8
 permalink: /how-licensing-works/unlimited-license-faq/

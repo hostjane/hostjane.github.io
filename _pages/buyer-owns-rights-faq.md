@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buyer Owns Rights FAQ
-parent: How Licensing Works
+title: BOR FAQ
+parent: Licensing FAQ
 description: Buyer Owns Rights frequently asked questions
 nav_order: 5
 permalink: /how-licensing-works/buyer-owns-rights-faq/

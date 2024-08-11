@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketplace Fees
-parent: Sellers
+parent: Sellers FAQ
 description: How much do I earn per sale?
 nav_order: 6
 permalink: /sellers/marketplace-fee/

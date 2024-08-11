@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sellers
+title: Sellers FAQ
 description: Selling services on HostJane
-nav_order: 4
+nav_order: 7
 has_children: true
 permalink: /sellers/
 ---

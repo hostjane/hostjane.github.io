@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donations for Gas & Food
-parent: Sellers
+parent: Sellers FAQ
 description: Receiving donations for gas and groceries on HostJane
 nav_order: 5
 permalink: /sellers/getting-donations-gas-groceries/

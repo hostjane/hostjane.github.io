@@ -1,10 +1,10 @@
 ---
 layout: default
 title: What are Boards?
-parent: Getting Started
+parent: Marketplace FAQ
 description: How boards, lists and cards work
 nav_order: 1
-permalink: /getting-started/what-are-boards/
+permalink: /marketplace-faq/what-are-boards/
 ---
 
 # Boards to assist your work

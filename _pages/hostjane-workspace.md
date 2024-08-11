@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Workspace
-parent: Buyers
+parent: Buyers FAQ
 description: How an order works on HostJane
 nav_order: 1
 permalink: /buyers/hostjane-workspace/

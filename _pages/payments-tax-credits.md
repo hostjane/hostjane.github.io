@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Payments & Tax
-parent: Sellers
+parent: Sellers FAQ
 description: Information about payments, tax and credits
 nav_order: 8
 permalink: /sellers/payments-tax-credits/

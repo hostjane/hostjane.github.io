@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Revisions
-parent: Buyers
+title: Asking for changes
+parent: Buyers FAQ
 description: How revisions work
-nav_order: 5
+nav_order: 2
 permalink: /buyers/revisions/
 ---
 

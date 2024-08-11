@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Limited license FAQ
-parent: How Licensing Works
+parent: Licensing FAQ
 description: Limited licensing frequently asked questions
 nav_order: 7
 permalink: /how-licensing-works/limited-license-faq/

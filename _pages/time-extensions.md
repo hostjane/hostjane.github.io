@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Time extensions
-parent: Sellers
+parent: Sellers FAQ
 description: Asking for more time to deliver an order
 nav_order: 4
 permalink: /sellers/time-extensions/

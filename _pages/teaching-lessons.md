@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Teaching lessons
-parent: Sellers
+title: Online Classes
+parent: Sellers FAQ
 description: How do I teach a lesson?
 nav_order: 2
 permalink: /sellers/teaching-lessons/

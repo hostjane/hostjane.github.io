@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earnings
-parent: Sellers
+parent: Sellers FAQ
 description: Introduction to Earnings
 nav_order: 7
 permalink: /sellers/earnings/

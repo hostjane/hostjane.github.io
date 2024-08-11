@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting orders
-parent: Sellers
+parent: Sellers FAQ
 description: What happens when I get an order?
 nav_order: 3
 permalink: /sellers/getting-orders/
