@@ -10,7 +10,7 @@ permalink: /
 {: .fs-9 }
 <span class="yellow">Find user guides, quickstarts, and tutorials for using HostJane on any device.</span>
 
-HostJane is a [web hosting](https://cloud.hostjane.com) and [marketplace](https://www.hostjane.com/marketplace) platform. [Sell your skills](https://wwww.hostjane.com/sell), [hire people](#we-move-work-forwards), or run a website or app on [Amazon's public cloud](https://aws.amazon.com/)—[managed for you](https://cloud.hostjane.com/wordpress/)—by a team of developers.
+HostJane is a [web hosting](https://cloud.hostjane.com) and [marketplace](https://www.hostjane.com/marketplace) platform. [Sell your skills](https://wwww.hostjane.com/sell), [hire people](https://www.hostjane.com/marketplace/skills), or run a website or app on [Amazon's public cloud](https://aws.amazon.com/)—[managed for you](https://cloud.hostjane.com/wordpress/)—by a team of developers.
 {: .fs-6 .fw-300 }
 
 [About HostJane](https://www.hostjane.com/about/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sell your skills for cash](https://www.hostjane.com/sell){: .btn .fs-5 .mb-4 .mb-md-0 }
