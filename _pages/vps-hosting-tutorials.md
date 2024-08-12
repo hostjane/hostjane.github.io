@@ -28,7 +28,7 @@ Managed VPS on Amazon EC2 ![](/assets/wave.svg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6WlzHLxNKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The hypervisor splits the computing resources of the underlying single physical machine—the server's memory or RAM, processing power or CPU, and the storage disk— into a pool of compartments or mini virtual machines, which are the VPS. Each VPS shares resources with the massive underlying server and gives dedicated-like performance to your website or app.
+The hypervisor splits the computing resources of the underlying single physical machine—the server's memory or RAM, processing power or CPU, and the storage disk—into a pool of compartments or mini virtual machines, which are the VPS. Each VPS shares resources with the massive underlying server and gives dedicated-like performance to your website or app.
 {: .fs-6 .fw-300 }
 
 <span class="green">Watch this video to hear Tony explain VPS with helpful pictures.</span>
