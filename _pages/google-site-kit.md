@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Google Site Kit on Amazon EC2
-parent: WordPress VPS on EC2
+parent: WordPress on EC2
 description: How to migrate your WordPress site to HostJane VPS
 nav_order: 4
 permalink: /wordpress-hosting/google-site-kit/

@@ -60,7 +60,7 @@ VPS on Amazon EC2 is a long-term investment in growth and sustainability. As des
 
 ## Which AWS datacenter do you use?
 
-<span class="blue">Currently HostJane is proud to manage VPS on Amazon EC2 for individuals and businesses in AWS's [Virginia region](https://www.aboutamazon.com/news/aws/aws-commitment-to-virginia).</span>
+<span class="blue">Currently HostJane is proud to manage VPS on Amazon EC2 for individuals and businesses in 14 global AWS datacenter locations including [N. Virginia region](https://www.aboutamazon.com/news/aws/aws-commitment-to-virginia).</span>
 {: .fs-6 .fw-300 }
 
 ## Why pay HostJane if I can pay Amazon direct?

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Multisite on Amazon EC2
-parent: WordPress VPS on EC2
+parent: WordPress on EC2
 description: How to migrate your WordPress site to HostJane VPS
 nav_order: 3
 permalink: /wordpress-hosting/multisite/

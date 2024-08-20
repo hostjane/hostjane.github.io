@@ -30,7 +30,7 @@ Improve your web offerings by moving your digital agency, ecommerce store, or on
 # About the program
 {: .no_toc }
 
-<span class="blue">Currently HostJane is proud to manage VPS on Amazon EC2 for individuals and businesses in AWS's [Virginia region](https://www.aboutamazon.com/news/aws/aws-commitment-to-virginia). </span>
+<span class="blue">Currently HostJane is proud to manage VPS on Amazon EC2 for individuals and businesses in 14 global AWS datacenter locations including [N. Virginia region](https://www.aboutamazon.com/news/aws/aws-commitment-to-virginia).</span>
 
 ## In this section
 {: .no_toc .text-delta }

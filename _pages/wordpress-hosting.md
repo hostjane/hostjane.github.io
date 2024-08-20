@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WordPress VPS on EC2
+title: WordPress on EC2
 description: Managed WordPress hosting docs and help tutorials
 nav_order: 4
 has_children: true
