@@ -33,7 +33,6 @@ All you need to do is [point your domain](point-your-domain/) to the server.
 |   ![](/assets/two.svg)     | Wait 20-30 mins after purchase for your server to install Plesk and send your **on-time Plesk URL** to your email.| 30 minutes |
 
 | ![](/assets/three.svg) | Change your Administrator password  | 2 minutes |
-
 | ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 minute with Amazon Route 53 but can take much longer depending on your domain registrar.  | 1 minute |
 | ![](/assets/five.svg)| [Buy a license](https://www.plesk.com/pricing/) from Plesk  | 2 minutes |
 

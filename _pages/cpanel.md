@@ -32,7 +32,6 @@ All you need to do is [point your domain](point-your-domain/) to the server.
 | ![](/assets/three.svg)  | Change your Administrator password  | 2 minutes |
 
 | ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 minute with Amazon Route 53 but can take much longer depending on your domain registrar.  | 1 minute |
-
 | ![](/assets/five.svg)  | Authorize cPanel in set up. This can be done through any browser. Follow the steps to create a cPanel acount for your server to request cPanel sends you a 2 week trial license. | 5 minutes |
 | ![](/assets/six.svg) | [Buy a license](https://www.cpanel.net/pricing/) from cPanel  | 2 minutes |
 
