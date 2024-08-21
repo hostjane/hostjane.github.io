@@ -123,7 +123,7 @@ It's a good idea to [add a "canonical tag" to your domain](https://moz.com/learn
 
 ## Third, check your domain's DNS has propagated
 
-|   ![](/assets/three.svg)           | The last step is to check at help site, [What's My DNS](https://www.whatsmydns.net/), that your A Record is correctly pointing to your new Server's IP address. If your plan includes free SSL, also check at [SSLShopper](https://www.sslshopper.com/ssl-checker.html) that the certificate is properly configured on your domain. |
+|   ![](/assets/three.svg)           | The last step is to check at help site, [What's My DNS](https://www.whatsmydns.net/), that your A Record is correctly pointing to your new Server's IP address. If your plan includes free SSL, also check [SSLShopper](https://www.sslshopper.com/ssl-checker.html) that SSL is properly configured on your domain. |
 
 ## What is DNS?
 {: .no_toc }
