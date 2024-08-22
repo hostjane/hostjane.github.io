@@ -2,7 +2,7 @@
 layout: default
 title: Managed VPS on EC2
 description: VPS Hosting docs and help tutorials
-nav_order: 2
+nav_order: 4
 has_children: true
 permalink: /vps-hosting/
 ---

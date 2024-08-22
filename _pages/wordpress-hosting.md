@@ -2,7 +2,7 @@
 layout: default
 title: WordPress on EC2
 description: Managed WordPress hosting docs and help tutorials
-nav_order: 4
+nav_order: 6
 has_children: true
 permalink: /wordpress-hosting/
 ---

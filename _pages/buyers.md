@@ -2,7 +2,7 @@
 layout: default
 title: Buyers FAQ
 description: Buying services on HostJane
-nav_order: 6
+nav_order: 8
 has_children: true
 permalink: /buyers/
 ---

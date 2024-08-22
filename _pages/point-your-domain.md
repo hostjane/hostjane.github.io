@@ -2,7 +2,7 @@
 layout: default
 title: Point your domain to your hosting
 description: How to point your domain A-record to your VPS or Amazon EC2 Instance
-nav_order: 1
+nav_order: 2
 permalink: /point-your-domain/
 ---
 

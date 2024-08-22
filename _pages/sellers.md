@@ -2,7 +2,7 @@
 layout: default
 title: Sellers FAQ
 description: Selling services on HostJane
-nav_order: 7
+nav_order: 9
 has_children: true
 permalink: /sellers/
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Managed Cloud on EC2
 description: Cloud hosting docs and help tutorials
-nav_order: 3
+nav_order: 5
 has_children: true
 permalink: /cloud-hosting/
 ---
