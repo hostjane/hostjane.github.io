@@ -23,7 +23,7 @@ All you need to do is [point your domain](point-your-domain/) to the server.
 
 ![](/assets/plesk-screenshot.png)
 
-<span class="orange">Plesk is licensed with an initial 1 month free trial license. You'll need to purchase a month license from Plesk directly to continue using Plesk on your Amazon EC2 server after the free trial expires.</span>
+<span class="orange">Plesk is licensed with an initial 14-day free trial license. You'll need to purchase a month license from Plesk directly to continue using Plesk on your Amazon EC2 server after the free trial expires.</span>
 {: .fs-6 .fw-300 }
 
 | Steps       | Actions required    | Time |

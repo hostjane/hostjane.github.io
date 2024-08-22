@@ -90,10 +90,10 @@ HostJane uses [Amazon EC2 API](https://docs.aws.amazon.com/AWSEC2/latest/APIRefe
 
 ## What software can I use to manage my VPS?
 
-HostJane offers managed [cPanel / WHM VPS](https://www.hostjane.com/marketplace/contact) on bare-metal EC2 instances, sold with a free 15 day release tier license, [Plesk VPS](https://t.me/hostjanecom) on bare-metal EC2 instances with a 30 day trial, and managed [Amazon Linux 2023](https://www.hostjane.com/status) with enabled [PHP-FPM](https://www.plesk.com/blog/various/php-fpm-the-future-of-php-handling/) also on bare-metal EC2 instances.
+HostJane offers managed [cPanel / WHM VPS](https://cloud.hostjane.com/vps/?appType=0&app=0) and [Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=1) on bare-metal EC2 instances, provisioned with 14-Day trial licenses, and managed [Amazon Linux 2023](https://cloud.hostjane.com/vps/?appType=0&app=2) with enabled [PHP-FPM](https://www.plesk.com/blog/various/php-fpm-the-future-of-php-handling/) on bare-metal EC2 instances.
 {: .fs-6 .fw-300 }
 
-<span class="yellow">After the 15 or 30 day trial period, you will need to buy a license from cPanel or Plesk.</span>
+<span class="yellow">After the 14-Day trial period, you will need to buy a license from cPanel or Plesk.</span>
 
 [cPanel License Pricing](https://cpanel.net/pricing/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Plesk License pricing](hhttps://www.plesk.com/pricing/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
