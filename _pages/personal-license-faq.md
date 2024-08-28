@@ -10,7 +10,7 @@ permalink: /how-licensing-works/personal-license-faq/
 # Personal License FAQ
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

@@ -15,7 +15,7 @@ Buying from people on HostJane is safe and easy. Find a service or online bookin
 
 [Register your HJ account](https://www.hostjane.com/marketplace/register){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sign in to manage](https://www.hostjane.com/marketplace/login){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

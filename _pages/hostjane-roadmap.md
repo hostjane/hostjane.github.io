@@ -12,7 +12,7 @@ permalink: /marketplace-faq/hostjane-roadmap/
 
 <span class="green">We made a simple roadmap to explain how to buy or sell [a Service](http://localhost:4000/about/#what-counts-as-a-service) on HostJane.</span>
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

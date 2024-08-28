@@ -10,7 +10,7 @@ permalink: /sellers/getting-donations-gas-groceries/
 # Getting Donations for Gas & Groceries
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

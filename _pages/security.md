@@ -12,7 +12,7 @@ permalink: /marketplace-faq/security/
 
 <span class="green">This FAQ provides answers to basic security questions about HostJane. For more technical information, [contact us](https://www.hostjane.com/marketplace/contact).</span>
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

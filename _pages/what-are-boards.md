@@ -12,7 +12,7 @@ permalink: /marketplace-faq/what-are-boards/
 
 <span class="green">This section provides information for buying services on HostJane marketplace.</span>
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

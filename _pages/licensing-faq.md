@@ -12,7 +12,7 @@ permalink: /how-licensing-works/
 
 <span class="purple">This section provides information for selling services on HostJane marketplace.</span>
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

@@ -23,7 +23,7 @@ Protected payments by Amazon Pay or PayPal, and a money-back guarantee to ensure
 
 ![](/assets/Board-1.png)
 
-## Quick Start
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC
@@ -75,7 +75,7 @@ We take our Purchase Protection policy seriously to ensure it is not abused by a
 
 ![](/assets/2fa-1.png)
 
-<span class="green">Each time you login, HostJane will send a code to your email to ask you to verify your login device. The code expires in 2 minutes, so you will need to have immediate access to your email to receive it.</span>
+<span class="green">Each time you login, HostJane will send a code to your email to ask you to verify your login device. The code expires in 2 mins, so you will need to have immediate access to your email to receive it.</span>
 
 # Verifying your identity
 

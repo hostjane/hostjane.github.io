@@ -44,7 +44,7 @@ The hypervisor splits the computing resources of the underlying single physical 
 # Virtual Private Server FAQs
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC
@@ -81,9 +81,9 @@ HostJane uses [Amazon EC2 API](https://docs.aws.amazon.com/AWSEC2/latest/APIRefe
 
 | VPS Software       | Time from payment |
 |:-------------|:------------------|
-| Amazon Linux 2023           | You'll receive your server credentials in 5 minutes  |
+| Amazon Linux 2023           | You'll receive your server credentials in 5 mins  |
 | cPanel/WHM | 30-40 minutes installation time. The new server sends cPanel Admin username and password after install completes. |
-| Plesk        | After 20 minutes you'll receive the Plesk one-time link sent to your account email by the server |
+| Plesk        | After 20 mins you'll receive the Plesk one-time link sent to your account email by the server |
 
 <span class="red">Contact HostJane immediately if you have not received your cPanel admin username and password or Plesk one-time activation link after 1 hour from purchase.</span>
 {: .fs-6 .fw-300 }

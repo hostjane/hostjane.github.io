@@ -12,19 +12,24 @@ permalink: /point-your-domain/
 There are 3 easy steps to see your website, on your new Amazon EC2 server, in any web browser. *First*, login to your domain registrar. *Second*, map an A-Record at your registrar, to your new Amazon server's IP address. *Third*, check you've done it right.
 {: .fs-6 .fw-300 }
 
-## Quick Start Summary
+# 4 minute read
 {: .no_toc .text-delta }
+{: .fs-6 .fw-300 }
 
 1. TOC
 {:toc}
+{: .fs-6 .fw-300 }
 
 ## First, find your domain registrar
 
-Your registrar is the place you either **bought** or **transferred** your domain. 
+Your registrar is the place you either **bought** or **transferred** your domain.
+{: .fs-6 .fw-300 }
 
 <span class="green">Your domain's records are managed at the registrar.</span>
+{: .fs-6 .fw-300 }
 
-The first step is to logon to your registrar and navigate to your domain's control panel. 
+The first step is to logon to your registrar and navigate to your domain's control panel.
+{: .fs-6 .fw-300 }
 
 |   ![](/assets/one.svg)           | The first step is to logon to your registrar and navigate to your domain's control panel. Links to the largest domain registrars are below. |
 
@@ -58,39 +63,52 @@ The first step is to logon to your registrar and navigate to your domain's contr
 {: .no_toc }
 
 <span class="yellow">Address (A) records, written for short as "A-records", are part of the DNS or [Domain Name System](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/), that point domains to IP addresses or servers.</span>
+{: .fs-6 .fw-300 }
 
 When a user wants to visit your website, their web browser (like Google Chrome) will ask your domain’s nameservers for the A-record.
+{: .fs-6 .fw-300 }
 
 <span class="red">NB: A website is made from its files and database hosted on a server.</span>
+{: .fs-6 .fw-300 }
 ![](/assets/hosting/a-record-ipv4.svg)
 
 The A-record at your nameserver connects to the IP address of your server.
+{: .fs-6 .fw-300 }
 
 <span class="green">Every server connected to the internet has an IP or *Internet Protocol* address.<span>
+{: .fs-6 .fw-300 }
 
 The IP address is the unique identifer of your server, connected to the internet, where your website's files and database is stored.
+{: .fs-6 .fw-300 }
 
 <span class="orange">Tony explains this perfectly.<span>
+{: .fs-6 .fw-300 }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QcNBLSSn8Vg
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So every time you look up a website in a web browser like Google Chrome, A-records are how your browser gets the directions of which IP address or server to connect to. As Tony said, this will work for any domain regardless of who you are registered with.
+{: .fs-6 .fw-300 }
 
 ## Here's an example to help you
 {: .no_toc }
 
-Mary bought an Amazon EC2 server [running WordPress](https://cloud.hostjane.com/wordpress/), managed by HostJane. Her domain registrar is Amazon Route 53. 
+Mary bought an Amazon EC2 server [running WordPress](https://cloud.hostjane.com/wordpress/), managed by HostJane. Her domain registrar is Amazon Route 53.
+{: .fs-6 .fw-300 }
 
-<span class="blue">2-3 minutes after purchase, Amazon assigns Mary's new EC2 server an IPv4 address of: 123.456.789.1</span>
+<span class="blue">2-3 mins after purchase, Amazon assigns Mary's new EC2 server an IPv4 address of: 123.456.789.1</span>
+{: .fs-6 .fw-300 }
 
 Mary's domain name is **example.com**
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/route53.png)
 
 For Mary to see her server in her web browser, she logs on to her domain registrar, and navigates to the DNS manager or zone in the registrar's panel.
+{: .fs-6 .fw-300 }
 
 <span class="purple">Mary updates example.com's A-records as follows:</span>
+{: .fs-6 .fw-300 }
 
 | Host | 	Type | 	Data |
 |:----------|:------------|:--------|
@@ -98,28 +116,37 @@ For Mary to see her server in her web browser, she logs on to her domain registr
 | www	| A	 | 123.456.789.1 |
 
 <span class="blue">This set up will ensure the following:</span>
+{: .fs-6 .fw-300 }
 
 **example.com** will map to **123.456.789.1**
+{: .fs-6 .fw-300 }
 
 **www.example.com** will also point to **123.456.789.1**
+{: .fs-6 .fw-300 }
 
 <span class="purple">Route 53 only allows 1 entry, but if your registrar allows more than 1, use Mary's example.</span>
+{: .fs-6 .fw-300 }
 
 ## What is my hostname?
 {: .no_toc }
 
 Your hostname is simply the label, in human words, for your Amazon server. It's usually your [fully qualified domain name](https://kb.iu.edu/d/aiuv) (FQDN), e.g. www.example.com.
+{: .fs-6 .fw-300 }
 
 <span class="yellow">If you get a chance, create an A record for both the non-www and www version of your domain name. That way, both www.example.com and example.com will point (or resolve) to your Amazon server.</span>
+{: .fs-6 .fw-300 }
 
 This will prevent your website experiencing any issues with duplicate content or canonical problems that can affect website ranking.
+{: .fs-6 .fw-300 }
 
 ### Tip - tell Google how your domain should be known
 {: .no_toc }
 
 It's a good idea to [add a "canonical tag" to your domain](https://moz.com/learn/seo/canonicalization) to tell Google if you want the www or non-www version of your site (example.com or www.example.com) to show to visitors when they visit your domain.
+{: .fs-6 .fw-300 }
 
 <span class="green">Use [Google Search Console](https://search.google.com/search-console/about) to help you do this.</span>
+{: .fs-6 .fw-300 }
 
 ## Third, check your domain's DNS has propagated
 
@@ -131,54 +158,68 @@ It's a good idea to [add a "canonical tag" to your domain](https://moz.com/learn
 <span class="red">Your web browser read A-Records in the DNS or **D**omain **N**ame **S**ystem, which Cloudflare describes as the [phonebook of the internet](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/).</span>
 
 A-Records point to IP addresses of servers. This is how web browsers can then connect across the internet to the server at Amazon where your website's files and databases will be stored.
+{: .fs-6 .fw-300 }
 
 ## DNS Requests
 {: .no_toc }
 
 Geeks call IP addresses, “IP v4 addresses”, because they are mostly written as 4 sets of numbers separated by dots, i.e. 111 . 222 . 333 . 444
+{: .fs-6 .fw-300 }
 
 <span class="blue">Your IP address, and A-Record, are totally unique to your HostJane server and help people find you on the internet.</span>
+{: .fs-6 .fw-300 }
 
 Each HostJane server includes a unique Amazon IP address.
+{: .fs-6 .fw-300 }
 
 <span class="yellow">So that people don’t have to remember your website as a string of numbers, like 111.222.333.444, your domain's nameservers change those numbers, and computer talk, into simple human words.</span>
+{: .fs-6 .fw-300 }
 
 This way people can type www.yourwebsite.com into browsers (like Google Chrome, Mozilla Firefox and Apple Safari) to find the server holding your website’s files & databases online.
+{: .fs-6 .fw-300 }
 
 ## Check domain is propagated
 {: .no_toc }
 
 We recommend using WhatsMyDNS.net to check on the progress of your A-record's propagation status.
+{: .fs-6 .fw-300 }
 
 <span class="green">Go to [What's My DNS](https://www.whatsmydns.net/)</span>
+{: .fs-6 .fw-300 }
 
 Enter your domain in the main field, select A in the dropdown, and hit Search.
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/whatsmydns.png)
 
 If your domain is successfully propagated, the map will show all green ticks.
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/propagation-successful.png)
 
-
 When successful, each ISP country will show your A-record with a green tick.
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/fully-propagated.png)
 
-
 Unfortunately we have to wait for ISP nodes around the world to update.
+{: .fs-6 .fw-300 }
 
 This can take up to 72 hours. During this time, the ISP nodes will show red crosses.
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/not-propagated.png)
 
 The map will show red crosses during this transition time.
+{: .fs-6 .fw-300 }
 
 ![](/assets/hosting/not-propagated-map.png)
 
 While propagation is still pending, or has failed, there maybe a mixed-picture of red crosses and green ticks.
+{: .fs-6 .fw-300 }
 
 ### Troubleshooting A-records
 {: .no_toc }
 
-These days, DNS propagation is usually super quick and propagated within 1-2 minutes. But technically it can take a lot longer for DNS to propagate. We recommend to contact your domain registrar's support if your domain's map at [What's My DNS](https://www.whatsmydns.net/) is not turning green after an hour.
+These days, DNS propagation is usually super quick and propagated within 1-2 mins. But technically it can take a lot longer for DNS to propagate. We recommend to contact your domain registrar's support if your domain's map at [What's My DNS](https://www.whatsmydns.net/) is not turning green after an hour.
+{: .fs-6 .fw-300 }

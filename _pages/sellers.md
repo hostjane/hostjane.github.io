@@ -12,7 +12,7 @@ permalink: /sellers/
 
 <span class="green">This section provides information for selling services on HostJane marketplace.</span>
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC
@@ -42,7 +42,7 @@ You will need:
 
 After successfully registering, you will be returned to Listing Wizard to create your first listing
 
-<span class="green">Listings are reviewed by Admin and can take up to 30 minutes to appear live on HostJane.</span>
+<span class="green">Listings are reviewed by Admin and can take up to 30 mins to appear live on HostJane.</span>
 
 To ensure there is not a delay, please review the [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/) to ensure your listing is in line with HostJane policies.
 
@@ -96,6 +96,7 @@ We accept videos from YouTube and Vimeo.
 ![](/assets/video2.png)
 
 ### Each video you upload should:
+{: .no_toc }
 
 - [x] Be your own copyright
 - [x] Be in English only (Language teachers can speak in other languages but the introduction should be in English)
@@ -107,6 +108,7 @@ We accept videos from YouTube and Vimeo.
 ![](/assets/hidden.png)
 
 ### We prohibit the following content:
+{: .no_toc }
 
 - [x] Videos containing hidden contact information in on-screen annotations or narrative. Your account can be subject to restrictions if you accept payment off HostJane.
 - [x] Reusing the same videos for multiple listings
@@ -117,6 +119,7 @@ We accept videos from YouTube and Vimeo.
 # Image Guidelines For Listings
 
 ### Use images that are:
+{: .no_toc }
 
 - [x] .Jpeg or .Jpg type (preferred)
 - [x] Recommended size is 1200 (w) x 800px (h) - Image will crop so use bigger sizes to get a higher resolution.
@@ -128,6 +131,7 @@ We accept videos from YouTube and Vimeo.
 - [x] Not stock images
 
 ### We prohibit images that:
+{: .no_toc }
 
 - [x] Contain off-site contact information like phone numbers, web addresses or emails
 - [x] Have third-party copyright that you don't own
@@ -137,6 +141,7 @@ We accept videos from YouTube and Vimeo.
 # Audio Guidelines for Listings
 
 ### Use audios that are:
+{: .no_toc }
 
 - [x] Allowed File Types: m4a, flac, mp3, mp4, wav, wma, aac.
 - [x] Under 10Mb
@@ -144,6 +149,7 @@ We accept videos from YouTube and Vimeo.
 - [x] Your own copyright ownership
 
 ### We prohibit audios that:
+{: .no_toc }
 
 - [x] Contain off-site contact information like phone numbers, web addresses or emails
 - [x] Have third-party copyright that you don't own
@@ -341,6 +347,7 @@ Yes, although you will need to send your buyers the download manually. As a mark
 # Issues with Buyer Revisions
 
 ### A buyer keeps asking me to do revisions. What can I do?
+{: .no_toc }
 
 While we expect Sellers to offer at least 1 revision of their delivered Work Previews, HostJane cares that freelancers selling on our Marketplace are not being taken advantage of.
 

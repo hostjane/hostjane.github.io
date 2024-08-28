@@ -22,9 +22,9 @@ HostJane provides a free auto-renewing, SSL certificate matched to the domain or
 |:-------------|:------------------|
 |   ![](/assets/one.svg)           | After purchase, login to the client area to see your **root password and IP address**. Amazon assigns a static IP address immediately, but your VPS will not be active until WordPress has finished installing. | Instant |
 
-|   ![](/assets/two.svg)           | Wait 5 mins after purchase for your server to install WordPress and send your **WP-Admin username and password** to your email.| 5 minutes |
-| ![](/assets/three.svg)  | Change your WP-Admin password  | 2 minutes |
+|   ![](/assets/two.svg)           | Wait 5 mins after purchase for your server to install WordPress and send your **WP-Admin username and password** to your email.| 5 mins |
+| ![](/assets/three.svg)  | Change your WP-Admin password  | 2 mins |
 
-| ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 minute with Amazon Route 53 but can take much longer depending on your domain registrar. | 1 minute |
+| ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 min with Amazon Route 53 but can take much longer depending on your domain registrar. | 1 min |
 
-| ![](/assets/five.svg)  | Request Simple Mail Transfer Protocol (SMTP) port 25 is unblocked. Like most cloud computing services, Amazon [blocks outbound traffic on Port 25](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html#port-25-throttle) on all new EC2 servers. It's usually a formality to unblock the ports, but we will need to submit your use case to Amazon, so we can assist with that request | 2 minutes |
+| ![](/assets/five.svg)  | Request Simple Mail Transfer Protocol (SMTP) port 25 is unblocked. Like most cloud computing services, Amazon [blocks outbound traffic on Port 25](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html#port-25-throttle) on all new EC2 servers. It's usually a formality to unblock the ports, but we will need to submit your use case to Amazon, so we can assist with that request | 2 mins |

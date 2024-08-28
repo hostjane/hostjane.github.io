@@ -10,7 +10,7 @@ permalink: /how-licensing-works/unlimited-license-faq/
 # Unlimited License FAQ
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

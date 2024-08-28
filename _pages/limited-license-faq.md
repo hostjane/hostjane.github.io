@@ -10,7 +10,7 @@ permalink: /how-licensing-works/limited-license-faq/
 # Limited License FAQ
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

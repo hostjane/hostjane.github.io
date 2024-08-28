@@ -10,7 +10,7 @@ permalink: /how-licensing-works/buyer-owns-rights-faq/
 # Buyer Owns Rights FAQ
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC

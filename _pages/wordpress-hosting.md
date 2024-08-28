@@ -26,10 +26,10 @@ With a server team managing your WordPress virtual machine on [Amazon Elastic Co
 HostJane sets up your WordPress virtual machine on Amazon EC2 running the latest version of WordPress—[deployed by Bitnami](https://bitnami.com/stack/wordpress)—maps your EC2 instance to your domain or subdomain, assigns an Amazon elastic IP, and installs a free, auto-renewing SSL certificate. 
 {: .fs-6 .fw-300 }
 
-Your new Amazon WordPress cloud server will email you its admin username and password, within 3 minutes of the instance launching.
+Your new Amazon WordPress cloud server will email you its admin username and password, within 3 mins of the instance launching.
 {: .fs-6 .fw-300 }
 
-<span class="green">**Case Example:** HostJane automates in 2 minutes what [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/), Alok Kumar, manually does on the AWS terminal in 30 minutes, with added configurations, **on-going** 24/7 support and full server management.</span>
+<span class="green">**Case Example:** HostJane automates in 2 mins what [AWS Certified DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/), Alok Kumar, manually does on the AWS terminal in 30 mins, with added configurations, **on-going** 24/7 support and full server management.</span>
 {: .fs-6 .fw-300 }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5rlCUXjVaHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,12 +50,12 @@ After 2-3 mins you'll get your WP-Admin password and must simply [point your dom
 |:-------------|:------------------|
 |   ![](/assets/one.svg)           | After purchase, login to the client area to see your **root password and IP address**. Amazon assigns a static IP address immediately, but your VPS will not be active until cPanel has finished installing. | Instant |
 
-|   ![](/assets/two.svg)           | Wait 5 mins after purchase for your server to install cPanel and send your **WP-Admin username and password** to your email.| 5 minutes |
-| ![](/assets/three.svg)  | Change your WP-Admin password  | 2 minutes |
+|   ![](/assets/two.svg)           | Wait 5 mins after purchase for your server to install cPanel and send your **WP-Admin username and password** to your email.| 5 mins |
+| ![](/assets/three.svg)  | Change your WP-Admin password  | 2 mins |
 
-| ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 minute with Amazon Route 53 but can take much longer depending on your domain registrar.  | 1 minute |
+| ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 min with Amazon Route 53 but can take much longer depending on your domain registrar.  | 1 min |
 
-| ![](/assets/five.svg)  | Request Simple Mail Transfer Protocol (SMTP) port 25 is unblocked. Like most cloud computing services, Amazon [blocks outbound traffic on Port 25](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html#port-25-throttle) on all new EC2 servers. It's usually a formality to unblock the ports, but we will need to submit your use case to Amazon, so we can assist with that request | 2 minutes |
+| ![](/assets/five.svg)  | Request Simple Mail Transfer Protocol (SMTP) port 25 is unblocked. Like most cloud computing services, Amazon [blocks outbound traffic on Port 25](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-resource-limits.html#port-25-throttle) on all new EC2 servers. It's usually a formality to unblock the ports, but we will need to submit your use case to Amazon, so we can assist with that request | 2 mins |
 
 ##  Limits on Hosting Support
 

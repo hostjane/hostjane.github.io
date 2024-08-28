@@ -26,7 +26,7 @@ HostJane is a [web hosting](https://cloud.hostjane.com) and [marketplace](https:
 
 # Build your website or app on Amazon
 
-<span class="green">HostJane assists small businesses to run servers and fast websites on Amazon Web Services (AWS), the world's [leading public cloud](https://aws.amazon.com) with [fully managed servers](https://cloud.hostjane.com) and certified AWS resource experts from $22.95 /mo.</span>
+<span class="green">HostJane assists small businesses to run servers and fast websites on Amazon Web Services (AWS), the world's [leading public cloud](https://aws.amazon.com) with [fully managed servers](https://cloud.hostjane.com) and certified AWS resource experts from $17.95 /mo.</span>
 {: .fs-6 .fw-300 }
 
 - [x] Plug and play — we set up, manage and run your server for you. All you need to do is [point your domain](/point-your-domain/), write or transfer your site — [See hosting plans](https://cloud.hostjane.com)
@@ -94,7 +94,7 @@ We've grown into a Swiss-Army knife for small business needing start-up pricing 
 
 ![](/assets/example-board.png)
 
-- [x] Summary of new activity emailed to you every 15 minutes
+- [x] Summary of new activity emailed to you every 15 mins
 - [x] Every board change tracked with an [audit trail](getting-started/what-are-boards/#board-activity)
 - [x] Get a birdview's view of what your freelancer is doing and when
 {: .fs-6 .fw-300 }

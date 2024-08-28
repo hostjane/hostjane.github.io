@@ -10,7 +10,7 @@ permalink: /buyers/donating-gas-groceries/
 # Donating Gas & Food to Freelancers
 {: .no_toc }
 
-## In this section
+## 5 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC
