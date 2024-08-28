@@ -13,7 +13,7 @@ Marketplace FAQs ![](/assets/wave.svg)
 HostJane lets you connect to valued freelancers with verified work histories, in over 1700 skill types, providing a safe and easy workspace to join forces online.
 {: .fs-6 .fw-300 }
 
-Protected payments by Amazon Pay or PayPal, and a money-back guarantee to ensure business as usual is safeguarded.
+Protected payments by Amazon Pay or PayPal—and a [money-back guarantee](/getting-started/#payment-protection-guarantee)—ensure business as usual is safeguarded.
 {: .fs-6 .fw-300 }
 
 [Register your HJ account](https://www.hostjane.com/marketplace/register){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sign in to manage](https://www.hostjane.com/marketplace/login){: .btn .fs-5 .mb-4 .mb-md-0 }

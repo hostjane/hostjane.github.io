@@ -12,6 +12,51 @@
   line-height: 1.7;
 }
 
+.main-content h1 {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 28px !important;
+  line-height: 45px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 27px !important;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+body {
+  color: #000000;
+}
+
+/*Numbering issues*/
+
+.main-content ol > li::before {
+  font-size: 19px !important;
+}
+
+.main-content ol > li::before {
+  top: 0.35em;
+  left: -1.6em;
+}
+
+/*Expander issues*/
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-image: none;
+  z-index: 1000;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  width: 2rem;
+  height: 6rem;
+  padding: .5rem;
+}
+
 /*Site Colors*/
 
 @media (min-width: 50rem) {

@@ -33,7 +33,7 @@ No, your email is private. HostJane also requires login via username so you are 
 Just like your bank verifies you authorized a transaction, you can activate two-factor authentication to double check it's you logging into your HostJane account.
 To add a second layer of protection to your account, go to [Settings > Security](https://www.hostjane.com/marketplace/settings/security)
 
-We'll send you a verification code each time you login to double check it's you.
+<span class="green">We'll send you a verification code each time you login to double check it's you.</span>
 
 # Why should I trust HostJane?
 

@@ -342,7 +342,7 @@ Other ways to promote your Listings:
 
 # Can I offer downloads?
 
-Yes, although you will need to send your buyers the download manually. As a marketplace focused on on-demand Work, we don't offer any automated way to sell downloads or API to check on downloaded software usage.
+Yes, although you will need to send your buyers the download manually. As a marketplace focused on freelaners who create original Work, we don't offer any automated way to sell downloads or an API to check on downloaded software usage.
 
 # Issues with Buyer Revisions
 
