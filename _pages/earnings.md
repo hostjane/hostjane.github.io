@@ -36,7 +36,7 @@ Please [contact us](https://www.hostjane.com/marketplace/contact) if you have an
 - [x] Payout methods are listed in [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) and vary depending on your location.
 {: .fs-6 .fw-300 }
 
-<span class="green">We follow the [HostJane Roadmap](/buyers/hostjane-roadmap/)</span>
+<span class="green">We follow the [HostJane Roadmap](/marketplace-faq/hostjane-roadmap/)</span>
 {: .fs-6 .fw-300 }
 
 # How It Works

@@ -9,7 +9,7 @@ permalink: /buyers/hostjane-workspace/
 
 # Smart Workspace
 
-<span class="blue">The HostJane workspace is a web-based, Kanban-style, [interactive chat and Board](/getting-started/what-are-boards/) for people to collaborate remotely in jobs, virtual tasks or online lessons. Service follows the [HostJane Roadmap](/buyers/hostjane-roadmap/).</span>
+<span class="blue">The HostJane workspace is a web-based, Kanban-style, [interactive chat and Board](/getting-started/what-are-boards/) for people to collaborate remotely in jobs, virtual tasks or online lessons. Service follows the [HostJane Roadmap](/marketplace-faq/hostjane-roadmap/).</span>
 
 ![](/assets/board-view.png)
 

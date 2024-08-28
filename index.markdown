@@ -71,7 +71,7 @@ We've grown into a Swiss-Army knife for small business needing start-up pricing 
 
 ![](/assets/board-view.png)
 
-<span class="purple">HostJane is a fun and rewarding way to push your ideas from [*to do* to **done**](/buyers/hostjane-roadmap/).</span>
+<span class="purple">HostJane is a fun and rewarding way to push your ideas from [*to do* to **done**](/marketplace-faq/hostjane-roadmap/).</span>
 {: .fs-6 .fw-300 }
 
 # Say goodbye to:

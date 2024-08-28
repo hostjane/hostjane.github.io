@@ -6,7 +6,7 @@ permalink: /about/
 
 ## HostJane FAQ
 
-This FAQs provides answers to basic questions about HostJane. Check out [the HostJane Roadmap](/buyers/hostjane-roadmap/) for more detailed information.
+This FAQs provides answers to basic questions about HostJane. Check out [the HostJane Roadmap](/marketplace-faq/hostjane-roadmap/) for more detailed information.
 
 1. TOC
 {:toc}
