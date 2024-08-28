@@ -20,13 +20,13 @@ permalink: /marketplace-faq/security/
 
 # What is HostJane's privacy policy?
 
-Read HostJane's full [privacy notice](https://www.hostjane.com/legal/privacy/).
+Read HostJane's full [privacy policy](https://www.hostjane.com/legal/privacy/).
 
 # Will people know my email?
 
 No, your email is private. HostJane also requires login via username so you are not typing your email into any device when you sign in to your account.
 
-Learn more about HostJane's privacy notice
+<span class="yellow">Learn more about [HostJane's privacy policy](https://www.hostjane.com/legal/privacy/)</span>
 
 # How does 2-Step Authentication work?
 
@@ -47,8 +47,9 @@ Anyone found to be abusing the satisfaction guarantee or our review system risks
 
 # How does HostJane encrypt data?
 
-HostJane encrypts all sensitive data with AES-256.
-HostJane does not process any credit card transaction on our platform or handle or store any payment data at any time. All payments are handled independently by our stringent PCI-compliant U.S.-located bank in a separate encrypted payment environment.
+- [x] HostJane encrypts all sensitive data with AES-256.
+- [x] HostJane does not process any credit card transaction on our platform or handle or store any payment data at any time.
+- [x] All payments are handled independently by our stringent PCI-compliant U.S.-located bank in a separate encrypted payment environment.
 
 All card transactions must be verified by 3D Secure.
 
@@ -62,8 +63,8 @@ You can review the last 10 recent logins to your account in [Settings > Recent A
 
 # Can I sell physical products?
 
-As a rule of thumb, if something can't be virtual delivered over the internet to the Buyer to complete an order, then it doesn't belong on HostJane.
-Services that produce or manufacture a product that is required to be physically shipped and signed for by the Buyer (with a tracking mail carrier like FedEx) are not supported on HostJane because too much can go wrong.
+- [x] As a rule of thumb, if something can't be virtual delivered over the internet to the Buyer to complete an order, then it doesn't belong on HostJane.
+- [x] Services that produce or manufacture a product that is required to be physically shipped and signed for by the Buyer (with a tracking mail carrier like FedEx) are not supported on HostJane because too much can go wrong.
 
 HostJane supports sellers doing stuff that falls within the scope of our definition of a Skill and what counts as a Service.
 
@@ -97,4 +98,4 @@ Please do not use our website if these sanctions apply to you; we will have to c
 
 If you wish to submit a DMCA copyright takedown request or counter notice, please [follow the instructions](https://www.hostjane.com/legal/use-policy/) given in Section 2.2 and 2.4 of our [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/)
 
-For your ease of reference, the DMCA requirements are listed in our Trust & Safety section.
+The DMCA requirements are listed in the same section.
