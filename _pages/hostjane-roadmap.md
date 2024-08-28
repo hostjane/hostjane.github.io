@@ -10,7 +10,7 @@ permalink: /marketplace-faq/hostjane-roadmap/
 # HostJane Roadmap
 {: .no_toc }
 
-<span class="green">We made a simple roadmap to explain how to buy or sell [a Service](http://localhost:4000/about/#what-counts-as-a-service) on HostJane.</span>
+<span class="green">We made a simple roadmap to explain how to buy or sell [a Service](/about/#what-counts-as-a-service) on HostJane.</span>
 
 ## 5 Minute Read
 {: .no_toc .text-delta }
@@ -18,7 +18,7 @@ permalink: /marketplace-faq/hostjane-roadmap/
 1. TOC
 {:toc}
 
-## The roadmap flow explains 5 points:
+## The roadmap flow explains 5 points
 
 1. **Why**&nbsp;Services are sold in 3 stages
 2. **How**&nbsp;money moves from Buyer to Seller
