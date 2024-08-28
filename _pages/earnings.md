@@ -9,36 +9,29 @@ permalink: /sellers/earnings/
 
 # Introduction to Earnings
 
-<span class="green">To help you understand how HostJane pays, we made this plain English guide.</span>
+<span class="green">The standard Seller Earnings rate is 95% on all Listings, Online Lessons, Custom Offers and Tips. The total price of each Service is set and controlled by each Seller.</span>
+
+<span class="blue">HostJane pays all overhead costs from the 5% Marketplace Fee.</span>
 
 Please [contact us](https://www.hostjane.com/marketplace/contact) if you have any questions.
 
 ## Summary for Earning on HostJane
 
-<span class="blue">We follow the [HostJane Roadmap](/buyers/hostjane-roadmap/)</span>
-
-* The standard Seller Earnings rate is 95% on all Listings, Online Lessons, Custom Offers and Tips
-Each Seller sets the price of their own Services
+* Each Seller sets the price of their own Services
 
 * Sellers receive the full 95% from each sale
 
 * There is a 5-day waiting period before you can withdraw earned funds from completed orders to prevent fraud and other problems
 
-* We can pay you out free with no minimum to all PayPal accounts
+* We can pay you out by any method listed in your Settings > Payouts
 
-* We can pay you free by Direct Deposit (U.S. bank accounts)
-
-* We can pay you out free by Wire Transfer (with no minimum) to these [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments).
+<span class="green">We follow the [HostJane Roadmap](/buyers/hostjane-roadmap/)</span>
 
 ### Policies
 
-<span class="yellow">HostJane uses a traditional model of "Seller-driven" pricing for all Services, meaning the total price of each Service is set and controlled by you, the Seller.</span>
-
-As soon as you open 1 listing, a sales snapshot will be available in your dashboard, helping you track daily sales, including cleared and unsettled pending earnings.
+<span class="yellow">After a Seller has published 1 listing, a sales snapshot is available in account dashboard, tracking daily sales, payouts, cleared and unsettled or pending earnings.</span>
 
 ![](/assets/snapshot.png)
-
-Standard earnings is 95%. HostJane pays all overhead costs from our Marketplace Fee.
 
 Use the Set Your Price calculator when creating or editing your listing to calculate how much your Buyer will pay and how much you will earn on each order.
 
@@ -57,7 +50,7 @@ Added Extras: If you sell optional Services or add-ons to your Buyer, these are 
 
 * **Confidentiality**: If the Buyer wishes for you to sign HostJane's standard NDA agreement, when you accept their order, they will pay an administrative fee to HostJane that is charged on top of the Base price. Sellers on HostJane control which orders they accept and refuse without penalty.
 
-Let's see an example:
+Let's see an example with a $100 Service:
 
 ![](/assets/calculator.png)
 
