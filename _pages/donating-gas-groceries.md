@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Gas & food donations
+title: Rent & food donations
 parent: Buyers FAQ
 description: Donating gas and food to freelancers on HostJane
 nav_order: 5
 permalink: /buyers/donating-gas-groceries/
 ---
 
-# Donating Gas & Food to Freelancers
+# Donating Rent & Meals to Freelancers
 {: .no_toc }
 
 ## 5 Minute Read
