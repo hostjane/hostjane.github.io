@@ -64,20 +64,7 @@ Example: Jody is a freelancer with a public business profile on HostJane. An ano
 
 ## How do I receive my donation?
 
- <span class="purple">All donations are sent free in U.S. dollars. Currency conversion may reduce payout.</span>
-
-- [x] [PayPal](https://www.paypal.com/) - no fees
-- [x] [Veem](https://www.veem.com/getpaid/) - no fees 
-- [x] ACh deposit (U.S. bank accounts) - no fees
-- [x] Wire transfer - no fees
-
-<span class="green">We recommend you open a [free Veem account](https://www.veem.com/getpaid/) which is a very easy way of receiving USD international bank transfers with no fees.</span>
-
-## What payout countries are supported?
-
-Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#country-information-for-wire-payments).
-
-<span class="blue">PayPal may not be available in all of the countries that HostJane sends free international bank transfers in USD.</span>
+ <span class="purple">All donations are sent free in U.S. dollars. Withdrawal methods depend on your location. Login to your account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
 
 ## What are the taxes on donations?
 
@@ -90,7 +77,7 @@ Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#cou
 
 ## I received a tip. Is that the same as a donation?
 
-<span class="green">Negative, donations are only for food and gas, to assist freelancer make ends meet for their mental health well-being. They are paid at 100% within 48 hours.</span>
+<span class="green">No, donations are charitable goodwill towards living costs e.g. rent, food, and gas. These Random Acts of Kindness assist freelancers to make ends meet for their mental health well-being. They are paid out at 100% within 48 hours.</span>
 
 Tips are limited to being given for Work done in a service or lesson on HostJane. They are paid at 95% and the 5-day waiting period applies. 
 

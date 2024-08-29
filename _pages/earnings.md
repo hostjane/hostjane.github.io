@@ -104,7 +104,7 @@ In this example, a Seller prices their Service at $100 using the listing calcula
 # On $100, the Seller earned $95 USD
 {: .no_toc }
 
-- [x] There is a 5-day waiting period after the order is completed before the Seller can withdraw those funds to their bank account.
+- [x] There is a 5-day waiting period after the order is completed before the Seller can withdraw those funds to their [Payout Method](https://www.hostjane.com/marketplace/settings/payouts).
 - [x] As Sellers are independent contractors, and not employees, HostJane does not apply withholding tax or any other form of tax or fee.
 - [x] Ensure you complete any tax forms on your account, HostJane will notify you when and how you need to do this.
 {: .fs-6 .fw-300 }

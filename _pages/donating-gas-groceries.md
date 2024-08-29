@@ -70,11 +70,7 @@ Example: Jane is a visitor. She wants to do Ian, a Freelancer with a public busi
 
 <span class="yellow">HostJane will send 100% of your donation <strong>within 48 hours</strong> to the User's payout method.</span>
 
-## What countries are supported?
-
-Find a list of countries we pay out to [here](/sellers/payments-tax-credits/#country-information-for-wire-payments).
-
-<span class="blue">PayPal may not be available in all of the countries that HostJane sends free international bank transfers in USD.</span>
+<span class="yellow">If you are a Seller or Freelancer, withdrawal methods depend on your location. Login to your account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
 
 ## How are tips different from donations?
 

@@ -319,7 +319,7 @@ Funds can be transferred as one-off payments via:
 
 # Subcontracting policy
 
-You're free use subcontractors to fulfil Services on HostJane so long as you meet these requirements:
+You're free to use subcontractors to fulfill Services on HostJane so long as you meet these requirements:
 
 * You have a legal arrangement to resell Work from your subcontractor
 

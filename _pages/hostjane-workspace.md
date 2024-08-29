@@ -28,9 +28,9 @@ To place an order for a listing or lesson, click 'Continue' on the Seller's list
 
 Your job will be known by the title you write here.
 
-<span class="green">Click 'Confirm and Pay' to make payment. We accept major credit or debit cards and PayPal.</span>
+<span class="green">Click 'Confirm and Pay' to make payment. We accept Amazon Pay and PayPal.</span>
 
-HostJane holds funds under the Purchase Protection guarantee until you release the funds to the Seller.
+HostJane holds funds with Amazon or PayPal under the Purchase Protection guarantee until you release the funds to the Seller.
 
 ![](/assets/payment.png)
 

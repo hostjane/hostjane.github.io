@@ -166,7 +166,7 @@ HostJane does not support payments or payouts in crypto or bitcoin.
 
 If you've been refunded by a Seller, the funds will be available as cleared funds in your account. Your HostJane balance will show these funds.
 
-<span class="green">You can withdraw the amount to your PayPal or bank account.</span>
+ <span class="purple">You can withdraw your funds at any time. Withdrawal methods depend on your location. Login to your account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
 
 Handling fees are not refundable.
 

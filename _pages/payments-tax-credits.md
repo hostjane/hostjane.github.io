@@ -10,7 +10,7 @@ permalink: /sellers/payments-tax-credits/
 # Payments & Tax
 {: .no_toc }
 
-## 5 Minute Read
+## 7 Minute Read
 {: .no_toc .text-delta }
 
 1. TOC
@@ -19,167 +19,26 @@ permalink: /sellers/payments-tax-credits/
 ## How to request a payout
 
 1. You will need to have cleared earnings or refunded money in your account before you can request a payout.
-2. Please add a Bank account, Paypal in Settings > Payouts.
+2. Add an available Payout Method in [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts).
 3. Go to Reporting and click Withdraw
 
 ![](/assets/fee1.png)
 
-Select a Payout method (Add your details in Settings > Payouts) then follow the on-screen instructions. A unique payment ID will be generated.
-
-![](/assets/fees.png)
-
-## How to add a bank account for withdrawal?
-
-To add a new bank account, login to HostJane and go to Settings > [Payouts](https://www.hostjane.com/marketplace/settings/payouts).
-
-For U.S. sellers, select the Direct Deposit tab. You can enter your routing and account number with details which are free to receive.
-
-![](/assets/direct-deposit.png)
-
-For international sellers in these [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments), select the Wire Transfer tab. You will need your SWIFT account details to register your bank account.
-
-![](/assets/swift.png)
-
-Note that HostJane cannot be held responsible for delays, extra costs or financial loss that arises from being provided incorrect account information, so please ensure that you double check the details with your financial institution prior to submitting a request for a Bank Transfer.
-
-## How to find my routing and account number
-
-If you want to be paid your earnings by Direct Deposit, you will need to provide an American account and routing number.
-
-![](/assets/account-routing.png)
-
-Your bank routing number is a nine-digit code that's based on the U.S. Bank location where your account was opened. It's the first set of numbers printed on the bottom of most checks, on the left side.
-
 ## How fast does HostJane payout?
 
-<span class="blue">Cash donations for gas and groceries are paid in 48 hours to your nominated bank or PayPal account.</span>
+<span class="blue">Charitable donations for living costs are paid in 48 hours to your nominated [payout method](/sellers/payments-tax-credits/#supported-payout-methods).</span>
 
-To meet our anti-fraud obligations, HostJane holds most other marketplace payments for services for 5 days after each order is completed with Buyer approval and compulsory feedback.
+<span class="green">To meet our anti-fraud obligations, HostJane holds other marketplace payments for Services for up to 5 days after each order is completed pending Buyer approval and compulsory feedback.</span>
 
 ![](/assets/to-go.png)
 
-In [Reporting](https://www.hostjane.com/marketplace/reporting), we keep you informed of the clearance progress of your earnings in hours and minutes to go for each order. 
+In [Reporting](https://www.hostjane.com/marketplace/reporting), we keep you informed of the clearance progress of your earnings in hours and minutes for each order. 
 
 ![](/assets/snapshot-cash.png)
 
 Once the countdown reaches zero in the Payout Status column of Your Sales, those earnings become available for withdrawal to your payout method.
 
 Download a sales invoice for every transaction.
-
-## Direct Deposit to United States
-
-HostJane sends free, fast ACH payments (Direct Deposit) to any U.S. bank account - with no minimum.
-
-## Country information for wire payments
-
-HostJane currently supports FREE international wire payouts to the following countries. 
-
-All transfers are sent in USD. Currency conversion may reduce payout.
-
-| Country Name | Local Currency |  
-|:-------------|:------|
-| Albania	 |  ALL |
-| Algeria	 | DZD |
-| Anguilla	|  XCD |
-| Argentina	| ARS |
-| Armenia	|  AMD |
-| Australia	|  AUD |
-| Austria	| EUR |
-| Bahamas	|  BSD |
-| Bahrain	|  BHD |
-| Bangladesh	| BDT |
-| Barbados	| BBD |
-| Belgium	|  EUR |
-| Bermuda	|  BMD |
-| Brazil	|  BRL
-| Brunei Darussalam	| BND |
-| Bulgaria	| BGN |
-| Canada	| CAD |
-| Cayman Islands	| KYD |
-| Chile	| CLP |
-| China	| CNY |
-| Colombia	|  COP |
-| Costa Rica	| CRC |
-| Croatia	|  HRK |
-| Cyprus	|  EUR |
-| Czech Republic	|  CZK |
-| Denmark	|  EUR |
-| Ecuador	|  USD |
-| Egypt	|  EGP |
-| Estonia	| EGP |
-| Eswatini	|  SZL |
-| Fiji	| FJD |
-| Finland	|  EUR |
-| France	|  EUR |
-| Georgia	|  GEL |
-| Germany	|  EUR |
-| Greece	|  EUR |
-| Guatemala	| GTQ |
-| Honduras	| HNL |
-| Hong Kong	| HKD |
-| Hungary	|  HUF |
-| Iceland	|  ISK |
-| India	|  INR |
-| Indonesia	| IDR |
-| Ireland	|  EUR |
-| Israel	|  ILS |
-| Italy	| EUR |
-| Japan	| JPY |
-| Jordan	| JOD |
-| Kazakhstan	|  KZT |
-| Kenya	|  KES |
-| Korea, Republic of  | KRW |
-| Kuwait	|  KWD |
-| Latvia	| EUR |
-| Liechtenstein	| CHF |
-| Lithuania	|  EUR |
-| Luxembourg	|  EUR |
-| Macao	|  MOP |
-| Malawi	|  MWK |
-| Malaysia	|  MYR |
-| Malta	| EUR |
-| Mauritius	| MUR |
-| Mexico	| MXN |
-| Monaco	| EUR |
-| Morocco	|  MAD |
-| Mozambique	|  MZN |
-| Nepal	| NPR |
-| Netherlands	| EUR |
-| New Zealand	| NZD |
-| Norway | NOK |
-| Oman	| OMR |
-| Pakistan | PYG |
-| Peru	| SOL |
-| Philippines	|  PHP |
-| Poland	|  PLN |
-| Portugal	| EUR |
-| Qatar	|  QAR |
-| Romania	|  RON |
-| Rwanda	|  RWF |
-| Saudi Arabia	|  SAR |
-| Serbia	| RSD |
-| Singapore	| SGD |
-| Slovakia	| EUR |
-| Slovenia	| EUR |
-| Solomon Islands	|  SBD |
-| South Africa	| ZAR |
-| Spain	|  EUR |
-| Sri Lanka	| LKR |
-| Sweden	| SEK |
-| Switzerland	| CHF |
-| Taiwan, Province of China	| TWD |
-| Trinidad and Tobago	|  USD |
-| Thailand	|  	THB |
-| Tunisia	| TND |
-| Turkey	|  TRY |
-| Uganda	| UGX |
-| Ukraine	| 	UAH |
-| United Arab Emirates	| AED |
-| United Kingdom	| GBP |
-| United States	| USD - [Also Direct Deposit](/sellers/payments-tax-credits/#direct-deposit-to-united-states) |
-| Uruguay	|  UYU |
-| Viet Nam | 	VND |
-| Zambia | ZMW |
 
 ## The dollar amounts in my reporting are wrong?
 
@@ -189,26 +48,47 @@ If the amounts are still wrong are clearing cache, contact us so our billing tea
 
 ## Supported Payout Methods
 
-![](/assets/withdrawal-methods.png)
+ <span class="purple">Withdrawal methods depend on your location. Login to your Account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
 
-To withdraw your earnings to your bank, HostJane currently supports the following seller payout methods:
+## What is Form W-9?
 
-- [x] PayPal (No minimum, FREE)
-- [x] PayPal (No minimum, FREE)
-- [x] Direct Deposit / ACH (No minimum, FREE) - U.S. bank accounts only
-- [x] Wire Transfer (No minimum, FREE) - [Supported Countries](/sellers/payments-tax-credits/#country-information-for-wire-payments)
+<span class="green">If you are legally a [U.S person](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes) and you earn money through HostJane, you will need to file a [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) with HostJane.</span>
 
-## Do I need a 1099 form?
+<span class="blue">Download the [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf), complete and sign it, then upload a copy to [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) where it will be held securely on encrypted AWS servers inside the United States.</span>
 
-HostJane, Inc. is a US corporation. If you are a US based Seller and you have earned and withdrawn over $600 dollars in the past calendar year, you will receive a [1099 NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec).
+HostJane, Inc. is a US corporation. Like all other U.S.-based marketplaces and online communities, U.S. tax authorities require HostJane to collect this information.
 
- If your gross earnings also [exceed $20,000 USD with more than 200 transactions](https://www.irs.gov/payments/general-faqs-on-new-payment-card-reporting-requirements) within a single calendar year, HostJane may be required to file a Form 1099-K with the IRS to report transactions made to you.
+- [x] HostJane is unable to release any earnings to your [Payout Method](https://www.hostjane.com/marketplace/settings/payouts) until W-9 information is completed and valid on file.
 
- Copies will be filed with the IRS and emailed to Creators on your address on file. For a digital version of your Tax Form 1099, please visit your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+- [x] U.S.-based users will automatically see this form in your [Payout settings](https://www.hostjane.com/marketplace/settings/payouts) when you have earnings to withdraw..
 
-HostJane team will contact you if we need any tax information from you.
+<span class="red">If you are a [U.S person](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes) living outside the U.S. and you do not see this form in your account, please [contact Support](https://www.hostjane.com/marketplace/support-ticket) because HostJane will still need a completed [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) to be held on file for you.</span>
 
-## Tax policy
+## What is Form W-8BEN or W-8BEN-E?
+
+<span class="yellow">If you are legally a [non-U.S person](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes), even if you live outside the U.S. or never travel here, U.S. tax authorities require you to declare on a [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) (or [W-8BEN-E Form](https://www.irs.gov/pub/irs-pdf/fw8bene.pdf) if you are a foreign company or entity) that you are not doing work within the U.S. and information about your business activities.</span>
+
+<span class="blue">Download the [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) or [W-8BEN-E Form](https://www.irs.gov/pub/irs-pdf/fw8bene.pdf), complete and sign it, then upload a copy to [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) where it will be held securely on encrypted AWS servers inside the United States.</span>
+
+- [x] All users physically outside the U.S will automatically see this form in your [Payout settings](https://www.hostjane.com/marketplace/settings/payouts) when you have earnings to withdraw.
+
+<span class="red">For non-U.S. persons, HostJane is unable to release any earnings to your [Payout Method](https://www.hostjane.com/marketplace/settings/payouts) until W-8 Form information is completed and valid on file.</span>
+
+## What is the 1099-K form?
+
+<span class="green">If you are a [U.S person](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes) and you have earned and withdrawn over $600 dollars in the past calendar year, you will receive a [1099 NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec).</span>
+
+<span class="blue">The requirement for 1099-K depends on your gross earnings on HostJane. Legally, if your HostJane earnings [exceed $20,000 USD with more than 200 transactions](https://www.irs.gov/payments/general-faqs-on-new-payment-card-reporting-requirements) within a single calendar year, HostJane may be required to file a Form 1099-K with the IRS to report transactions made to you.</span>
+
+- [x] All U.S-based users will automatically see this form in your [Payout settings](https://www.hostjane.com/marketplace/settings/payouts) when you have earned over $20K or reached more than 200 transactions.
+
+- [x] If you are a [U.S person](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes) living outside the U.S. and you do not see this form in your account, please [contact Support](https://www.hostjane.com/marketplace/support-ticket) because HostJane will still need a completed 1099-K form to be held on file for you.
+
+Copies will be filed with the IRS and emailed to Creators on your address on file. For a digital version of your Tax Form 1099, please visit your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+
+<span class="blue">HostJane will contact you if we need additional tax information from you.</span>
+
+## General Tax policy
 
 <span class="green">HostJane does not have any authority to charge or collect tax on freelance services as described in the [Terms of Service](https://www.hostjane.com/legal/tos/).</span>
 
@@ -224,7 +104,7 @@ Stated in section 2.5.3 of the [Marketplace Rules](https://www.hostjane.com/lega
 
 Sellers are responsible for paying any direct or indirect taxes, including any European VAT or Australian GST or otherwise, which may apply to them depending on residency or location. Sellers represent and warrant that they comply, and will comply at all times, with their obligations under income tax provisions in their jurisdiction.
 
-## DAC7
+## DAC7 Reporting for EU Member State Residents
 
 The European Commission's Seventh Amendment to its [Directive on Administrative Cooperation (“DAC7”) in the Field of Taxation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021L0514&from=EN) is an EU legal requirement.
 
@@ -236,20 +116,20 @@ DAC7 will impact HostJane Sellers who have earned money on HostJane while residi
 
 <span class="blue">Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden.</span>
 
-If you do not live in one of the above countries, you are NOT affected by DAC7.
+- [x] Users physically based in any of the above countries will automatically see DAC7 reporting in your [Payout settings](https://www.hostjane.com/marketplace/settings/payouts) when you have earnings to withdraw.
 
-### Where and what information do I provide?
+<span class="green">If you do not physically reside in an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en), you are NOT affected by DAC7.</span>
 
-After registering as a Seller based in an [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) the DAC7 form will be located in your [Reporting center](https://www.hostjane.com/marketplace/reporting).
+### What content do DAC7 governments want?
 
-Content will vary depending on which EU member state you are based in but in general will cover:
+<span class="purple">Content will vary depending on which [EU member state](https://european-union.europa.eu/principles-countries-history/country-profiles_en) you are based in but in general will cover:</span>
 
-- Information about Seller’s identity (full name or legal name, primary address, and date of birth)
-- EU member state of residence
-- Financial account details
-- Tax identification number (TIN)
-- VAT/business registration numbers (for entities)
-- Information about your HostJane earnings
+- [x] Information about Seller’s identity (full name or legal name, primary address, and date of birth)
+- [x] EU member state of residence
+- [x] Financial account details
+- [x] Tax identification number (TIN)
+- [x] VAT/business registration numbers (for entities)
+- [x] Information about your HostJane earnings
 
 ### Is DAC7 important?
 

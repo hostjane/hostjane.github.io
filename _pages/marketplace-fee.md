@@ -15,7 +15,7 @@ permalink: /sellers/marketplace-fee/
 
 <span class="green">Sellers earn 95% of their listing price in each sale or tip. There are no setup, subscription, hidden or any other fees to sell.<span>
 
-<span class="yellow">There are no fees charged to Sellers on donations which are paid out at 100% within 48 hours to Seller's nominated bank account, Veem or PayPal account</span>
+<span class="yellow">There are no fees charged to Sellers on donations which are paid out at 100% within 48 hours to Seller's nominated payout method</span>
 
 <span class="purple">We strive to be a safe, secure environment which protects both sellers and buyers.
 
@@ -58,7 +58,7 @@ Example: Alison is a PHP developer. Her listing offers a bug fixing service for 
 - [x] Control time limits and number of revisions
 - [x] Define the type and extent of any extras
 
-<span class="green">To receive your Payout, Sellers will need a valid email address, and one of the following: [PayPal](https://www.paypal.com/), [Veem](https://www.veem.com/getpaid/), or bank account.</span>
+<span class="green">To receive your Payout, Sellers will need a valid email address.</span>
 
 To open a Studio, get started in [any skills](https://www.hostjane.com/marketplace/skills) category:
 
