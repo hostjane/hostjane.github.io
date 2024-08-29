@@ -64,7 +64,7 @@ Example: Jody is a freelancer with a public business profile on HostJane. An ano
 
 ## How do I receive my donation?
 
- <span class="purple">All donations are sent free in U.S. dollars. Withdrawal methods depend on your location. Login to your account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
+ <span class="purple">All donations are sent free in U.S. dollars. Withdrawal methods depend on your location. Login to your Account > [Settings > Payouts](https://www.hostjane.com/marketplace/settings/payouts) to view available payout methods in your country together with timing and requirements for payouts.</span>
 
 ## What are the taxes on donations?
 
