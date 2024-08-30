@@ -7,8 +7,8 @@ has_children: true
 permalink: /how-licensing-works/
 ---
 
-## Licensing FAQ
-{: .no_toc }
+# Licensing FAQ ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
 <span class="purple">This section provides information for selling services on HostJane marketplace.</span>
 

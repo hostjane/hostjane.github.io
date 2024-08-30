@@ -7,11 +7,14 @@ has_children: true
 permalink: /buyers/
 ---
 
-FAQs on buying services ![](/assets/wave.svg)
+Buyers FAQ ![](/assets/wave.svg)
 {: .fs-9 .no_toc }
 
-Buying from people on HostJane is safe and easy. Find a service or online booking, choose your licensing and confidentiality preference, then enter a title and short summary for what you want your seller to do. You can attach pictures and files. If the Buyer does not accept the order, you get a refund.
-{: .fs-6 .fw-300 }
+Buying from people on HostJane is safe and easy. 
+
+<span class="green">Find a service or online booking, choose your licensing and confidentiality preference, then enter a title and short summary for what you want your seller to do.</span> 
+
+You can attach pictures and files. If the Seller does not accept your order, you immediately get a no-fuss refund.
 
 [Register your HJ account](https://www.hostjane.com/marketplace/register){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Sign in to manage](https://www.hostjane.com/marketplace/login){: .btn .fs-5 .mb-4 .mb-md-0 }
 

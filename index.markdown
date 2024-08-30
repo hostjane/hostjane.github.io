@@ -6,7 +6,7 @@ description: "Have a question about HostJane and need support? Visit HostJane's 
 permalink: /
 ---
 
-# Help notes ![](/assets/wave.svg)
+# Jane's help notes ![](/assets/wave.svg)
 {: .fs-9 }
 <span class="yellow">Find user guides, quickstarts, and tutorials for using HostJane on any device.</span>
 

@@ -7,8 +7,8 @@ has_children: true
 permalink: /sellers/
 ---
 
-# Sellers FAQ
-{: .no_toc }
+# Sellers FAQ ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
 <span class="green">This section provides information for selling services on HostJane marketplace.</span>
 

@@ -7,8 +7,8 @@ nav_order: 2
 permalink: /marketplace-faq/hostjane-roadmap/
 ---
 
-# HostJane Roadmap
-{: .no_toc }
+# HostJane Roadmap ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
 <span class="green">We made a simple roadmap to explain how to buy or sell [a Service](/about/#what-counts-as-a-service) on HostJane.</span>
 

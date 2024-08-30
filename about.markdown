@@ -4,7 +4,8 @@ title: General FAQ
 permalink: /about/
 ---
 
-## HostJane FAQ
+# General FAQ ![](/assets/wave.svg)
+{: .fs-9 .no_toc }
 
 This FAQs provides answers to basic questions about HostJane. Check out [the HostJane Roadmap](/marketplace-faq/hostjane-roadmap/) for more detailed information.
 
