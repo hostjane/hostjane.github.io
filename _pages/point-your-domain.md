@@ -28,9 +28,6 @@ Your registrar is the place you either **bought** or **transferred** your domain
 <span class="green">Your domain's records are managed at the registrar.</span>
 {: .fs-6 .fw-300 }
 
-The first step is to logon to your registrar and navigate to your domain's control panel.
-{: .fs-6 .fw-300 }
-
 |   ![](/assets/one.svg)           | The first step is to logon to your registrar and navigate to your domain's control panel. Links to the largest domain registrars are below. |
 
 <span class="yellow">Links to the largest domain registrars are below.</span>
