@@ -17,7 +17,7 @@ Managed VPS on Amazon EC2 ![](/assets/wave.svg)
 
 - [x] Managed [cPanel / WHM VPS](/vps-hosting-tutorials/cpanel-whm/) on bare-metal EC2 instances
 - [x] Managed [Plesk VPS](/vps-hosting-tutorials/plesk/) on bare-metal EC2 instances
-- [x] Managed [Amazon Linux 2023](/vps-hosting-tutorials/amazon-linux/) with [PHP-FPM](https://www.php.net/manual/en/install.fpm.php) on bare-metal Amazon EC2 instances.
+- [x] Managed [DirectAdmin](/vps-hosting-tutorials/directadmin/) on bare-metal Amazon EC2 instances.
 {: .fs-6 .fw-300 }
 
 # Overview
@@ -81,16 +81,16 @@ HostJane uses [Amazon EC2 API](https://docs.aws.amazon.com/AWSEC2/latest/APIRefe
 
 | VPS Software       | Time from payment |
 |:-------------|:------------------|
-| Amazon Linux 2023           | You'll receive your server credentials in 5 mins  |
+| DirectAdmin           | After 40 mins you'll receive your DirectAdmin credentials |
 | cPanel/WHM | 30-40 minutes installation time. The new server sends cPanel Admin username and password after install completes. |
-| Plesk        | After 20 mins you'll receive the Plesk one-time link sent to your account email by the server |
+| Plesk        | After 40 mins you'll receive the Plesk one-time link sent to your account email by the server |
 
 <span class="red">Contact HostJane immediately if you have not received your cPanel admin username and password or Plesk one-time activation link after 1 hour from purchase.</span>
 {: .fs-6 .fw-300 }
 
 ## What software can I use to manage my VPS?
 
-HostJane offers managed [cPanel / WHM VPS](https://cloud.hostjane.com/vps/?appType=0&app=0) and [Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=1) on bare-metal EC2 instances, provisioned with 14-Day trial licenses, and managed [Amazon Linux 2023](https://cloud.hostjane.com/vps/?appType=0&app=2) with enabled [PHP-FPM](https://www.plesk.com/blog/various/php-fpm-the-future-of-php-handling/) on bare-metal EC2 instances.
+HostJane offers managed [cPanel / WHM VPS](https://cloud.hostjane.com/vps/?appType=0&app=0) and [Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=2) on bare-metal EC2 instances, provisioned with 14-Day trial licenses, and managed [DirectAdmin](https://cloud.hostjane.com/vps/?appType=0&app=1) on bare-metal EC2 instances.
 {: .fs-6 .fw-300 }
 
 <span class="yellow">After the 14-Day trial period, you will need to buy a license from cPanel or Plesk.</span>

@@ -10,7 +10,7 @@ permalink: /vps-hosting-tutorials/plesk/
 # Plesk VPS on EC2 ![](/assets/wave.svg)
 {: .fs-9 .no_toc }
 
-[Buy your Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Plesk documentation](https://support.plesk.com/hc/en-us){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Buy your Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Plesk documentation](https://support.plesk.com/hc/en-us){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 It's fast and easy to get your full-managed VPS Plesk server up and running on Amazon EC2, we even set up your SSL certificate free. 
 {: .fs-6 .fw-300 }
@@ -18,7 +18,7 @@ It's fast and easy to get your full-managed VPS Plesk server up and running on A
 All you need to do is [point your domain](point-your-domain/) to the server.
 {: .fs-6 .fw-300 }
 
-<span class="blue">NB: Plesk can take up to 20-30 mins to install on any server, so allow time for the server to send you the Admin password after purchase. Unlike our other services, it is not instant.</span>
+<span class="blue">NB: Plesk can take up to 40 mins to install on any server, so allow time for the server to send you the Admin password after purchase.</span>
 {: .fs-6 .fw-300 }
 
 ![](/assets/plesk-screenshot.png)

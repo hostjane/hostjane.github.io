@@ -17,6 +17,7 @@ Improve your web offerings by moving your digital agency, ecommerce store, or on
 
 [Managed AWS EC2 Plans](https://cloud.hostjane.com/vps/?appType=0&app=0){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unmanaged Amazon EC2 pricing](https://aws.amazon.com/ec2/pricing/on-demand/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+- [x] Managed [WordPress](/wordpress-hosting/) incl. WooCommerce and configured plugin servers
 - [x] Managed [Laravel](/cloud-hosting/laravel/) on EC2 servers
 - [x] Managed [LAMP](/cloud-hosting/lamp-php/) with PHP-FPM packaged on EC2 servers
 - [x] Managed [Jupyter Notebook](/cloud-hosting/jupyter-notebook/) on EC2 servers
