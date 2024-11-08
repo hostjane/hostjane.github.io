@@ -56,7 +56,7 @@ Please [contact us](https://www.hostjane.com/marketplace/contact) if you have an
 {: .no_toc }
 
 - [x] **Service Cost**: You set this price to cover the cost of your Work. It should include your 95% seller percentage and the 5% Marketplace Fee that HostJane bills per order.
-- [x] **Handling Fee**: The $1.99 non-refundable fee that Buyers pay HostJane irregardless of the total price of the transaction to support site running costs.
+- [x] **Handling Fee**: The $3.49 non-refundable fee that Buyers pay HostJane irregardless of the total price of the transaction to support site running costs.
 {: .fs-6 .fw-300 }
 
 # Base Price does not include:
@@ -97,7 +97,7 @@ In this example, a Seller prices their Service at $100 using the listing calcula
 <span class="purple">On $100, a Buyer pays $101.99 + card fees</span>
 {: .fs-6 .fw-300 }
 
-- [x] The **Handling fee** is a non-refundable charge of $1.99 to help cover site costs
+- [x] The **Handling fee** is a non-refundable charge of $3.49 to help cover site costs
 - [x] Buyer will pay $101.99 for the Service Cost, the Handling Fee and any card fees
 {: .fs-6 .fw-300 }
 

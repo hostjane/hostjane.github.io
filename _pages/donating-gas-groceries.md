@@ -55,16 +55,16 @@ You can send up to $90,000 in one transaction.
 
 ## What are the fees to send $10?
 
-<span class="blue">There is a 5.5% fee plus a $1.99 handling fee per donation.<span>
+<span class="blue">There is a 5.5% fee plus a $3.49 handling fee per donation.<span>
 
 Example: Jane is a visitor. She wants to do Ian, a Freelancer with a public business profile on HostJane, an <a href="https://www.hostjane.com/legal/marketplace-terms/">Act of Kindness</a> by donating toward his grocery living costs. This is for the charitable purpose to assist his mental health well-being and recognize his human value. Ian pays no fees, and will receive the full $10 within 48 hours.
 
 | Breakdown       | Janes Pays       | Ian Receives |
 |:-------------|:------------------|:------|
 | Donation           | $10 | Groceries  |
-| Handling fee | $1.99   | $0  |
+| Handling fee | $3.49   | $0  |
 | Credit card fee (5.5%)           | $0.55      | $0  |
-| Totals           | $12.54 | $10  |
+| Totals           | $14.04 | $10  |
 
 ## How long does it take for the User to get my donation?
 

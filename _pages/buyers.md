@@ -172,7 +172,7 @@ Handling fees are not payable on tips.
 
 # Card fees
 
-<span class="green">Payments for listings, bookings and lessons, custom orders, and tips, attract a 4% card processing fee.</span>
+<span class="green">Payments for listings, bookings and lessons, custom orders, and tips, attract a 5.5% card processing fee.</span>
 
 <span class="blue">Donations attract a 5.5% card processing fee.</span>
 
@@ -180,7 +180,7 @@ Handling fees are not payable on tips.
 
 The Handling Fee is a non-refundable administrative and management fee paid by all Buyers when ordering any Seller's listing or custom order when Buyer places funds on hold with Site.
 
-<span class="green">The current fee is $1.99 (USD) per order.</span>
+<span class="green">The current fee is $3.49 (USD) per order.</span>
 
 Handling Fees are not charged on Tips.
 

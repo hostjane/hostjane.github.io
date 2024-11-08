@@ -97,7 +97,7 @@ The following are controlled by each Seller who are independent third-parties to
 
 The Seller will receive exactly $95 ($100 - $5 = $95).
 
-With the Handling Fee of $1.99, the Buyer will pay $101.99 to start the order. 
+With the Handling Fee of $3.49, the Buyer will pay $101.99 to start the order. 
 
 HostJane holds the funds until the Seller delivers the order on time and to the Buyer's satisfaction.
 		
@@ -105,12 +105,12 @@ HostJane holds the funds until the Seller delivers the order on time and to the 
 | Breakdown       | Seller Earns          | Buyer Pays |
 |:-------------|:------------------|:------|
 | Listing price           | Free Setup + Use | $100  |
-| Handling fee | $0   | $1.99  |
-| Card fees           | $0      | (4%) $4   |
+| Handling fee | $0   | $3.49  |
+| Card fees           | $0      | (5.5%) $5.5   |
 | License           | $0 | Buyer Owns Rights ($0)  |
 | Marketplace Fee | 5% ($5)   | $0  |
 | Delivery fee         | $0     | $0   |
-| Totals           | $95 | $105.99  |
+| Totals           | $95 | $108.99  |
 
 <span class="red">To protect against fraud, HostJane has a 5-day waiting period before Seller can withdraw their 95% net earnings to their bank.</span>
 

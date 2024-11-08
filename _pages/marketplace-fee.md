@@ -41,12 +41,12 @@ Example: Alison is a PHP developer. Her listing offers a bug fixing service for 
 | Breakdown       | Alison Earns       | Bill Pays |
 |:-------------|:------------------|:------|
 | Listing price           | Free Setup + Use | $100  |
-| Handling fee | $0   | $1.99  |
-| Card fees        | $0      | (4%) $4   |
+| Handling fee | $0   | $3.49  |
+| Card fees        | $0      | (5.5%) $5.5   |
 | License           | $0 | Buyer Owns Rights ($0)  |
 | Marketplace Fee | 5% ($5)   | $0  |
 | Delivery fee         | $0     | $0   |
-| Totals           | $95 | $105.99  |
+| Totals           | $95 | $108.99  |
 
 ## Sellers have full control of their independent business
 

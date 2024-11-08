@@ -54,9 +54,9 @@ Example: Jody is a freelancer with a public business profile on HostJane. An ano
 | Breakdown       | Jody Receives       | Anon Pays |
 |:-------------|:------------------|:------|
 | Donation           | Gas or groceries | $20  |
-| Handling fee | $0   | $1.99  |
+| Handling fee | $0   | $3.49  |
 | Card fee           | $0      | (5.5%) $1.1  |
-| Totals           | $20 | $23.09  |
+| Totals           | $20 | $24.59  |
 
 ## How long does it take to get my donation?
 
