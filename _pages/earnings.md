@@ -94,11 +94,11 @@ In this example, a Seller prices their Service at $100 using the listing calcula
 - [x] = $95 USD
 {: .fs-6 .fw-300 }
 
-<span class="purple">On $100, a Buyer pays $101.99 + card fees</span>
+<span class="purple">On $100, a Buyer pays $103.49 + card fees</span>
 {: .fs-6 .fw-300 }
 
 - [x] The **Handling fee** is a non-refundable charge of $3.49 to help cover site costs
-- [x] Buyer will pay $101.99 for the Service Cost, the Handling Fee and any card fees
+- [x] Buyer will pay $103.49 for the Service Cost, the Handling Fee and any card fees
 {: .fs-6 .fw-300 }
 
 # On $100, the Seller earned $95 USD

@@ -123,7 +123,7 @@ Open a support case for help with the following types of issue:
 - [x] Server infrastructure issues
 - [x] SSL issues related to your free, auto-renewing SSL certificate provided with the server
 - [x] Server up-time issues
-- [x] Moving your website to Amazon for a standard paid fee of $149.99
+- [x] Moving your website to Amazon Web Services for a standard fee of $149.99
 - [x] DNS issues at server level
 - [x] Updates and patches
 - [x] System critical functions
