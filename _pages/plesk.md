@@ -18,7 +18,7 @@ It's fast and easy to get your full-managed VPS Plesk server up and running on A
 All you need to do is [point your domain](point-your-domain/) to the server.
 {: .fs-6 .fw-300 }
 
-<span class="blue">NB: Plesk can take up to 40 mins to install on any server, so allow time for the server to send you the Admin password after purchase.</span>
+<span class="blue">NB: Plesk can take up to 50 mins to install on any server, so allow time for the server to send you the Admin password after purchase.</span>
 {: .fs-6 .fw-300 }
 
 ![](/assets/plesk-screenshot.png)

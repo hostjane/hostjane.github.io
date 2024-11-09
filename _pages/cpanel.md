@@ -18,7 +18,7 @@ It's fast and easy to get your full-managed VPS cPanel & WHM server up and runni
 All you need to do is [point your domain](point-your-domain/) to the server.
 {: .fs-6 .fw-300 }
 
-<span class="purple">NB: cPanel can take up to 30-40 minutes to install on any server, so allow time for the server to send you the Admin password after purchase. Unlike our other services, it is not instant.</span>
+<span class="purple">NB: cPanel can take up to 50 minutes to install on any server, so allow time for the server to send you the Admin password after purchase. Unlike our other services, it is not instant.</span>
 {: .fs-6 .fw-300 }
 
 <span class="blue">cPanel & WHM is licensed with an initial 2-week free trial license. You'll need to purchase a month license from cPanel directly to continue using cPanel on your Amazon EC2 server after the free trial expires.</span>
@@ -28,7 +28,7 @@ All you need to do is [point your domain](point-your-domain/) to the server.
 |:-------------|:------------------|
 |   ![](/assets/one.svg)           | After purchase, login to the client area to see your **root password and IP address**. Amazon assigns a static IP address immediately, but your VPS will not be active until cPanel has finished installing. | Instant |
 
-|   ![](/assets/two.svg)           | Wait 30 mins after purchase for your server to install cPanel and send your **cPanel Administrator username and password** to your email.| 30 - 40 mins |
+|   ![](/assets/two.svg)           | Wait 50 mins after purchase for your server to install cPanel and send your **cPanel Administrator username and password** to your email. | 50 mins |
 | ![](/assets/three.svg)  | Change your Administrator password  | 2 mins |
 
 | ![](/assets/four.svg) | [Point your domain](/point-your-domain/) to your hosting. Propagation usually takes less than 1 min with Amazon Route 53 but can take much longer depending on your domain registrar.  | 1 min |

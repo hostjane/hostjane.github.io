@@ -24,7 +24,7 @@ HostJane provides a free auto-renewing, SSL certificate matched to the domain or
 |:-------------|:------------------|
 |   ![](/assets/one.svg)          | Enter your [DirectAdmin license key](https://www.directadmin.com/pricing.php) in the [DirectAdmin VPS](https://cloud.hostjane.com/vps/?appType=0&app=1) checkout. Buy a new key from DirectAdmin if you do not own one. | 5 mins |
 
-|   ![](/assets/two.svg)          | After purchase, login to the client area to see your **root password and IP address**. Amazon assigns a static IP address immediately, but your VPS will not be active until DirectAdmin has finished installing. | Instant |
+|   ![](/assets/two.svg)          | After purchase, login to the client area to see your **root password and IP address**. Amazon assigns a static IP address immediately, but your VPS will not be active until DirectAdmin has finished installing. | 40 mins |
 
 | ![](/assets/three.svg)  | [Point your domain](/point-your-domain/) to your hosting. DirectAdmin requires 2 A-Records to be added at your domain registrar: "@" and "Server" in the hostname fields respectively.  | 1 min |
 

@@ -82,8 +82,8 @@ HostJane uses [Amazon EC2 API](https://docs.aws.amazon.com/AWSEC2/latest/APIRefe
 | VPS Software       | Time from payment |
 |:-------------|:------------------|
 | DirectAdmin           | After 40 mins you'll receive your DirectAdmin credentials |
-| cPanel/WHM | 30-40 minutes installation time. The new server sends cPanel Admin username and password after install completes. |
-| Plesk        | After 40 mins you'll receive the Plesk one-time link sent to your account email by the server |
+| cPanel/WHM | 50 minutes installation time. The new server sends cPanel Admin username and password after install completes. |
+| Plesk        | After 50 mins you'll receive the Plesk one-time link sent to your account email by the server |
 
 <span class="red">Contact HostJane immediately if you have not received your cPanel admin username and password or Plesk one-time activation link after 1 hour from purchase.</span>
 {: .fs-6 .fw-300 }
