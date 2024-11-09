@@ -42,7 +42,7 @@ If you have verified the IP address and your keys are correct, and you have not 
 
 ## How do I access phpMyAdmin on my server?
 
-We use Bitnami packages which pre-installs phpMyAdmin on most AWS EC2 instances including WordPress servers, at the URL, [{your_server_IP}/phpmyadmin]({your_server_IP}/phpmyadmin)
+We use Bitnami packages which pre-installs phpMyAdmin on most AWS EC2 instances including WordPress servers, at the URL, [{your_server_IP}/phpmyadmin](https://{your_server_IP}/phpmyadmin)
 {: .fs-6 .fw-300 }
 
 <span class="green">For security reasons, this URL is only accessible using localhost (127.0.0.1) as the hostname.</span>
