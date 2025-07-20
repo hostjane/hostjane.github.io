@@ -12,7 +12,7 @@ permalink: /vps-hosting-tutorials/plesk/
 
 [Buy your Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Plesk documentation](https://support.plesk.com/hc/en-us){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-It's fast and easy to get your full-managed VPS Plesk server up and running on Amazon EC2, we even set up your SSL certificate free. 
+It's fast and easy to get your full-managed VPS Plesk server up and running on Amazon EC2, we even set up your SSL certificate free.
 {: .fs-6 .fw-300 }
 
 All you need to do is [point your domain](point-your-domain/) to the server.
@@ -23,7 +23,7 @@ All you need to do is [point your domain](point-your-domain/) to the server.
 
 ![](/assets/plesk-screenshot.png)
 
-<span class="orange">Plesk is licensed with an initial 14-day free trial license. You'll need to purchase a month license from Plesk directly to continue using Plesk on your Amazon EC2 server after the free trial expires.</span>
+<span class="orange">Plesk now requires users to own an existing license key or [purchase a new license from Plesk directly](https://www.plesk.com/pricing/) per server.</span>
 {: .fs-6 .fw-300 }
 
 | Steps       | Actions required    | Time |

@@ -90,10 +90,10 @@ HostJane uses [Amazon EC2 API](https://docs.aws.amazon.com/AWSEC2/latest/APIRefe
 
 ## What software can I use to manage my VPS?
 
-HostJane offers managed [cPanel / WHM VPS](https://cloud.hostjane.com/vps/?appType=0&app=0) and [Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=2) on bare-metal EC2 instances, provisioned with 14-Day trial licenses, and managed [DirectAdmin](https://cloud.hostjane.com/vps/?appType=0&app=1) on bare-metal EC2 instances.
+HostJane offers managed [cPanel / WHM VPS](https://cloud.hostjane.com/vps/?appType=0&app=0) and [Plesk VPS](https://cloud.hostjane.com/vps/?appType=0&app=2) on bare-metal EC2 instances, and managed [DirectAdmin](https://cloud.hostjane.com/vps/?appType=0&app=1) on bare-metal EC2 instances. cPanel/WHM is provisioned with a 14-Day trial license.
 {: .fs-6 .fw-300 }
 
-<span class="yellow">After the 14-Day trial period, you will need to buy a license from cPanel or Plesk.</span>
+<span class="yellow">After the 14-Day trial period, you will need to buy a license from cPanel. Plesk and DirectAdmin require existing license keys.</span>
 
 [cPanel License Pricing](https://cpanel.net/pricing/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Plesk License pricing](hhttps://www.plesk.com/pricing/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
