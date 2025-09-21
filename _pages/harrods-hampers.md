@@ -53,9 +53,9 @@ You can send up to $90,000 in one transaction.
 
 ## What are the fees to deliver a Harrods Hamper?
 
-<span class="blue">There is a 5.5% fee plus a $3.49 handling fee per gift box.<span>
+<span class="blue">There is a 5.5% fee plus a $3.49 handling fee per gift box. To ensure a seamless shopping experience, duties and taxes are included in the product price wherever possible.<span>
 
-Example: Jane is a visitor. She wants to gift Ian, a Freelancer with a public business profile on HostJane, a customizable <a href="https://www.hostjane.com/legal/marketplace-terms/">Harrods Food Hall Hamper</a> toward his grocery living costs. This special thank you will assist his mental health well-being and recognize his human value. Ian opts to receive a direct credit. Jody pays no fees, receives $10 within 48 hours to buy the item from Harrods herself.
+Example: Jane is a visitor. She wants to gift Ian, a Freelancer with a public business profile on HostJane, a customizable <a href="https://www.hostjane.com/legal/marketplace-terms/">Harrods Food Hall Hamper</a> toward his grocery living costs. This special thank you will assist his mental health well-being and recognize his human value. Ian opts to receive a direct credit. Ian pays no fees, receives $10 within 48 hours to buy the item from Harrods himself.
 
 | Breakdown       | Janes Pays       | Ian Receives |
 |:-------------|:------------------|:------|
