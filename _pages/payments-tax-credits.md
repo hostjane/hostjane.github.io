@@ -26,7 +26,7 @@ permalink: /sellers/payments-tax-credits/
 
 ## How fast does HostJane payout?
 
-<span class="blue">Charitable donations for living costs are paid in 48 hours to your nominated [payout method](/sellers/payments-tax-credits/#supported-payout-methods).</span>
+<span class="blue">Direct credits for Harrods Hampers are 100% credited in 48 hours to your HostJane Balance to buy the item from Harrods directly. View your [payout method](/sellers/payments-tax-credits/#supported-payout-methods).</span>
 
 <span class="green">To meet our anti-fraud obligations, HostJane holds other marketplace payments for Services for up to 5 days after each order is completed pending Buyer approval and compulsory feedback.</span>
 

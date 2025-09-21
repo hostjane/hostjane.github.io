@@ -174,7 +174,7 @@ Handling fees are not payable on tips.
 
 <span class="green">Payments for listings, bookings and lessons, custom orders, and tips, attract a 5.5% card processing fee.</span>
 
-<span class="blue">Donations attract a 5.5% card processing fee.</span>
+<span class="blue">Harrods Hampers attract a 5.5% card processing fee.</span>
 
 # What is the Handling Fee?
 

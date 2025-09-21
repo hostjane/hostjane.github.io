@@ -15,7 +15,7 @@ permalink: /sellers/marketplace-fee/
 
 <span class="green">Sellers earn 95% of their listing price in each sale or tip. There are no setup, subscription, hidden or any other fees to sell.<span>
 
-<span class="yellow">There are no fees charged to Sellers on donations which are paid out at 100% within 48 hours to Seller's nominated payout method</span>
+<span class="yellow">There are no fees charged to Sellers on Harrods Hampers which are credits at 100% within 48 hours to Sellers HostJane Balance to buy the item from Harrods directly.</span>
 
 <span class="purple">We strive to be a safe, secure environment which protects both sellers and buyers.
 
@@ -25,7 +25,6 @@ permalink: /sellers/marketplace-fee/
 
 To operate our platform and provide marketing, hosting and payment services to Buyers and Sellers, we charge a Marketplace Fee on finalized sales of Services after Buyer approval, and on tips.
 
-- [x] Do not apply to donations for gas and groceries
 - [x] 5% on the Service Cost of Listings (Regular and Online Lessons)
 - [x] 5% on Service Cost of Custom Orders
 - [x] 5% on Tips.

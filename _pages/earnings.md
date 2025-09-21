@@ -10,7 +10,7 @@ permalink: /sellers/earnings/
 How Earnings Work ![](/assets/wave.svg)
 {: .fs-9 .no_toc }
 
-<span class="green">HostJane Sellers earn 95% on their Listings, Online Lessons, Custom Offers, and Tips. The total price of each Service is set and controlled by each Seller. Living cost donations are paid out at 100%.</span>
+<span class="green">HostJane Sellers earn 95% on their Listings, Online Lessons, Custom Offers, and Tips. The total price of each Service is set and controlled by each Seller. Direct credits for Harrods Hampers for Sellers to buy the item from Harrods directly are paid out at 100%.</span>
 {: .fs-6 .fw-300 }
 
 <span class="blue">HostJane uses a 5% Marketplace Fee to cover overheads.</span>
