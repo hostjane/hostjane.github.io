@@ -53,11 +53,11 @@ For multiple reasons, HostJane cannot ship Harrods Hampers to every single freel
 
 Sellers have the ability to opt to receive the physical Harrods Hamper sent to their physical address on record, where HostJane receives the gift funds, buys the item from Harrods for shipment to the Seller's address provided in Settings, or to buy the Harrods Hamper themselves.
 
-<span class="green">In these instances the Seller or Freelancer will receive the funds directly once a gift is bought, added to their HostJane Balance. The Seller can then withdraw the balance to a withdrawal method of their choice and use the funds to purchase the Harrods Hamper for themselves with these funds after an expedited fourty-eight (48) hour clearance period. You can withdraw your balance [here](https://www.hostjane.com/marketplace/settings/payouts)!<span>
+<span class="green">In these instances the Seller or Freelancer will receive the gift funds directly once a gift is bought, added to their HostJane Balance. The Seller can then withdraw the balance to a withdrawal method of their choice and use the credit to purchase the Harrods Hamper for themselves after an expedited fourty-eight (48) hour clearance period. You can withdraw your balance [here](https://www.hostjane.com/marketplace/settings/payouts)!<span>
 
-Tere are no fees for receiving Harrods Hamper gifts.
+There are no fees for receiving Harrods Hamper gifts.
 
-Example: Jody is a freelancer with a public business profile on HostJane. An anonymous User gifts her a customizable <a href="https://www.hostjane.com/legal/marketplace-terms/">Harrods Food Hall Hamper</a> for $20. Jody opts to receive a direct credit. Jody pays no fees, receives $20 within 48 hours to buy the item from Harrods herself.
+Example: Jody is a Freelancer with a public business profile on HostJane. An anonymous User gifts her a customizable <a href="https://www.hostjane.com/legal/marketplace-terms/">Harrods Food Hall Hamper</a> for $20. Jody opts to receive a direct credit. Jody pays no fees, receives $20 within 48 hours to buy the item from Harrods herself.
 
 | Breakdown       | Jody Receives       | Anon Pays |
 |:-------------|:------------------|:------|
