@@ -25,12 +25,13 @@ We have a few helpful Do's and Don'ts to make the selling process organized and 
 
 ### Don't use any content in your listings that include:
 
-* ANYTHING related to a legal minor under the age of 18 years.
-* Post or sell anything against applicable U.S. laws and regulations
-* Promises of anything you can't deliver.
-* Post or sell anything against applicable U.S. laws and regulations
-* Post material you do not own the copyright for, unless you have permission, a model release or a use license from the copyright holder.
-* Post anything that a U.S. court would consider defamation.
-* POST MATERIAL PROMOTING ABUSE / HATE / VIOLENCE / TARGETING / DISCRIMINATION: Hate Speech; Any content or Service that a. engages in, encourages, promotes or celebrates unlawful violence or physical harm to persons or property, b. Doxxing or trolling; or C. engages in, encourages, promotes or celebrates unlawful violence toward any group based on race, religion, disability, gender, sexual orientation, national origin, or any other immutable characteristic.
+* ANYTHING related to a legal minor under the age of 18 years;
+* Post or sell anything against applicable U.S. laws and regulations;
+* Promises of anything you can't deliver;
+* Post or sell anything against applicable U.S. laws and regulations;
+* Post material you do not own the copyright for, unless you have permission, a model release or a use license from the copyright holder;
+* Post anything that a U.S. court would consider defamation;
+* POST MATERIAL PROMOTING ABUSE / HATE / VIOLENCE / TARGETING / DISCRIMINATION;
+* Hate Speech; Any content or Service that: A. engages in, encourages, promotes or celebrates unlawful violence or physical harm to persons or property, B. Doxxing or trolling; or C. engages in, encourages, promotes or celebrates unlawful violence toward any group based on race, religion, disability, gender, sexual orientation, national origin, or any other immutable characteristic.
 
 <span class="purple">Your account can be suspended or terminated if you engage in activities that are against HostJane's [Acceptable Use Policy (AUP)](https://www.hostjane.com/legal/use-policy/).</span>
