@@ -23,7 +23,7 @@ We have a few helpful Do's and Don'ts to make the selling process organized and 
 * Do reach out and ask for help if you need assistance. We are here to help.
 * Do post your sales figures or screenshots from your balance to social media to share your success with the world
 
-### Don't use any content in your listings that include:
+### Don't use any content in your listings that includes:
 
 * ANYTHING related to a legal minor under the age of 18 years;
 * Anything against applicable U.S. laws and regulations;
